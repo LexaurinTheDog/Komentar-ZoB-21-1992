@@ -134,6 +134,11 @@
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Odo 460/2001](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B5077B77258C12E2C1257A4E0067C005?openDocument) — 10. 9. 2002, kat. A
+  > „Rozhodnutí, kterým správce v působnosti valné hromady provádí rozhodnutí České národní banky o snížení základního jmění, lze přezkoumat podle § 183 obch. zák"
+
 #### Obecná charakteristika § 26 a jeho místo v systému dohledu
 
 Ustanovení § 26 je **ústředním nástrojem dohledové intervence** ČNB vůči bankám a dalším osobám podléhajícím jejímu dohledu. Tvoří jádro implementace čl. 104 CRD IV (směrnice 2013/36/EU), jenž ukládá členským státům poskytnout příslušným orgánům alespoň tento minimální katalog nápravných pravomocí. Zákon v duchu CRD jde nad rámec minima a přidává specifické nástroje pro interní modely (odst. 3), úrokové riziko investičního portfolia (odst. 4) a opatření vůči osobám nepodléhajícím přímému dohledu (odst. 6).

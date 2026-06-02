@@ -336,7 +336,6 @@ Odst. 6 rozšiřuje okruh subjektů povinných poskytovat informace ČNB nad rá
 
 Odst. 7 vymezuje **kontrolní oprávnění ČNB** enumerativně: předložení dokladů, přístup ke knihám a záznamům, ústní a písemná vysvětlení. Ústní vysvětlení od třetích osob (nespadajících do odst. 6) je podmíněno jejich souhlasem (odst. 7 písm. d)) — odráží zásadu dobrovolnosti pro subjekty stojící mimo skupinu.
 
-
 ---
 
 ### § 25a — Povinnost mlčenlivosti a výjimky
@@ -666,7 +665,6 @@ Podmínka v odst. 2 — aby plán ČNB **nebránil orgánu dohledu jiného člen
 Odst. 4 vymezuje **katalog opatření** navazujících na SREP — od zvýšeného počtu kontrol (písm. a)) a trvalé přítomnosti zástupce ČNB v bance (písm. b)) přes zvýšené reportingové požadavky (písm. c)) až po uložení kapitálových (písm. f)) a likviditních požadavků (písm. g)). Opatření pod písm. h) odkazují na katalog opatření k nápravě dle § 26 odst. 2 — a tím propojují § 25e s úpravou opatření k nápravě v části sedmé (viz [08-cast7-opatreni-k-naprave.md](08-cast7-opatreni-k-naprave.md)).
 
 Odst. 5 zakotvuje povinnost ČNB reagovat na selhání interního modelu pro tržní riziko (negativní výsledky back-testingu nebo P&L attribution testu) — buď uložit okamžité zlepšení modelu, nebo přezkoumat podmínky schválení modelu.
-
 
 ---
 
