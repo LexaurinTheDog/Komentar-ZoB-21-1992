@@ -415,6 +415,11 @@ Zkrácená lhůta 7 pracovních dnů je transpozicí aktualizovaného požadavku
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [II.ÚS 349/04](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-349-04) — usnesení, 5. 10. 2004
+  > „Legitimní očekávání náhrady za vklad z titulu pojištění pohledávek z vkladů proto odpovídá maximální hranici stanovené zákonem, tedy ustanovením § 41e odst. 2 zákona o bankách; ta byla ostatně určena provedením sekundárního pramene komunitárního práva jednotně pro všechny členské, resp. přidružené státy Evropské unie bez ohledu na ekonomická měřítka v jednotlivých zemích. Tato zákonná hranice by měla být korektivem ekonomického jednání (potenciálních) majitelů účtů, jež by mělo odpovídat míře rizika, které je spojeno s objemem finančních prostředků vložených na účtu u jedné banky"
+
 #### Základní limit 100 000 EUR (odst. 2)
 
 Zákonný **limit 100 000 EUR na osobu na banku** je přímou transpozicí čl. 6 odst. 1 DGSD 2014/49/EU. Limit se uplatňuje u každé banky zvlášť — vkladatel, který má vklady u dvou různých bank, je chráněn až do 100 000 EUR u každé z nich. Naopak vklady u více poboček téže banky se agregují.
@@ -480,6 +485,11 @@ Pokud banka provozuje pobočku v jiném členském státě dle § 5c odst. 1 (je
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [II.ÚS 349/04](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-349-04) — usnesení, 5. 10. 2004
+  > „Legitimní očekávání náhrady za vklad z titulu pojištění pohledávek z vkladů proto odpovídá maximální hranici stanovené zákonem, tedy ustanovením § 41e odst. 2 zákona o bankách; ta byla ostatně určena provedením sekundárního pramene komunitárního práva jednotně pro všechny členské, resp. přidružené státy Evropské unie bez ohledu na ekonomická měřítka v jednotlivých zemích. Tato zákonná hranice by měla být korektivem ekonomického jednání (potenciálních) majitelů účtů, jež by mělo odpovídat míře rizika, které je spojeno s objemem finančních prostředků vložených na účtu u jedné banky"
+
 #### Taxativní výčet životních událostí
 
 § 41ea taxativně vymezuje **deset životních událostí** zakládajících nárok na zvýšenou náhradu. Jde o situace, v nichž fyzická osoba dočasně drží na bankovním účtu jednorázově přijatou větší částku, aniž ji mohla okamžitě reinvestovat nebo rozdělit mezi více bank:
@@ -522,6 +532,11 @@ Speciální pravidlo pro notářskou a advokátní úschovu (odst. 3) respektuje
 > *(6) Nesplnění povinnosti stanovené v odstavci 3 oznámí Garanční systém neprodleně České národní bance.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [II.ÚS 349/04](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-349-04) — usnesení, 5. 10. 2004
+  > „Legitimní očekávání náhrady za vklad z titulu pojištění pohledávek z vkladů proto odpovídá maximální hranici stanovené zákonem, tedy ustanovením § 41e odst. 2 zákona o bankách; ta byla ostatně určena provedením sekundárního pramene komunitárního práva jednotně pro všechny členské, resp. přidružené státy Evropské unie bez ohledu na ekonomická měřítka v jednotlivých zemích. Tato zákonná hranice by měla být korektivem ekonomického jednání (potenciálních) majitelů účtů, jež by mělo odpovídat míře rizika, které je spojeno s objemem finančních prostředků vložených na účtu u jedné banky"
 
 #### Procesní postup pro zvýšenou náhradu
 

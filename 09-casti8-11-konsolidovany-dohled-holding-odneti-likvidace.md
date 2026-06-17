@@ -752,6 +752,11 @@ Zvláštní úprava pro **smíšené finanční holdingové osoby** (odst. 5–6
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [10 A 190/2016 - 129](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/457404) — 29. 6. 2018
+  > „Jakkoli odnětí bankovní licence může být vnímáno ze strany postiženého subjektu velmi tíživě, fakticky jako „trest“ (zákaz činnosti), jeho účelem není primárně potrestat banku za prokázané provinění, nýbrž ochrana veřejného zájmu spočívajícího v tom, aby na bankovním trhu nepůsobily subjekty, které pro to nesplňují právními předpisy vymezené požadavky. Rozhodnutí o odnětí bankovní licence je tedy především ochranným opatřením správního orgánu před činností banky, jež by – v případě dalšího pokračování – mohla mít negativní dopady do chráněných zájmů třetích osob (zejména vkladatelů)"
+
 #### Systematika důvodů odnětí licence — povinné vs. fakultativní
 
 Zákon rozlišuje tři skupiny:

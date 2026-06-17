@@ -531,6 +531,11 @@ Pro úvěrové obchody se spřízněnými osobami zákon vyžaduje **individuál
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [IV.ÚS 3878/12](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-3878-12_1) — usnesení, 14. 3. 2013
+  > „Jestliže tedy ČNB vyplatila vklady nad rámec své zákonné povinnosti klientům Realitbanky, avšak z poskytnutí tohoto beneficia vyloučila osoby mající k předmětné bance blízký vztah, nedopustila se nepřípustné diskriminace, neboť zvolené odlišující kritérium spočívající v tom, že tyto osoby měly vliv na chod Realitbanky, resp. byly obeznámeny se situací v ní, má rozumné opodstatnění a je tak z ústavního hlediska akceptovatelné"
+
 #### Systematika skupin spřízněných osob
 
 Zákon vymezuje osm kategorií osob se zvláštním vztahem k bance. Výčet je taxativní — není možná analogická extenze na osoby, jež do těchto kategorií nespadají.

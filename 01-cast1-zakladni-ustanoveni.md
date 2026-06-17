@@ -226,6 +226,13 @@ Z právního hlediska tedy emitent splňující odst. 2 musí mít bankovní lic
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [7 As 51/2010 - 63](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/619196) — 15. 7. 2010
+  > „Nicméně z tohoto ustanovení lze argumentem a contrario s ohledem na racionální úmysl zákonodárce vyvodit, že slovo „banka“ nesmí být užito jinak, než v obchodní firmě právnické osoby, a to za podmínek stanovených právě § 3 odst. 1 zákona o bankách. Tedy jen právnická osoba zapsaná pod svým názvem (obchodní firma) do obchodního rejstříku, jíž byla udělena licence ve smyslu zákona o bankách, smí užít v názvu slovo „banka“ nebo „spořitelna,“ pokud ovšem není zřejmé ze souvislosti, v níž se slovo „banka“ nebo „spořitelna“ používá, že tato osoba se nezabývá činností uvedenou v § 1 odst. 1 zákona o bankách"
+- *NSS* [9 A 114/2011 - 54](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/544824) — 26. 2. 2015
+  > „Specifické postavení a povahu bank vyjadřuje dikce v ust. § 3 odst. 1 zákona č. 21/1992 Sb., o bankách, podle kterého slovo „banka" nebo „spořitelna", jeho překlady nebo slova od nich odvozená smí užívat v obchodní firmě pouze právnická osoba, které byla udělena licence … Zákon o bankách v citovaném ustanovení tedy zcela zřetelně a závazně deklaruje význam slova „banka“ a stanoví možnost užívání tohoto pojmu v obchodní firmě (tj. i v rámci podnikání) pouze pro specifické právnické osoby s bankovní licencí"
+
 #### Exkluzivita označení „banka" a „spořitelna" (odst. 1)
 
 § 3 chrání **označení „banka" a „spořitelna"** (jakož i jejich překlady a odvozeniny — „bank", „banking", „bankovní", „spořitelní" apod.) jako výlučná označení subjektů licencovaných ČNB. Smyslem je **ochrana veřejnosti před záměnou** — aby spotřebitel neočekával u nelicencovaného subjektu záruky, dohled a pojištění vkladů, jež jsou spojeny s bankovní licencí.

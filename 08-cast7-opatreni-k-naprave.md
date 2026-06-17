@@ -136,8 +136,10 @@
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 Odo 460/2001](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B5077B77258C12E2C1257A4E0067C005?openDocument) — 10. 9. 2002, kat. A
+- *NS* [29 Odo 460/2001](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B5077B77258C12E2C1257A4E0067C005?openDocument) — kat. A, 10. 9. 2002
   > „Rozhodnutí, kterým správce v působnosti valné hromady provádí rozhodnutí České národní banky o snížení základního jmění, lze přezkoumat podle § 183 obch. zák"
+- *NSS* [5 Afs 62/2011 - 120](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/628104) — 21. 6. 2013
+  > „Obdobné pak platí pro řízení o vydání rozhodnutí o zavedení nucené správy nad bankou podle § 26 odst. 1 písm. d) ve spojení s § 26 odst. 5 zákona č. 21/1992 Sb., o bankách. … zákon je umožňuje v souladu s ústavním principem proporcionality. Tyto případy jsou charakteristické „jednak svojí relativní závažností nebo naléhavostí a jednak tím, že by v nich zavedení předchozího správního řízení mohlo z objektivních důvodů nepřiměřeně ohrozit nebo narušit nějaké jiné kolidující a in concreto převažující základní právo nebo veřejný zájem, zpravidla ten, jehož ochrana se správním rozhodnutím sleduje"
 
 #### Obecná charakteristika § 26 a jeho místo v systému dohledu
 

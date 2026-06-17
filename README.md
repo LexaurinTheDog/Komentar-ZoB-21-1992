@@ -43,6 +43,10 @@ Materiál slouží odbornému a vzdělávacímu účelu. Vychází z konsolidova
 
 Původní **důvodová zpráva** k zákonu (z dobového sněmovního tisku, digitální knihovna Poslanecké sněmovny ČR) je k dispozici v souboru [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) — podklad pro historický a teleologický výklad jednotlivých ustanovení.
 
+## Judikatura
+
+Ke komentovaným ustanovením je doplněna judikatura z místních zdrojů (sp. zn., datum, odkaz na plný text a právní věta). Přehled všech citovaných rozhodnutí: [judikatura/README.md](judikatura/README.md).
+
 ## Licence
 
 Tento projekt je open source a je licencován pod licencí **Apache License 2.0** — viz soubor [LICENSE](LICENSE).
