@@ -94,6 +94,44 @@ Zákon rozlišuje:
 
 Procesní aspekty přestupkového řízení (zahájení, dokazování, druhy správních trestů, zánik odpovědnosti, lhůty) se řídí zákonem č. 250/2016 Sb., nestanoví-li zákon o bankách jinak. § 36j stanoví příslušnost ČNB jako správního orgánu prvního stupně.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Pan N., fyzická osoba bez bankovní licence, nabízí prostřednictvím vlastní webové stránky veřejnosti „spořicí program" s garantovaným úrokem 6 % p. a. Od přibližně 40 osob přijal vklady v celkovém objemu 25 mil. Kč, s nimiž disponoval na svém soukromém účtu a část použil k vlastnímu investování. ČNB obdrží podnět od poškozeného klienta. Účastníci: pan N. (obviněný z přestupku), vkladatelé (poškození), ČNB (orgán dohledu i přestupkový orgán). Důkazy: smlouvy se vkladateli, výpisy z bankovního účtu pana N., reklamní materiály, znalecké vyčíslení neoprávněného prospěchu.
+
+**2. Právní otázka.** Naplnil pan N. skutkovou podstatu přestupku podle § 36a odst. 1 písm. a) (přijetí vkladu v rozporu s § 2 odst. 1) a jakou sazbu pokuty lze uložit?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 36a odst. 1 písm. a) ZoB — přijetí vkladu fyzickou osobou v rozporu s § 2 odst. 1; sazba dle odst. 6 písm. d) (2× neoprávněný prospěch, jinak 130 mil. Kč).
+- *Související ustanovení téhož zákona:* § 2 odst. 1 (vyhrazení přijímání vkladů licencovaným bankám); § 1 odst. 2 písm. a) (definice vkladu); § 36j (příslušnost ČNB).
+- *Související předpisy:* zák. č. 250/2016 Sb. (ZOP) — subsidiární procesní úprava, § 35 a násl. (druhy správních trestů), § 37 (kritéria výměry); trestní zákoník § 251 (neoprávněné podnikání) z hlediska zásady ne bis in idem.
+- *Judikatura:* k vymezení „přijímání vkladů od veřejnosti" a k neoprávněnému poskytování bankovních služeb existuje konstantní rozhodovací praxe NSS, podle níž je rozhodující soustavnost, úplatnost a nabídka neurčitému okruhu osob; popis nosného závěru postačí (rozhodující je faktické přijímání návratných prostředků od veřejnosti, nikoli formální označení produktu).
+
+**4. Subsumpce.** Znak „vklad" — pan N. přijímal návratné peněžní prostředky se závazkem vrácení (splněno). Znak „v rozporu s § 2 odst. 1" — pan N. nemá licenci ani jiné zákonné oprávnění (splněno). Subjekt „fyzická osoba" (splněno). Sporné může být vyčíslení neoprávněného prospěchu — pokud jej nelze spolehlivě zjistit, nastupuje subsidiární hranice 130 mil. Kč; spornou otázkou je rovněž zavinění a forma (úmysl/nedbalost), které ZOP u fyzických osob vyžaduje.
+
+**5. Řešení.** ČNB zahájí přestupkové řízení a uloží pokutu odvozenou primárně od dvojnásobku neoprávněného prospěchu. Není-li prospěch zjistitelný (např. peníze byly rozpuštěny), uplatní se strop 130 mil. Kč. Procesní kroky: zajištění důkazů (smlouvy, výpisy), výslech poškozených, znalecké vyčíslení prospěchu. Riziko: souběh s trestním řízením pro neoprávněné podnikání (§ 251 TZ) — nutno hlídat zásadu ne bis in idem; přednost má zpravidla trestní řízení, přestupkové se pak zastaví.
+
+**6. Varianty.** (a) Pokud by pan N. pouze zprostředkovával vklady do licencované banky (jako vázaný zástupce), o přestupek dle písm. a) by nešlo. (b) Pokud by nepřijímal vklady, ale pouze poskytoval úvěry ze svého majetku jako výhradní bankovní činnost, šlo by o písm. b) (zahájení licencované činnosti bez licence), nikoli písm. a).
+
+#### G. Protiargumenty a rizika
+
+- *Produkt není „vkladem".* Obviněný může tvrdit, že šlo o půjčku/investici, nikoli vklad. Neutralizace: rozhodující je materiální znak návratnosti a přijímání od neurčitého okruhu osob; formální označení („investice", „program") nevylučuje subsumpci pod § 2 odst. 1.
+- *Nelze zjistit neoprávněný prospěch.* Obrana může cílit na nemožnost vyčíslit prospěch a tím zpochybnit sazbu. Neutralizace: zákon na tuto situaci pamatuje subsidiární hranicí 130 mil. Kč; ČNB nemusí prospěch prokazovat, použije fixní strop.
+- *Slabé místo:* u odst. 1 písm. f) (opakované neplnění) je znak opakovanosti často sporný — jediné porušení nestačí; chybí-li doklad o předchozím porušení a jeho oznámení, hrozí neunesení důkazního břemene ze strany ČNB.
+
+#### H. Praktický závěr
+
+§ 36a je nástrojem ochrany bankovního monopolu a integrity dohledu nad fyzickými osobami. V praxi dominují dvě situace: neoprávněné přijímání vkladů (vysoká sazba až 130 mil. Kč / 2× prospěch) a porušení oznamovacích povinností členů orgánů bank (§ 26b, sazba 20 mil. Kč).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Identifikuj, který odstavec § 36a dopadá (jakákoli FO vs. osoba pod dohledem vs. člen orgánu banky vs. osoba ve vedení non-EU banky).
+- [ ] U odst. 1 písm. a)/b) ověř materiální znaky vkladu/licencované činnosti (návratnost, soustavnost, neurčitý okruh osob).
+- [ ] U odst. 1 písm. f) doklad o opakovanosti a předchozím porušení.
+- [ ] Vyčísli neoprávněný prospěch; není-li zjistitelný, aplikuj strop 130 mil. Kč.
+- [ ] Prověř souběh s trestním řízením (§ 251 TZ) a zásadu ne bis in idem.
+- [ ] U členů orgánů ověř včasnost informování ČNB dle § 26b odst. 1/2.
+
+**Typicky rozhodné důkazy / podklady:** smlouvy s vkladateli, výpisy z účtů, reklamní/nabídkové materiály, znalecký posudek k prospěchu, dokumentace ČNB o předchozích porušeních a rozhodnutích, doklady o funkcích člena orgánu (u odst. 3–5).
+
 ---
 
 ### § 36b — Přestupky fyzických osob (zvláštní okruhy)
@@ -148,6 +186,43 @@ Relativně nízká sazba 1 mil. Kč pro porušení péče řádného hospodáře
 #### Garanční systém a součinnostní povinnosti (odst. 4 a 5)
 
 Odstavce 4 a 5 zajišťují funkčnost systému pojištění vkladů tím, že ukládají osobám spravujícím majetek banky v krizových situacích (likvidátor, správce, insolvenční správce) povinnost spolupracovat s Garančním systémem finančního trhu. Povinnost poskytnout údaje podle § 41d odst. 4 a 5 a § 41g odst. 5 je předpokladem pro výplatu náhrad vkladatelům; povinnost součinnosti dle § 41eb odst. 3 pak umožňuje Garančnímu systému efektivně vyplácet vklady. Sazba 2 mil. Kč reflektuje, že jde o povinnosti procesní povahy, jejichž porušení může oddálit výplatu náhrad.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Insolvenční správce úpadkové banky obdrží od Garančního systému finančního trhu žádost o poskytnutí datového souboru vkladatelů (tzv. single customer view) potřebného pro výpočet a výplatu náhrad. Správce, který je zahlcen jinou agendou, soubor neposkytne ve lhůtě a neposkytuje ani součinnost při ověřování dat. Výplata náhrad vkladatelům se tím zdrží o několik týdnů. Účastníci: insolvenční správce (obviněný), Garanční systém (dotčený orgán), vkladatelé (poškození zpožděním), ČNB (přestupkový orgán). Důkazy: žádost Garančního systému s datem, komunikace se správcem, doklad o (ne)předání souboru.
+
+**2. Právní otázka.** Dopustil se insolvenční správce přestupku podle § 36b odst. 4 (neposkytnutí údajů) a odst. 5 (neposkytnutí součinnosti) a jak se posoudí jejich vzájemný vztah?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 36b odst. 4 a 5 ZoB — povinnosti likvidátora/správce/insolvenčního správce vůči Garančnímu systému; sazba dle odst. 7 písm. b) (2 mil. Kč).
+- *Související ustanovení téhož zákona:* § 41d odst. 4 a 5, § 41g odst. 5 (poskytnutí údajů a informace o vkladech), § 41eb odst. 3 (součinnost); § 36 odst. 4 a § 39 (mlčenlivost — odst. 1 a 3); § 36j (příslušnost).
+- *Související předpisy:* insolvenční zákon (zák. č. 182/2006 Sb.) — povinnosti insolvenčního správce; zák. č. 250/2016 Sb. (ZOP); směrnice 2014/49/EU (DGSD) k lhůtám výplaty náhrad.
+- *Judikatura:* k odpovědnosti insolvenčního/likvidačního správce za řádný výkon funkce existuje ustálená civilní judikatura NS; nosný závěr — porušení povinné součinnosti vůči orgánu veřejné moci zakládá odpovědnost správce bez ohledu na jeho pracovní vytížení.
+
+**4. Subsumpce.** Subjekt „insolvenční správce" (splněno — výslovně uveden v odst. 4 i 5). Jednání: neposkytnutí údajů dle § 41d/41g (odst. 4) a neposkytnutí součinnosti dle § 41eb odst. 3 (odst. 5) — jde o dvě samostatné skutkové podstaty, které mohou být spáchány souběžně. Sazba u obou 2 mil. Kč. Sporné: zda zpoždění bylo zaviněné, či zda bránily objektivní překážky (nedostupnost dat od banky).
+
+**5. Řešení.** ČNB může uložit pokutu za každý z přestupků (odst. 4 a odst. 5) až do 2 mil. Kč, při souběhu se uplatní zásada absorpce dle ZOP. Vedle přestupkové odpovědnosti hrozí správci odpovědnost za škodu vůči vkladatelům (zpoždění výplaty) a postih v rámci insolvenčního řízení. Procesní kroky: prokázat doručení žádosti, lhůtu a nečinnost; vyloučit objektivní překážky.
+
+**6. Varianty.** (a) Pokud by správce data poskytl, ale neúplná/nesprávná, posouzení by se mohlo přiklonit k jiné skutkové podstatě nebo k nižší závažnosti. (b) Pokud by šlo nikoli o správce, ale o pracovníka banky, který vynesl chráněné údaje, aplikoval by se odst. 3 (porušení mlčenlivosti dle § 39, sazba 20 mil. Kč).
+
+#### G. Protiargumenty a rizika
+
+- *Objektivní nemožnost plnění.* Správce může namítat, že banka nepředala kompletní data a on neměl z čeho čerpat. Neutralizace: správce má povinnost data zajistit a aktivně Garančnímu systému signalizovat překážky; pasivita součinnost nevylučuje.
+- *Nízká sazba neodpovídá závažnosti.* Argument, že 2 mil. Kč je nepřiměřeně nízká vůči škodě ze zpoždění výplaty. Neutralizace: zákonodárce vědomě zvolil nízkou přestupkovou sazbu, neboť hlavní sankcí je civilní odpovědnost za škodu a postih v insolvenčním řízení.
+- *Slabé místo:* hranice mezi odst. 4 (údaje) a odst. 5 (součinnost) může být v konkrétním případě neostrá; je třeba pečlivě skutkově vymezit, které konkrétní jednání naplňuje kterou podstatu, aby nedošlo k dvojímu postihu téhož skutku.
+
+#### H. Praktický závěr
+
+§ 36b chrání tři odlišné hodnoty: bankovní tajemství (odst. 1, 3 — sazba 20 mil. Kč), řádný výkon funkce likvidátora (odst. 2 — 1 mil. Kč) a funkčnost systému pojištění vkladů (odst. 4, 5 — 2 mil. Kč). Klíčové je správné určení adresáta a odlišení od „provozního" porušení mlčenlivosti dle § 36e odst. 6 (banka jako PO).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Urči adresáta a odpovídající odstavec (osoba obeznámená s tajemstvím při likvidaci / likvidátor / pracovník banky / správce vůči Garančnímu systému / žadatel o licenci).
+- [ ] U odst. 1 a 3 odliš zdroj povinnosti mlčenlivosti (§ 36 odst. 4 vs. § 39).
+- [ ] U odst. 4/5 doklad o doručení žádosti Garančního systému, lhůtě a rozsahu (ne)poskytnutí.
+- [ ] Vylučení objektivních překážek plnění (dostupnost dat).
+- [ ] Posouzení souběhu přestupků a civilní/insolvenční odpovědnosti za škodu.
+
+**Typicky rozhodné důkazy / podklady:** žádosti a komunikace Garančního systému, datové soubory vkladatelů, doklady o předání/nepředání, jmenovací listina likvidátora/správce, smlouvy a interní akty o mlčenlivosti, žádost o licenci (u odst. 6).
 
 ---
 
@@ -239,6 +314,43 @@ Procentní sazba 10 % obratu představuje transpozici čl. 67 odst. 2 písm. i) 
 
 Odst. 3 cílí na osoby zahrnuté do konsolidačního celku dle § 26g odst. 1 (osoby v konsolidačním celku povinné poskytovat ČNB informace pro konsolidovaný dohled). Skutkové podstaty zahrnují nejen neposkytnutí informací, ale i jejich zkreslení a neposkytnutí součinnosti při kontrole. Vazba na konsolidovaný dohled viz [09-casti8-11-konsolidovany-dohled-holding-odneti-likvidace.md](09-casti8-11-konsolidovany-dohled-holding-odneti-likvidace.md).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Společnost ALFA, a. s. (právnická osoba s ročním čistým obratem cca 800 mil. Kč), získala přes řetězec účelově vytvořených dceřiných společností postupně 35% podíl na akciích tuzemské banky, aniž požádala ČNB o souhlas s nabytím kvalifikované účasti. ČNB při analýze vlastnické struktury zjistí, že koordinovaným postupem ALFA fakticky ovládla banku bez předchozího souhlasu dle § 20 odst. 3. Účastníci: ALFA, a. s. (obviněná PO), ovládané dceřiné společnosti (osoby jednající ve shodě), banka, ČNB. Důkazy: akcionářská kniha banky, smlouvy o nabytí akcií, struktura ovládání, korespondence prokazující jednání ve shodě.
+
+**2. Právní otázka.** Naplnila ALFA, a. s. skutkovou podstatu přestupku podle § 36c odst. 1 písm. d) (nabytí/zvýšení kvalifikované účasti bez souhlasu ČNB), případně písm. f) (jednání ve shodě), a podle jaké sazby se uloží pokuta právnické osobě?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 36c odst. 1 písm. d) a f) ZoB; sazba pro PO dle odst. 8 písm. f) (2× prospěch nebo 10 % individuálního obratu).
+- *Související ustanovení téhož zákona:* § 20 odst. 3 (souhlas s kvalifikovanou účastí), § 20 odst. 11 a 16 (informační povinnosti); § 17a (jednání ve shodě, povinnosti ovládající osoby); § 36i (výpočet obratu); § 36j (příslušnost).
+- *Související předpisy:* nařízení (EU) č. 575/2013 (CRR) — obezřetnostní rámec; směrnice 2013/36/EU (CRD IV) čl. 22–27 (posuzování nabytí kvalifikované účasti); zák. č. 250/2016 Sb. (ZOP); zákon o obchodních korporacích (jednání ve shodě).
+- *Judikatura:* k pojmu „jednání ve shodě" a k materiálnímu ovládnutí přes řetězec osob existuje ustálená praxe; nosný závěr — koordinovaný postup více osob k dosažení společné kontroly se posuzuje podle skutečného účelu, nikoli podle formálního rozložení podílů.
+
+**4. Subsumpce.** Subjekt „právnická osoba" (splněno). Znak „nabytí/zvýšení kvalifikované účasti, resp. ovládnutí banky" — 35% podíl s faktickou kontrolou (splněno). Znak „bez předchozího souhlasu ČNB dle § 20 odst. 3" (splněno). Při využití řetězce dceřiných společností nastupuje souběžně písm. f) (jednání ve shodě). Sazba: 2× neoprávněný prospěch; není-li zjistitelný, 10 % obratu, tj. až cca 80 mil. Kč. Sporné: vyčíslení prospěchu a prokázání koordinace (jednání ve shodě).
+
+**5. Řešení.** ČNB zahájí přestupkové řízení, uloží pokutu odvozenou primárně od 2× prospěchu; není-li prospěch zjistitelný, použije 10 % individuálního obratu ALFA (cca 80 mil. Kč). Souběžně ČNB může uplatnit dohledová opatření (pozastavení výkonu hlasovacích práv z neoprávněně nabyté účasti dle příslušných ustanovení). Procesní kroky: rekonstrukce vlastnické struktury, prokázání jednání ve shodě, vyčíslení prospěchu.
+
+**6. Varianty.** (a) Pokud by ALFA byla osobou ovládanou jinou mateřskou společností, sazba 10 % obratu by se počítala z konsolidované závěrky ovládající osoby (odst. 8 písm. g)). (b) Pokud by přestupek spáchala podnikající fyzická osoba, uplatnil by se strop 130 mil. Kč (odst. 8 písm. e)), nikoli procentní obratová sazba.
+
+#### G. Protiargumenty a rizika
+
+- *Neexistuje jednání ve shodě.* Obviněná může tvrdit, že dceřiné společnosti jednaly samostatně. Neutralizace: ovládací vztah a společný účel nabytí zakládají vyvratitelnou domněnku jednání ve shodě; ČNB unáší břemeno strukturou ovládání a tokem financí.
+- *Nelze určit obrat pro 10% sazbu.* Spor o základ obratu (které položky zahrnout). Neutralizace: § 36i přesně vymezuje dvanáct položek a pro subjekty mimo CRR reporting náhradní výpočet z účetnictví — sazba je tedy vždy aplikovatelná.
+- *Slabé místo:* u odst. 6 (výkon činnosti po zániku licence) a odst. 1 písm. b) (neoprávněné užití označení „banka") je třeba odlišit přestupek od pouhého civilního/firemněprávního deliktu; chybějící doklad o faktickém výkonu bankovní činnosti oslabuje pozici ČNB.
+
+#### H. Praktický závěr
+
+§ 36c je korporátní obdobou § 36a, rozšířenou o specifické delikty PO (neoprávněné označení „banka", činnost po zániku licence, povinnosti ovládající osoby) a o procentní obratovou sazbu (10 %) transponující čl. 67 odst. 2 CRD IV. Pro výši sankce je rozhodující, zda jde o PO, ovládanou PO nebo podnikající FO.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Urči subjekt (PO / ovládaná PO / podnikající FO) — od toho se odvíjí sazba (odst. 8 písm. e/f/g).
+- [ ] U kvalifikované účasti ověř práh, souhlas ČNB dle § 20 odst. 3 a případné jednání ve shodě (§ 17a, písm. f).
+- [ ] U odst. 6 doklad o faktickém výkonu bankovní činnosti po zániku licence.
+- [ ] U odst. 3 (konsolidovaný dohled) ověř postavení osoby dle § 26g odst. 1 a rozsah informační povinnosti.
+- [ ] Vyčísli neoprávněný prospěch; jinak stanov základ 10 % obratu dle § 36i (individuální vs. konsolidovaný).
+
+**Typicky rozhodné důkazy / podklady:** akcionářská kniha a struktura ovládání, smlouvy o nabytí účastí, doklady o jednání ve shodě, žádosti o souhlas ČNB, účetní závěrky (pro výpočet obratu), výpis z obchodního rejstříku (užití označení „banka"), rozhodnutí o zániku licence.
+
 ---
 
 ### § 36d — Přestupky dalších regulovaných subjektů
@@ -302,6 +414,43 @@ Oprávněná finanční instituce se sídlem v ČR může zakládat pobočky v h
 #### Odstavec 5 — dočasně označená instituce
 
 Institut „dočasně označené instituce" dle § 31 odst. 2 umožňuje ČNB přechodně určit jinou instituci ve skupině jako osobu zajišťující plnění konsolidovaných požadavků. Přestupkové sankce zajišťují, že tato instituce skutečně plní jim přiřazené povinnosti.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Platební instituce PAY, s. r. o., vede pro uživatele platebních služeb účty, na nichž jsou evidovány svěřené peněžní prostředky určené k provedení platebních transakcí. Klient písemně požádá o informace podle § 41f odst. 10 (zda a jak jsou jeho prostředky chráněny, resp. zda spadají do systému pojištění vkladů). PAY na žádost nereaguje. Současně PAY neoznámí bance, u níž má svěřené prostředky deponovány, že jde o prostředky klientů (§ 41f odst. 7), a nevede řádnou evidenci dle § 41c odst. 3. Účastníci: PAY, s. r. o. (obviněná), klient (žadatel), banka (deponující), ČNB (přestupkový orgán). Důkazy: žádost klienta, evidence účtů, komunikace s bankou.
+
+**2. Právní otázka.** Dopustila se PAY přestupku podle § 36d odst. 1 (nesdělení informací uživateli) a odst. 2 písm. a) a b) (nesplnění oznamovací povinnosti vůči bance a nevedení evidence)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 36d odst. 1 a 2 ZoB; sazba dle odst. 6 písm. a) (10 mil. Kč).
+- *Související ustanovení téhož zákona:* § 41f odst. 7 a 10, § 41c odst. 3 (evidence údajů); § 41a a násl. (systém pojištění pohledávek z vkladů); § 36j (příslušnost).
+- *Související předpisy:* zákon o platebním styku (zák. č. 370/2017 Sb.) — postavení platební instituce a ochrana svěřených prostředků; nařízení (EU) 2023/1114 (MiCA) — u poskytovatelů služeb kryptoaktivy (odst. 2); zák. č. 250/2016 Sb. (ZOP).
+- *Judikatura:* k informačním povinnostem poskytovatelů platebních služeb vůči klientům existuje rozhodovací praxe ČNB i správních soudů; nosný závěr — informační povinnost je splněna jen úplným a srozumitelným sdělením; mlčení či formální odpověď ji nenaplňuje.
+
+**4. Subsumpce.** Subjekt „platební instituce, na jejímž účtu jsou evidovány svěřené prostředky" (splněno). Odst. 1: nesdělení informací dle § 41f odst. 10 na žádost klienta (splněno). Odst. 2 písm. a): nesplnění oznamovací povinnosti vůči bance dle § 41f odst. 7 (splněno). Odst. 2 písm. b): nevedení evidence dle § 41c odst. 3 (splněno). Sazba u všech 10 mil. Kč. Sporné: zda PAY skutečně obdržela žádost a v jaké formě.
+
+**5. Řešení.** ČNB uloží pokutu až 10 mil. Kč; při více skutkových podstatách se uplatní zásada absorpce dle ZOP. Procesní kroky: prokázat doručení žádosti klienta, existenci svěřených prostředků, absenci oznámení vůči bance a vad v evidenci. Riziko: hranice mezi tímto zákonem a zákonem o platebním styku — ČNB musí postihovat jen povinnosti vyplývající ze ZoB (typicky vazba na systém pojištění vkladů).
+
+**6. Varianty.** (a) Pokud by PAY pochybila při pasportování pobočky do hostitelského státu jako oprávněná finanční instituce dle § 5f–5i, šlo by o odst. 4 (sazba 20 mil. Kč). (b) Pokud by šlo o dočasně označenou instituci dle § 31 odst. 2, která nezajistí plnění konsolidovaných požadavků, uplatnila by se procentní sazba dle odst. 7 (2× prospěch nebo 10 % obratu).
+
+#### G. Protiargumenty a rizika
+
+- *Povinnost plyne z jiného zákona.* Obviněná může namítat, že informační povinnosti upravuje zákon o platebním styku, nikoli ZoB. Neutralizace: § 36d postihuje specificky povinnosti vázané na § 41f/41c ZoB (ochrana vkladatelů a systém pojištění), které jsou samostatné vůči obecné úpravě platebního styku.
+- *Žádost nebyla řádně doručena.* Spor o doručení a formu žádosti klienta. Neutralizace: postačí prokázat, že žádost byla učiněna a obviněná na ni nereagovala; břemeno tvrzení o vyřízení nese poskytovatel.
+- *Slabé místo:* katalog § 36d je heterogenní (platební instituce, obchodníci s CP, poskytovatelé kryptoaktivy, dočasně označené instituce) — je nutné přesně určit, do které kategorie subjekt spadá a která sazba (10 mil. / 20 mil. / procentní) se uplatní.
+
+#### H. Praktický závěr
+
+§ 36d rozšiřuje sankční dosah ZoB na nebankovní finanční subjekty (platební instituce, instituce elektronických peněz, obchodníci s CP, nově i poskytovatelé služeb kryptoaktivy a skupinového financování), pokud drží svěřené prostředky klientů nebo vstupují do pasportačních či konsolidačních vztahů. Sazby jsou diferencované: 10 mil. (odst. 1, 2), 20 mil. (odst. 4) a procentní (odst. 3, 5).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Urči kategorii subjektu (platební instituce / instituce el. peněz / obchodník s CP / poskytovatel kryptoaktivy / dočasně označená instituce).
+- [ ] U odst. 1/2 ověř existenci svěřených prostředků klientů a konkrétní porušenou povinnost (§ 41f odst. 7/10, § 41c odst. 3).
+- [ ] U odst. 4 ověř dodržení notifikačních pravidel pasportování (§ 5f–5i).
+- [ ] U odst. 5 ověř postavení dočasně označené instituce a rozsah konsolidovaných požadavků.
+- [ ] Zvol správnou sazbu (10 mil. / 20 mil. / procentní dle odst. 7) a odděl od povinností dle zákona o platebním styku.
+
+**Typicky rozhodné důkazy / podklady:** žádost klienta o informace, evidence svěřených prostředků, komunikace s deponující bankou, notifikace ČNB při pasportování, rozhodnutí o určení dočasně označené instituce, účetní závěrky (u procentní sazby).
 
 ---
 
@@ -391,6 +540,43 @@ Odst. 4 obsahuje nejrozsáhlejší katalog přestupkových skutkových podstat v
 
 Zákon stanoví pro veškeré přestupky dle § 36da jedinou sazbu: 2× prospěch nebo 10 % obratu, není-li prospěch zjistitelný. Tato uniformita (na rozdíl od odstupňovaných sazeb v §§ 36a–36c) vyjadřuje zákonodárcův záměr postihnout holdingové přestupky vždy přísnou procentní sazbou, neboť dopad selhání na skupinové úrovni bývá systémový.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Finanční holdingová osoba HOLDING, a. s., která stojí v čele bankovní skupiny a získala schválení ČNB dle § 27, nezajistí, aby řídicí a kontrolní systém skupiny na konsolidovaném základě splňoval požadavky ZoB (§ 8 odst. 10), a současně neprovede ve stanovené lhůtě opatření k nápravě uložené ČNB dle § 26h odst. 3. ČNB při kontrole konsolidačního celku zjistí, že strategie řízení rizik dle § 12c nejsou na konsolidované úrovni pravidelně prověřovány. Účastníci: HOLDING, a. s. (obviněná, schválená osoba dle § 27), dceřiná banka, ČNB. Důkazy: protokol o kontrole, dokumentace řídicího a kontrolního systému skupiny, rozhodnutí o opatření k nápravě a doklad o jeho nesplnění.
+
+**2. Právní otázka.** Dopustila se HOLDING přestupku podle § 36da odst. 4 (osoba dle § 27 odst. 1 — písm. b) řídicí a kontrolní systém, písm. c) strategie dle § 12c, písm. k) neprovedení nápravy) a jak se stanoví sazba?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 36da odst. 4 ZoB (katalog 16 skutkových podstat pro osoby dle § 27 odst. 1); sazba dle odst. 5 (2× prospěch nebo 10 % obratu).
+- *Související ustanovení téhož zákona:* § 27 (schválení finanční holdingové osoby), § 8 odst. 10, § 12c (strategie řízení rizik), § 26h odst. 1 a 3 (opatření k nápravě), § 31 odst. 2 (dočasně označená osoba); § 36i (výpočet obratu — zde konsolidovaný dle odst. 3); § 36j.
+- *Související předpisy:* nařízení (EU) č. 575/2013 (CRR) — části třetí, čtvrté, šesté, sedmé; směrnice 2013/36/EU (CRD IV/V) čl. 21a (schvalování finančních holdingových osob); zák. č. 250/2016 Sb. (ZOP).
+- *Judikatura:* k odpovědnosti mateřských/holdingových osob za skupinové obezřetnostní povinnosti zatím chybí bohatá tuzemská judikatura; nosný princip plyne z CRD — odpovědnost holdingu za soulad skupiny je samostatná a nezávislá na odpovědnosti jednotlivých dceřiných institucí.
+
+**4. Subsumpce.** Subjekt „osoba podle § 27 odst. 1" (splněno — HOLDING má schválení dle § 27). Jednání: nezajištění řídicího a kontrolního systému na konsolidovaném základě (písm. b), neprověřování strategií dle § 12c (písm. c), neprovedení nápravy dle § 26h odst. 1 (písm. k)) — více souběžných skutkových podstat. Sazba jednotná: 2× prospěch; jinak 10 % obratu, přičemž u osoby ve skupině se obrat čerpá z konsolidované závěrky mateřské instituce v EU (§ 36i odst. 3). Sporné: vyčíslení prospěchu (u systémových selhání zpravidla nezjistitelný → procentní sazba).
+
+**5. Řešení.** ČNB uloží pokutu odvozenou od 10 % konsolidovaného obratu (prospěch zpravidla nezjistitelný), při souběhu skutkových podstat dle zásady absorpce. Souběžně ČNB uplatní dohledová opatření vůči skupině (§ 26h). Procesní kroky: prokázat postavení dle § 27, vady řídicího systému/strategií, doklad o uloženém a nesplněném opatření k nápravě, stanovení konsolidovaného obratu dle § 36i odst. 3.
+
+**6. Varianty.** (a) Pokud by HOLDING nebyla schválenou osobou dle § 27, ale „běžnou" finanční holdingovou osobou, uplatnil by se odst. 1 (užší katalog). (b) Pokud by šlo o dočasně označenou osobu dle § 31 odst. 2, aplikoval by se odst. 2 (konkrétní konsolidované požadavky a opatření dle § 26h odst. 1).
+
+#### G. Protiargumenty a rizika
+
+- *Odpovědnost nese dceřiná banka, nikoli holding.* Obviněná může přenášet odpovědnost na regulovanou dceřinou banku. Neutralizace: § 36da konstruuje samostatnou odpovědnost holdingu za skupinový soulad; odpovědnost banky dle § 36e/§ 36f ji nevylučuje (souběh subjektů).
+- *Sazba 10 % konsolidovaného obratu je nepřiměřená.* Argument disproporce mezi vlastním obratem holdingu a obratem celé skupiny. Neutralizace: zákon (§ 36i odst. 3, transpozice CRD) záměrně váže sankci na ekonomickou sílu skupiny, aby zabránil obcházení přesunem aktivit do dceřiných osob.
+- *Slabé místo:* katalog odst. 4 je velmi rozsáhlý (16 písmen) a některé skutkové podstaty se obsahově překrývají; nepřesné skutkové vymezení může vést k námitce nepřezkoumatelnosti rozhodnutí.
+
+#### H. Praktický závěr
+
+§ 36da postihuje finanční a smíšené finanční holdingové osoby za selhání ve skupinových obezřetnostních povinnostech. Nejširší katalog (odst. 4, 16 podstat) dopadá na osoby schválené dle § 27. Sazba je vždy procentní (2× prospěch nebo 10 % obratu), u skupinových subjektů z konsolidované závěrky mateřské instituce v EU (§ 36i odst. 3).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Urči přesné postavení subjektu (finanční/smíšená finanční holdingová osoba; schválená dle § 27; dočasně označená dle § 31 odst. 2) a odpovídající odstavec (1–4).
+- [ ] Identifikuj konkrétní porušené povinnosti (řídicí systém, strategie § 12c, oznamovací povinnosti, opatření k nápravě, schválení dle § 27).
+- [ ] Posuď souběh skutkových podstat a vztah k odpovědnosti dceřiné banky (§ 36e/§ 36f).
+- [ ] Vyčísli prospěch; jinak stanov 10 % obratu, u skupiny z konsolidované závěrky (§ 36i odst. 3).
+- [ ] Doklad o uloženém a nesplněném opatření k nápravě (§ 26h).
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí o schválení dle § 27, protokoly o kontrole konsolidačního celku, dokumentace řídicího a kontrolního systému a strategií § 12c, rozhodnutí o opatřeních k nápravě (§ 26h) a doklady o jejich (ne)splnění, konsolidovaná účetní závěrka mateřské instituce.
+
 ---
 
 ### § 36db — Přestupky smíšených holdingových osob
@@ -410,6 +596,42 @@ Zákon stanoví pro veškeré přestupky dle § 36da jedinou sazbu: 2× prospěc
 #### Smíšená holdingová osoba versus finanční holdingová osoba
 
 § 36db postihuje smíšenou holdingovou osobu — tedy mateřský podnik finanční skupiny, který sám není finanční institucí a nespadá do plného obezřetnostního režimu (na rozdíl od finanční holdingové osoby dle § 36da). Zákon proto omezuje katalog přestupků na dvě základní povinnosti: poskytování informací ČNB (§ 26f odst. 1) a zjednání nápravy (§ 26h odst. 1). Nižší fixní sazba 10 mil. Kč (oproti procentní sazbě v § 36da odst. 5) odpovídá užšímu rozsahu povinností smíšené holdingové osoby.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Smíšená holdingová osoba MIX, a. s. — průmyslový koncern, jehož součástí je i banka, avšak jehož převažující činnost je nefinanční — neposkytne ČNB informace, které si ČNB vyžádala podle § 26f odst. 1 pro účely výkonu dohledu nad skupinou (informace o vnitroskupinových transakcích mezi bankou a nefinančními členy koncernu). ČNB následně uloží opatření k nápravě dle § 26h odst. 1, které MIX ve stanovené lhůtě nesplní. Účastníci: MIX, a. s. (smíšená holdingová osoba), dceřiná banka, ČNB. Důkazy: žádost ČNB o informace, doklad o nesdělení, rozhodnutí o opatření k nápravě a doklad o jeho nesplnění.
+
+**2. Právní otázka.** Dopustila se MIX přestupku podle § 36db odst. 1 písm. a) (nesplnění informační povinnosti dle § 26f odst. 1) a písm. b) (nezjednání nápravy dle § 26h odst. 1)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 36db odst. 1 písm. a) a b) ZoB; sazba dle odst. 2 (10 mil. Kč, fixní).
+- *Související ustanovení téhož zákona:* § 26f odst. 1 (informační povinnost smíšené holdingové osoby), § 26h odst. 1 (opatření k nápravě); § 36da (vymezení vůči finanční holdingové osobě); § 36j (příslušnost).
+- *Související předpisy:* směrnice 2002/87/ES (FICOD) o doplňkovém dozoru nad finančními konglomeráty; směrnice 2013/36/EU (CRD IV); zák. č. 250/2016 Sb. (ZOP).
+- *Judikatura:* k rozsahu informačních povinností nefinančních mateřských subjektů vůči orgánu dohledu chybí ustálená tuzemská judikatura; nosný princip — dohledový orgán je oprávněn vyžadovat informace nezbytné k posouzení vlivu skupiny na regulovanou dceřinou instituci.
+
+**4. Subsumpce.** Subjekt „smíšená holdingová osoba" (splněno — MIX není finanční institucí, ale má v koncernu banku). Jednání: nesplnění informační povinnosti dle § 26f odst. 1 (písm. a) a nezjednání nápravy dle § 26h odst. 1 (písm. b). Sazba fixní 10 mil. Kč. Sporné: zda informace, které ČNB vyžadovala, spadají do rámce § 26f odst. 1 (nezbytnost pro dohled nad skupinou).
+
+**5. Řešení.** ČNB uloží pokutu až 10 mil. Kč; při souběhu obou skutkových podstat dle zásady absorpce. Procesní kroky: doložit žádost ČNB, nezbytnost informací pro dohled, doklad o nesdělení a o nesplnění opatření k nápravě. Riziko: odlišení od § 36da — pokud by se ukázalo, že MIX je ve skutečnosti finanční holdingovou osobou (převaha finanční činnosti ve skupině), uplatnil by se přísnější procentní režim § 36da.
+
+**6. Varianty.** (a) Pokud by skupina měla převahu finanční činnosti, MIX by byla finanční holdingovou osobou a aplikoval by se § 36da (procentní sazba 10 % obratu). (b) Pokud by MIX informace poskytla, ale nepravdivé či zkreslené, bylo by třeba zkoumat, zda taková povinnost spadá pod § 26f odst. 1 a zda nedošlo k jiné skutkové podstatě.
+
+#### G. Protiargumenty a rizika
+
+- *Vyžádané informace nespadají do § 26f odst. 1.* Obviněná může tvrdit, že ČNB požaduje informace nad rámec dohledu nad skupinou. Neutralizace: § 26f odst. 1 váže povinnost na informace nezbytné pro doplňkový dozor; ČNB musí nezbytnost odůvodnit, ale rozsah je vykládán šíře (vnitroskupinové transakce s bankou).
+- *Subjekt není smíšenou holdingovou osobou.* Spor o klasifikaci (smíšená vs. finanční holdingová osoba). Neutralizace: klasifikace se odvíjí od převahy finanční/nefinanční činnosti ve skupině; chybná kvalifikace vede k aplikaci nesprávného ustanovení (a sazby).
+- *Slabé místo:* úzký katalog (jen dvě povinnosti) omezuje postih — pokud porušení nespadá ani pod § 26f odst. 1, ani pod § 26h odst. 1, smíšenou holdingovou osobu dle ZoB postihnout nelze.
+
+#### H. Praktický závěr
+
+§ 36db je nejstručnějším holdingovým přestupkovým ustanovením: postihuje smíšenou holdingovou osobu (nefinanční mateřský podnik s bankou ve skupině) pouze za dvě povinnosti — informační (§ 26f odst. 1) a nápravnou (§ 26h odst. 1) — s fixní sazbou 10 mil. Kč. Klíčové je správné odlišení od finanční holdingové osoby (§ 36da), u níž je režim přísnější.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověř klasifikaci subjektu jako smíšené holdingové osoby (převaha nefinanční činnosti ve skupině) — odlišení od § 36da.
+- [ ] Urči, zda vyžádané informace spadají do § 26f odst. 1 (nezbytnost pro doplňkový dozor).
+- [ ] Doklad o nesdělení informací a/nebo o nesplnění opatření k nápravě (§ 26h odst. 1).
+- [ ] Aplikuj fixní sazbu 10 mil. Kč a posuď souběh obou podstat.
+
+**Typicky rozhodné důkazy / podklady:** žádost ČNB o informace (§ 26f odst. 1), doklad o nesdělení, rozhodnutí o opatření k nápravě a doklad o jeho nesplnění, podklady o struktuře a převažující činnosti skupiny (pro klasifikaci subjektu).
 
 ---
 
@@ -655,6 +877,44 @@ Zákon konstruuje čtyři sazební pásma pro banku:
 - **50 mil. Kč**: výkon v rozporu s licencí, odborná péče, bankovní tajemství, Garanční systém.
 - **2× prospěch nebo 10 % obratu**: kapitálové požadavky, velké expozice, řídicí systém (plný rozsah). Pro ovládanou banku se základ obratu čerpá z konsolidované závěrky ovládající osoby.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Tuzemská banka BANK, a. s., dlouhodobě nedodržuje minimální kapitálový požadavek dle čl. 92 odst. 1 nařízení (EU) č. 575/2013 (CRR) — její kmenový kapitál tier 1 poklesl pod regulatorní minimum. Současně banka neoznámila ČNB část údajů o velkých expozicích (čl. 394 odst. 1 CRR podala zprávu s nepřesnými informacemi) a porušila bankovní tajemství tím, že předala marketingovému partnerovi seznam klientů s objemem jejich vkladů. ČNB při dohledu na místě tato pochybení zjistí. Účastníci: BANK, a. s. (obviněná banka), ČNB (orgán dohledu i přestupkový orgán), dotčení klienti. Důkazy: výkazy COREP/FINREP, protokol o dohledu na místě, smlouva s marketingovým partnerem a předaný seznam klientů.
+
+**2. Právní otázka.** Které skutkové podstaty § 36e banka naplnila (odst. 3 písm. a) — kapitálový požadavek; odst. 3 písm. i) — nepřesný reporting; odst. 6 písm. c) — bankovní tajemství) a jak se určí výsledná sazba pokuty?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 36e odst. 3 písm. a) a i), odst. 6 písm. c) ZoB; sazby dle odst. 7 písm. d) (2× prospěch nebo 10 % obratu) pro odst. 3 a písm. c) (50 mil. Kč) pro odst. 6.
+- *Související ustanovení téhož zákona:* § 38 (bankovní tajemství), § 12 odst. 3 a § 19a (odborná péče), § 26 a § 26a (opatření k nápravě), § 26k (kapitálový polštář); § 36i (výpočet obratu); § 36j (příslušnost).
+- *Související předpisy:* nařízení (EU) č. 575/2013 (CRR) — čl. 92 (kapitálové požadavky), čl. 394 a 430/430a (reporting), čl. 28/52/63 (kapitálové nástroje); směrnice 2013/36/EU (CRD IV) čl. 66–67; zák. č. 250/2016 Sb. (ZOP).
+- *Judikatura:* k povinnosti zachovávat bankovní tajemství a k odpovědnosti banky za jeho prolomení existuje ustálená praxe NS i NSS; nosný závěr — předání údajů o klientech třetí osobě bez zákonné výjimky nebo souhlasu klienta je porušením § 38 bez ohledu na komerční účel.
+
+**4. Subsumpce.** Subjekt „banka" (splněno). Odst. 3 písm. a): neplnění kapitálového požadavku čl. 92 CRR (splněno) → sazba 2× prospěch / 10 % obratu. Odst. 3 písm. i): nepřesná informace dle čl. 430/430a (zde spíše čl. 394 — velké expozice, viz odst. 3 písm. f)) → procentní sazba. Odst. 6 písm. c): porušení bankovního tajemství dle § 38 (splněno) → 50 mil. Kč. Více skutků různé povahy → souběh přestupků. Sporné: vyčíslení prospěchu z porušení (u kapitálových přestupků zpravidla nezjistitelný → 10 % obratu).
+
+**5. Řešení.** ČNB povede řízení o více přestupcích; při souběhu uloží sankci podle nejpřísněji postižitelného (zásada absorpce dle ZOP). U kapitálových přestupků (odst. 3) je strop 10 % individuálního obratu banky (u ovládané banky konsolidovaný obrat ovládající osoby — odst. 7 písm. e)); za porušení bankovního tajemství až 50 mil. Kč. Souběžně ČNB uloží dohledová opatření k nápravě (§ 26, § 26a) a případně doplnění kapitálu. Procesní kroky: zajištění výkazů, protokolu o dohledu, dokumentace předání klientských dat.
+
+**6. Varianty.** (a) Pokud by BANK byla ovládanou bankou, základ 10 % obratu pro kapitálové přestupky by se čerpal z konsolidované závěrky ovládající osoby (odst. 7 písm. e)). (b) Pokud by místo porušení bankovního tajemství šlo jen o nezavedení postupu pro vyřizování stížností (odst. 1 písm. j), sazba by činila 20 mil. Kč (odst. 7 písm. b)).
+
+#### G. Protiargumenty a rizika
+
+- *Pokles kapitálu byl přechodný a mimo kontrolu banky.* Obrana může cílit na nezaviněnost (tržní výkyv). Neutralizace: u PO se zavinění nezkoumá ve stejné podobě jako u FO; banka odpovídá objektivně s možností liberace (§ 21 ZOP), kterou musí prokázat (vynaložení veškerého úsilí) — pouhý tržní výkyv liberaci nezakládá, pokud banka neměla dostatečný polštář.
+- *Předání dat bylo kryto souhlasem klientů.* Argument existence souhlasu se zpracováním. Neutralizace: souhlas musí být konkrétní, informovaný a prokazatelný; obecný marketingový souhlas neprolamuje bankovní tajemství dle § 38 ohledně objemu vkladů.
+- *Slabé místo:* správné zařazení reportingového pochybení mezi odst. 3 písm. f) (velké expozice), písm. h)/i) (čl. 430) nebo odst. 5 (účetnictví) je náročné; nepřesná subsumpce může vést k námitce nesprávného právního posouzení a k jiné (nižší) sazbě.
+
+#### H. Praktický závěr
+
+§ 36e je centrálním a nejrozsáhlejším přestupkovým ustanovením ZoB se šesti odstavci a desítkami skutkových podstat. Sazby tvoří čtyři pásma: 10 mil. (procedurální), 20 mil. (řídicí systém základní, výroční zprávy), 50 mil. (licence, odborná péče, bankovní tajemství, Garanční systém) a procentní (2× prospěch / 10 % obratu — kapitál, CRR, velké expozice). U ovládané banky se procentní základ čerpá z konsolidované závěrky ovládající osoby.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zařaď každé jednání do správného odstavce a písmene § 36e (odst. 1–6) — od toho závisí sazební pásmo (odst. 7 písm. a–e).
+- [ ] U kapitálových a CRR přestupků (odst. 2, 3) vyčísli prospěch; jinak stanov 10 % obratu (individuální vs. konsolidovaný dle odst. 7 písm. d/e a § 36i).
+- [ ] U porušení bankovního tajemství (odst. 6 písm. c) ověř absenci zákonné výjimky (§ 38 odst. 3–8) a kvalifikovaného souhlasu klienta.
+- [ ] Posuď souběh přestupků a uplatni zásadu absorpce (ZOP).
+- [ ] Prověř možnost liberace banky (§ 21 ZOP) a její důkazní břemeno.
+- [ ] Koordinuj přestupkové řízení s dohledovými opatřeními (§ 26, § 26a, § 26k).
+
+**Typicky rozhodné důkazy / podklady:** výkazy COREP/FINREP, protokoly o dohledu na místě i na dálku, dokumentace řídicího a kontrolního systému, smlouvy a doklady o předání klientských dat, rozhodnutí o opatřeních k nápravě, účetní závěrky (pro výpočet obratu dle § 36i).
+
 ---
 
 ### § 36f — Přestupky banky na konsolidovaném a subkonsolidovaném základě
@@ -725,6 +985,43 @@ Zákon konstruuje čtyři sazební pásma pro banku:
 
 Tím zákon vyjadřuje, že skupinové přestupky jsou ze své podstaty závažnější a obtížněji „stropitelné" fixní částkou.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Tuzemská ovládající banka MATKA, a. s., stojí v čele bankovní skupiny zahrnující dceřinou banku a leasingovou společnost. Na konsolidovaném základě MATKA nepřijme a pravidelně neprověřuje strategie a postupy řízení rizik dle § 12c (odst. 2 písm. b)) a nezajistí, aby řídicí a kontrolní systém skupiny na konsolidovaném základě splňoval požadavky ZoB (odst. 2 písm. a)). ČNB při konsolidovaném dohledu zjistí, že riziková strategie skupiny nebyla aktualizována několik let a že konsolidovaný řídicí systém nepokrývá leasingovou dceru. Účastníci: MATKA, a. s. (ovládající banka), dceřiné společnosti, ČNB. Důkazy: dokumentace strategií § 12c, organizační uspořádání skupiny, protokol o konsolidovaném dohledu.
+
+**2. Právní otázka.** Dopustila se MATKA přestupku podle § 36f odst. 2 písm. a) a b) (konsolidovaný řídicí systém a strategie § 12c) a jak se stanoví sazba, která je výlučně procentní?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 36f odst. 2 ZoB; sazba dle odst. 4 (2× prospěch nebo 10 % obratu, individuální u ovládající banky).
+- *Související ustanovení téhož zákona:* § 12c (strategie a postupy řízení rizik), § 8 odst. 10 (konsolidované plnění), § 26h (opatření k nápravě), § 25e odst. 4, § 29 odst. 2 (osoba určená); § 36e (individuální základ); § 36i odst. 3 (skupinový obrat); § 36j.
+- *Související předpisy:* nařízení (EU) č. 575/2013 (CRR) — čl. 11 a 13 (uplatňování požadavků na konsolidovaném základě), části třetí, čtvrté, šesté, sedmé; směrnice 2013/36/EU (CRD IV) čl. 109 (uplatnění řízení rizik na skupinu); zák. č. 250/2016 Sb. (ZOP).
+- *Judikatura:* k povinnosti uplatňovat řídicí a kontrolní systém na konsolidovaném základě chybí bohatá tuzemská judikatura; nosný princip z CRD — ovládající instituce odpovídá za to, že obezřetnostní rámec pokryje celý konsolidační celek, včetně nebankovních dcer.
+
+**4. Subsumpce.** Subjekt „tuzemská ovládající banka, resp. evropská ovládající úvěrová instituce" (splněno). Jednání: nezajištění konsolidovaného řídicího a kontrolního systému (písm. a) a nepřijetí/neprověřování strategií § 12c na konsolidovaném základě (písm. b) — souběh. Sazba výlučně procentní: 2× prospěch; jinak 10 % individuálního obratu ovládající banky (odst. 4 písm. b). Sporné: vyčíslení prospěchu (u skupinových selhání zpravidla nezjistitelný → procentní strop).
+
+**5. Řešení.** ČNB uloží procentní pokutu (10 % individuálního obratu MATKA, neboť prospěch nezjistitelný), při souběhu dle absorpce. Souběžně ČNB uplatní konsolidovaná opatření k nápravě (§ 26h odst. 3). Procesní kroky: prokázat postavení MATKA jako ovládající banky, vady konsolidovaného řídicího systému a strategií § 12c, stanovení obratového základu. Odlišení od § 36e: § 36f postihuje povinnosti specificky na konsolidovaném/subkonsolidovaném základě, zatímco § 36e na základě individuálním.
+
+**6. Varianty.** (a) Pokud by přestupek na konsolidovaném základě spáchala ovládaná banka určená dle § 29 odst. 2 písm. c) (odst. 3), základ 10 % obratu by se čerpal z konsolidované závěrky ovládající osoby (odst. 4 písm. c)). (b) Pokud by šlo pouze o subkonsolidovaný základ u banky jako ovládající osoby (odst. 1), katalog by byl užší (strategie § 12c, opatření k nápravě, soulad s CRR).
+
+#### G. Protiargumenty a rizika
+
+- *Povinnosti plní jednotlivé dceřiné instituce, nikoli ovládající banka.* Obrana přenášející odpovědnost na dcery. Neutralizace: § 36f konstruuje samostatnou odpovědnost ovládající banky za konsolidovaný soulad; individuální odpovědnost dcer (§ 36e) ji nevylučuje.
+- *Leasingová dcera nepodléhá bankovní regulaci.* Argument, že nebankovní dcera je mimo rámec. Neutralizace: konsolidovaný řídicí systém a řízení rizik (čl. 109 CRD, § 12c) musí pokrýt celý konsolidační celek včetně nebankovních dcer, je-li relevantní pro skupinová rizika.
+- *Slabé místo:* hranice mezi § 36e (individuální) a § 36f (konsolidovaný/subkonsolidovaný) je v praxi neostrá u povinností, které existují na obou úrovních (např. strategie § 12c); nepřesné určení úrovně vede k riziku nesprávné kvalifikace a sazby.
+
+#### H. Praktický závěr
+
+§ 36f postihuje banku za selhání ve skupinových (konsolidovaných a subkonsolidovaných) povinnostech ve třech vrstvách subjektů: ovládající banka (odst. 1), tuzemská ovládající banka / evropská ovládající úvěrová instituce (odst. 2, nejširší katalog) a osoba určená dle § 29 odst. 2 písm. c) (odst. 3). Sazba je vždy výlučně procentní (2× prospěch / 10 % obratu) — bez fixních stropů.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Urči vrstvu subjektu (ovládající banka / tuzemská ovládající banka či evropská ovládající úvěrová instituce / osoba dle § 29 odst. 2 písm. c) — odst. 1/2/3.
+- [ ] Odliš povinnost na individuálním (§ 36e) vs. konsolidovaném/subkonsolidovaném (§ 36f) základě.
+- [ ] Ověř pokrytí celého konsolidačního celku řídicím systémem a strategiemi § 12c (čl. 109 CRD).
+- [ ] Vyčísli prospěch; jinak stanov 10 % obratu (individuální u odst. 1/2, konsolidovaný u ovládané banky dle odst. 3 a § 36i odst. 3).
+- [ ] Koordinuj s konsolidovanými opatřeními k nápravě (§ 26h).
+
+**Typicky rozhodné důkazy / podklady:** dokumentace strategií a postupů § 12c na konsolidované úrovni, organizační a vlastnické uspořádání skupiny, protokoly o konsolidovaném dohledu, rozhodnutí o opatřeních k nápravě (§ 26h), konsolidované a individuální účetní závěrky (pro výpočet obratu dle § 36i).
+
 ---
 
 ## Přestupky zahraničních bank
@@ -778,6 +1075,43 @@ Zahraniční banka z členského státu podléhá v ČR zásadně dohledu svého
 #### Srovnání se § 36e (tuzemská banka)
 
 Přestupkový katalog § 36g je výrazně užší než § 36e — zejména chybí přestupky z oblasti řídicího a kontrolního systému, kapitálových požadavků a CRR reportingu, neboť ty jsou v kompetenci domovského orgánu dohledu. Naopak povinnosti chránící klienty na místním trhu (informace, stížnosti, účetnictví, bankovní tajemství) jsou shodné či obdobné jako u tuzemských bank.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Zahraniční banka z členského státu EU (EUBANK, se sídlem v Rakousku) působí v ČR prostřednictvím pobočky na základě jednotného evropského pasu (notifikace dle § 5c a násl.). Pobočka nezavede účinný postup pro vyřizování stížností klientů a o žádném takovém postupu klienty neinformuje (odst. 1 písm. d)). Současně využije v reklamě v ČR výslovného zdůraznění, že vklady u ní jsou pojištěny rakouským systémem, který je „výhodnější" než český (odst. 1 písm. m)). ČNB obdrží stížnosti českých klientů. Účastníci: EUBANK (zahraniční banka z členského státu), její pobočka v ČR, klienti, ČNB (orgán hostitelského státu). Důkazy: reklamní materiály, stížnosti klientů, doklad o absenci postupu pro vyřizování stížností.
+
+**2. Právní otázka.** Je ČNB jako orgán hostitelského státu příslušná postihnout EUBANK za nezavedení postupu pro stížnosti (odst. 1 písm. d)) a za reklamní využití rozdílů v pojištění vkladů (odst. 1 písm. m))?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 36g odst. 1 písm. d) a m) ZoB; sazby dle odst. 2 písm. b) (20 mil. Kč pro písm. d)) a písm. c) (50 mil. Kč pro písm. m)).
+- *Související ustanovení téhož zákona:* § 5c až 5m (přeshraniční činnost a pobočky bank z členských států), § 11 odst. 1–4 a 9 (informační povinnosti a stížnosti), § 24 (informační povinnosti), § 37 odst. 2 a § 38 (bankovní tajemství); § 36j (příslušnost).
+- *Související předpisy:* směrnice 2013/36/EU (CRD IV) — princip home country control a rozdělení kompetencí domovský/hostitelský orgán; směrnice 2014/49/EU (DGSD) čl. 16 odst. 3 (zákaz reklamy zdůrazňující rozdíly v pojištění); zák. č. 250/2016 Sb. (ZOP).
+- *Judikatura:* k rozdělení dohledové jurisdikce mezi domovský a hostitelský stát a k pravomoci hostitelského orgánu v oblasti ochrany klientů existuje výkladová praxe ESD i ČNB; nosný princip — hostitelský orgán je příslušný k vymáhání povinností na ochranu klientů a obecného zájmu na místním trhu.
+
+**4. Subsumpce.** Subjekt „zahraniční banka z členského státu" (splněno). Jednání: nezavedení postupu pro stížnosti dle § 11 odst. 9 (písm. d)) — hostitelská kompetence ČNB (splněno); reklamní využití rozdílů v pojištění vkladů (písm. m)) — transpozice čl. 16 odst. 3 DGSD, hostitelská kompetence (splněno). Sazby: 20 mil. (písm. d)) a 50 mil. (písm. m)). Sporné není postavení subjektu, ale rozsah hostitelské jurisdikce — u obou jednání je však ČNB příslušná.
+
+**5. Řešení.** ČNB je jako orgán hostitelského státu příslušná oba přestupky projednat (jde o povinnosti na ochranu klientů a obecného zájmu, nikoli o obezřetnostní dohled vyhrazený domovskému orgánu). Uloží pokutu (při souběhu dle absorpce až 50 mil. Kč). Procesní kroky: zajištění reklamních materiálů a stížností, prokázání absence postupu pro stížnosti. Riziko: u obezřetnostních povinností (kapitál, řídicí systém) by ČNB příslušná nebyla — ty řeší domovský orgán; ČNB by jej případně informovala.
+
+**6. Varianty.** (a) Pokud by šlo o porušení kapitálových požadavků nebo řídicího systému EUBANK, ČNB by nebyla příslušná (home country control) a věc by postoupila rakouskému orgánu dohledu. (b) Pokud by šlo o banku z nečlenského státu, aplikoval by se § 36h s plnou jurisdikcí ČNB a širším katalogem.
+
+#### G. Protiargumenty a rizika
+
+- *Nedostatek jurisdikce ČNB.* EUBANK může namítat, že podléhá dohledu domovského (rakouského) orgánu. Neutralizace: § 36g se týká výhradně povinností v hostitelské kompetenci (ochrana klientů, informace, stížnosti, bankovní tajemství, reklama pojištění); k těm je ČNB příslušná i u banky z členského státu.
+- *Reklama nebyla zavádějící.* Argument, že srovnání systémů pojištění je pravdivé. Neutralizace: čl. 16 odst. 3 DGSD (a § 36g odst. 1 písm. m)) zakazuje využití rozdílů v pojištění v reklamě bez ohledu na pravdivost — jde o per se zákaz.
+- *Slabé místo:* rozsah hostitelské jurisdikce je v hraničních případech sporný; je třeba pečlivě odlišit povinnosti ochrany klientů (kompetence ČNB) od obezřetnostních povinností (kompetence domovského orgánu), jinak hrozí námitka nepříslušnosti.
+
+#### H. Praktický závěr
+
+§ 36g má užší katalog než § 36e, neboť zahraniční banka z členského státu podléhá v obezřetnostních otázkách dohledu domovského orgánu (home country control). ČNB jako orgán hostitelského státu postihuje jen povinnosti na ochranu klientů a obecného zájmu (informace, stížnosti, účetnictví, bankovní tajemství, zákaz reklamy zdůrazňující rozdíly v pojištění). Sazby: 10 mil. (písm. b), 20 mil. (písm. c–g), 50 mil. (písm. a, h–m).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověř, že jde o zahraniční banku z členského státu působící na pas (§ 5c a násl.).
+- [ ] Posuď, zda porušená povinnost spadá do hostitelské kompetence ČNB (ochrana klientů) nebo do domovské kompetence (obezřetnostní dohled).
+- [ ] U reklamy ověř naplnění per se zákazu dle písm. m) (čl. 16 odst. 3 DGSD).
+- [ ] Zvol správné sazební pásmo (odst. 2 písm. a/b/c).
+- [ ] U obezřetnostních pochybení postup vůči/informování domovského orgánu dohledu.
+
+**Typicky rozhodné důkazy / podklady:** notifikační dokumentace o přeshraniční činnosti (§ 5c a násl.), reklamní materiály pobočky, stížnosti klientů a doklad o absenci postupu pro jejich vyřizování, účetní doklady pobočky, komunikace s domovským orgánem dohledu.
 
 ---
 
@@ -914,6 +1248,43 @@ Na rozdíl od § 36g (EU banky) má ČNB vůči pobočkám zahraničních bank z
 
 Sazba 20 mil. Kč pro odst. 3 písm. o) (nepodání zprávy o bankovním tajemství na vyžádání dle § 38 odst. 3–6 a 8) je nižší než u shodné skutkové podstaty v § 36e odst. 6 (kde by šlo o pásmo 50 mil. Kč) — zřejmě legislativní nedůslednost, nikoli záměrná diferenciace.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Zahraniční banka z nečlenského státu (CHBANK, se sídlem ve Švýcarsku) působí v ČR prostřednictvím pobočky na základě licence udělené ČNB. Pobočka přestane plnit požadavek na kapitálové vybavení dle § 12ab (odst. 4 písm. d)) a její řídicí a kontrolní systém nesplňuje požadavky § 12ad/12ae (odst. 4 písm. c) a m)). Současně pobočka vykonává činnost v rozporu s licencí (odst. 1 písm. a)) tím, že poskytuje služby nad rámec povolených činností. ČNB při dohledu na místě zjistí tato pochybení. Účastníci: CHBANK (zahraniční banka z nečlenského státu), její pobočka v ČR, ČNB (orgán s plnou jurisdikcí). Důkazy: licence a její rozsah, výkazy o kapitálovém vybavení, dokumentace řídicího systému pobočky, protokol o dohledu.
+
+**2. Právní otázka.** Které skutkové podstaty § 36h CHBANK naplnila a jak se liší sazba u odst. 1 (fixní 50 mil. Kč) od sazby u odst. 4 (procentní 2× prospěch / 10 % obratu)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 36h odst. 1 písm. a), odst. 4 písm. c), d) a m) ZoB; sazby dle odst. 5 písm. c) (50 mil. Kč pro odst. 1 písm. a)) a písm. d) (2× prospěch nebo 10 % obratu pro odst. 4).
+- *Související ustanovení téhož zákona:* § 12ab (kapitálové vybavení pobočky), § 12ad a 12ae (řídicí a kontrolní systém pobočky), § 12af (ověření), § 12ag (účetnictví); § 38 (bankovní tajemství); § 36i (výpočet obratu); § 36j (příslušnost).
+- *Související předpisy:* nařízení (EU) č. 575/2013 (CRR) — čl. 412, 415 (likvidita), čl. 430/430a (reporting); směrnice 2013/36/EU (CRD IV); zák. č. 250/2016 Sb. (ZOP). Banky z třetích zemí nemají přístup k jednotnému pasu, tedy plná jurisdikce ČNB.
+- *Judikatura:* k dohledu nad pobočkami bank z třetích zemí a k požadavkům na jejich kapitálové vybavení a řídicí systém je tuzemská judikatura sporá; nosný princip — pobočka banky z třetí země podléhá plnému dohledu ČNB obdobně jako tuzemská banka, s přihlédnutím ke specifikům pobočkového uspořádání.
+
+**4. Subsumpce.** Subjekt „zahraniční banka z jiného než členského státu" (splněno). Odst. 1 písm. a): výkon činnosti v rozporu s licencí → 50 mil. Kč. Odst. 4 písm. d): nesplnění požadavku na kapitálové vybavení dle § 12ab → procentní sazba. Odst. 4 písm. c)/m): řídicí systém nesplňuje § 12ad/12ae → procentní sazba. Souběh skutků různé povahy → absorpce. Sporné: vyčíslení prospěchu (u kapitálových/systémových přestupků zpravidla nezjistitelný → 10 % obratu zahraniční banky).
+
+**5. Řešení.** ČNB má plnou jurisdikci a uloží pokutu: za výkon v rozporu s licencí (odst. 1 písm. a)) až 50 mil. Kč, za kapitálové a systémové přestupky (odst. 4) 2× prospěch / 10 % obratu zahraniční banky. Při souběhu dle absorpce se uplatní nejpřísnější sazba. Souběžně ČNB uloží opatření k nápravě (§ 26 odst. 1). Procesní kroky: vymezení rozsahu licence, prokázání nedostatku kapitálu a vad řídicího systému, stanovení obratového základu.
+
+**6. Varianty.** (a) Pokud by CHBANK pouze nepodala na vyžádání zprávu o bankovním tajemství dle § 38 odst. 3–6 a 8 (odst. 3 písm. o)), sazba by činila jen 20 mil. Kč — anomálně nižší než shodná podstata u tuzemské banky (§ 36e odst. 6, 50 mil. Kč). (b) Pokud by šlo o banku z členského státu, ČNB by neměla jurisdikci nad kapitálem a řídicím systémem (home country control) — aplikoval by se § 36g s užším katalogem.
+
+#### G. Protiargumenty a rizika
+
+- *Specifika pobočky vylučují tuzemské kapitálové požadavky.* Obrana může tvrdit, že pobočka není samostatnou právnickou osobou a kapitál drží centrála. Neutralizace: § 12ab stanoví vlastní požadavek na kapitálové vybavení pobočky banky z třetí země; jeho nesplnění je samostatným přestupkem bez ohledu na kapitál centrály.
+- *Nelze určit obrat zahraniční banky.* Spor o základ pro 10% sazbu u subjektu se sídlem mimo EU. Neutralizace: § 36i odst. 2 zavádí náhradní výpočet z účetních předpisů odpovídajících vymezení obratu; sazba je tedy aplikovatelná i na zahraniční banku.
+- *Slabé místo:* anomálie sazby u odst. 3 písm. o) (20 mil. vs. 50 mil. u § 36e) oslabuje argument rovného postihu; jde však o legislativní nedůslednost, kterou nelze vykládat v neprospěch obviněného (ve prospěch nižší sazby).
+
+#### H. Praktický závěr
+
+§ 36h má — na rozdíl od § 36g — široký katalog blízký § 36e, neboť ČNB vykonává nad pobočkami bank z třetích zemí plnou dohledovou jurisdikci (tyto pobočky nemají evropský pas a mají vlastní licenci ČNB). Čtyři skupiny přestupků: základní provozní (odst. 1), neposkytnutí údajů ČNB (odst. 2), procesní a klientské povinnosti (odst. 3) a obezřetnostní/licenční povinnosti (odst. 4). Sazby: 10 mil. až 50 mil. (odst. 1–3) a procentní (odst. 4).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověř, že jde o pobočku banky z nečlenského státu s licencí ČNB (plná jurisdikce ČNB).
+- [ ] Zařaď jednání do odstavce 1–4 a urči sazbu (odst. 5 písm. a–d); pozor na anomálii odst. 3 písm. o) (20 mil.).
+- [ ] U odst. 4 (kapitál § 12ab, řídicí systém § 12ad/12ae, likvidita CRR) vyčísli prospěch; jinak 10 % obratu (i náhradní výpočet dle § 36i odst. 2).
+- [ ] U výkonu v rozporu s licencí (odst. 1 písm. a) vymezí přesný rozsah licence.
+- [ ] Koordinuj s opatřeními k nápravě (§ 26 odst. 1) a s ověřením řídicího systému (§ 12af, § 22a).
+
+**Typicky rozhodné důkazy / podklady:** licence pobočky a vymezení povolených činností, výkazy o kapitálovém vybavení (§ 12ab) a likviditě (CRR), dokumentace řídicího a kontrolního systému pobočky, protokoly o dohledu na místě, zprávy ověřovatele, účetní doklady pobočky (pro výpočet obratu dle § 36i).
+
 ---
 
 ## Společná ustanovení k přestupkům
@@ -989,6 +1360,44 @@ Je-li potrestaný subjekt součástí skupiny, obrat se čerpá z **konsolidovan
 
 Průměrný denní čistý obrat (roční obrat / 365) slouží jako základ pro donucovací pokuty ukládané na denní bázi (viz [11-cast13-spolecna-ustanoveni.md](11-cast13-spolecna-ustanoveni.md)).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** ČNB hodlá uložit bance BANK, a. s., pokutu ve výši „do 10 % celkového ročního čistého obratu" za přestupek dle § 36e odst. 3. BANK namítá, že ČNB do základu obratu nesprávně započetla pouze výnosové položky a opomněla nákladové (úrokové náklady, náklady na poplatky), čímž základ uměle nadhodnotila. BANK je navíc dceřinou bankou ve skupině s mateřskou institucí v EU. Účastníci: BANK, a. s. (potrestaná dceřiná banka), mateřská instituce v EU, ČNB. Důkazy: výkazy FINREP banky, konsolidovaná účetní závěrka mateřské instituce, výpočetní list ČNB ke stanovení obratu.
+
+**2. Právní otázka.** Jak se správně vypočte „celkový roční čistý obrat" pro účely procentní sazby — z dvanácti položek dle § 36i odst. 1 (včetně nákladových), a má se vycházet z individuálního, nebo konsolidovaného základu, je-li banka osobou ve skupině?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 36i odst. 1 (12 položek), odst. 2 (náhradní výpočet), odst. 3 (skupinový/konsolidovaný základ), odst. 4 (průměrný denní obrat).
+- *Související ustanovení téhož zákona:* § 36c odst. 8 písm. f)/g), § 36e odst. 7 písm. d)/e), § 36f odst. 4, § 36da odst. 5 (sazby vázané na 10 % obratu); § 36j (příslušnost a řízení).
+- *Související předpisy:* nařízení (EU) č. 575/2013 (CRR) — čl. 4 odst. 1 bod 29 (mateřská instituce v členském státě); prováděcí nařízení Komise k CRR (COREP/FINREP reporting); směrnice 2013/36/EU (CRD IV) čl. 67 odst. 2 (sankce do 10 % obratu); zák. č. 250/2016 Sb. (ZOP).
+- *Judikatura:* k výpočtu obratu jako základu pro procentní pokuty existuje praxe ČNB a v oblasti soutěžního práva i judikatura NSS k „čistému obratu"; nosný princip — základ pro procentní sankci musí být stanoven transparentně a přezkoumatelně podle zákonem vymezených položek.
+
+**4. Subsumpce.** Základ obratu = algebraický součet dvanácti položek dle odst. 1 písm. a)–l), tedy včetně nákladových položek (b, c, f, l) — nikoli pouhý součet výnosů (splněno tvrzení banky, pokud ČNB nákladové položky opomněla). Podmínka „obrat vyšší než nula" (kontrola). Protože BANK je osobou ve skupině, dle odst. 3 se základ určí z konsolidované účetní závěrky mateřské instituce v EU (čl. 4 odst. 1 bod 29 CRR). Sporné: zda se v daném sazebním ustanovení uplatní individuální (odst. 7 písm. d) nebo konsolidovaný (písm. e) základ.
+
+**5. Řešení.** ČNB musí základ obratu vypočítat z dvanácti položek dle odst. 1 jako algebraický součet (započíst i nákladové položky). Jde-li o ovládanou banku a sazební ustanovení odkazuje na konsolidovaný základ (§ 36e odst. 7 písm. e)), čerpá se obrat z konsolidované závěrky mateřské instituce v EU (odst. 3). Pokud ČNB výpočet provedla nesprávně (jen výnosy), je rozhodnutí v části o výši pokuty nepřezkoumatelné/nezákonné a banka se může bránit. Procesní kroky: doložit správný výpočet, identifikovat mateřskou instituci v EU, ověřit aplikované sazební ustanovení.
+
+**6. Varianty.** (a) Pokud by se na subjekt nevztahoval CRR reporting (např. smíšená holdingová osoba), použil by se náhradní výpočet z účetních předpisů dle odst. 2. (b) Pro donucovací pokuty na denní bázi se použije průměrný denní čistý obrat (odst. 4 — roční obrat / 365).
+
+#### G. Protiargumenty a rizika
+
+- *Do obratu patří jen výnosy.* ČNB nebo protistrana může zjednodušeně počítat jen výnosové položky. Neutralizace: odst. 1 výslovně vyjmenovává i nákladové položky (b, c, f, l); zákonem požadovaný základ je algebraický součet, nikoli prosté příjmy.
+- *Konsolidovaný základ je nepřiměřený vůči dceřiné bance.* Argument, že obrat celé skupiny neúměrně zvyšuje sankci. Neutralizace: odst. 3 (transpozice CRD) cíleně váže sankci na sílu skupiny, aby zabránil obcházení přesunem aktivit; uplatní se však jen tam, kde sazební ustanovení na konsolidovaný základ odkazuje.
+- *Slabé místo:* správné přiřazení individuálního vs. konsolidovaného základu k jednotlivým sazebním ustanovením je náročné; chybná volba základu vede k nepřezkoumatelnosti výroku o pokutě.
+
+#### H. Praktický závěr
+
+§ 36i je výkladovým klíčem ke všem procentním sazbám („10 % obratu") v části dvanácté. Obrat se počítá jako algebraický součet dvanácti položek z FINREP (včetně nákladových), s podmínkou kladné hodnoty; pro subjekty mimo CRR reporting platí náhradní výpočet z účetnictví (odst. 2); pro osoby ve skupině konsolidovaný základ mateřské instituce v EU (odst. 3); pro denní donucovací pokuty průměrný denní obrat (odst. 4).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Stanov základ obratu jako algebraický součet dvanácti položek dle odst. 1 (započti i nákladové položky b, c, f, l).
+- [ ] Ověř podmínku „obrat vyšší než nula" a v případě záporné hodnoty vyjdi z poslední kladné.
+- [ ] Urči, zda se uplatní CRR reporting (odst. 1) nebo náhradní výpočet z účetnictví (odst. 2).
+- [ ] U osoby ve skupině čerpej obrat z konsolidované závěrky mateřské instituce v EU (odst. 3) — jen tam, kde sazba na konsolidovaný základ odkazuje.
+- [ ] Pro denní donucovací pokuty použij průměrný denní obrat (odst. 4).
+- [ ] Výpočet v rozhodnutí řádně odůvodni (přezkoumatelnost výroku o pokutě).
+
+**Typicky rozhodné důkazy / podklady:** výkazy COREP/FINREP banky, roční finanční informace předkládané ČNB, konsolidovaná účetní závěrka mateřské instituce v EU, účetní závěrky dle účetních předpisů (u subjektů mimo CRR), výpočetní list ČNB ke stanovení obratu.
+
 ---
 
 ### § 36j — Příslušnost, uveřejnění rozhodnutí
@@ -1039,6 +1448,43 @@ Odstavec 4 stanoví minimální dobu uveřejnění **5 let** — a to jak pro pl
 #### Anomálie v textu odst. 4
 
 Zákon v odst. 4 odkazuje na „odstavce 3 nebo 4" — tedy self-referenčně na tentýž odstavec. Jde zřejmě o legislativní chybu: správný odkaz by měl znít „odstavce 2 nebo 3" (tj. jak plné, tak anonymizované rozhodnutí musí být uveřejněno nejméně 5 let). Tato vada nemá praktický dopad, neboť teleologický výklad jednoznačně vede k závěru, že pětiletá lhůta se vztahuje na všechna uveřejněná rozhodnutí.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** ČNB pravomocně uloží bance BANK, a. s., pokutu 30 mil. Kč za přestupek dle § 36e a hodlá rozhodnutí uveřejnit způsobem umožňujícím dálkový přístup (web ČNB) s uvedením identifikačních údajů banky. BANK požádá o anonymizaci s tvrzením, že plné uveřejnění by ohrozilo stabilitu finančního trhu (hrozí run na vklady) a způsobilo jí nepřiměřenou škodu. ČNB musí předem posoudit, zda je splněna některá z taxativních podmínek anonymizace dle odst. 3. Účastníci: BANK, a. s. (potrestaná osoba), ČNB (přestupkový orgán), veřejnost (adresát informace). Důkazy: pravomocné rozhodnutí, analýza dopadu uveřejnění na stabilitu trhu, posouzení proporcionality.
+
+**2. Právní otázka.** Je ČNB povinna rozhodnutí uveřejnit plně (odst. 2), nebo má rozhodnutí anonymizovat (odst. 3), a po jakou minimální dobu musí být uveřejněno?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 36j odst. 1 (příslušnost ČNB), odst. 2 (plné uveřejnění), odst. 3 (anonymizace — čtyři taxativní podmínky), odst. 4 (minimální doba 5 let).
+- *Související ustanovení téhož zákona:* §§ 36a–36h (skutkové podstaty), § 26–26a (dohledová opatření); celý katalog části dvanácté.
+- *Související předpisy:* směrnice 2013/36/EU (CRD IV) — čl. 65 odst. 1 (pravomoc ukládat sankce), čl. 68 (uveřejňování sankcí, naming and shaming); zák. č. 250/2016 Sb. (ZOP) — § 30 (promlčecí lhůty), procesní úprava řízení, odvolání (bankovní rada ČNB); Listina základních práv a svobod (ochrana soukromí, proporcionalita).
+- *Judikatura:* k uveřejňování rozhodnutí o správních sankcích a k testu proporcionality při zásahu do dobré pověsti existuje praxe ESLP i NSS; nosný princip — naming and shaming je legitimní, je-li proporcionální; anonymizace je výjimkou vázanou na taxativní podmínky.
+
+**4. Subsumpce.** Příslušnost ČNB (odst. 1 — splněno, ČNB je výlučně příslušná). Základní pravidlo: plné uveřejnění (odst. 2). Výjimka (odst. 3): anonymizace při splnění alespoň jedné ze čtyř podmínek — zde tvrzeno písm. b) (ohrožení stability finančního trhu) a písm. d) (nepřiměřená škoda). ČNB musí podmínky posoudit předem a individuálně. Minimální doba uveřejnění 5 let (odst. 4) — platí pro plnou i anonymizovanou verzi. Sporné: zda dopad na BANK dosahuje intenzity „ohrožení stability trhu" (vyšší práh) nebo jen „nepřiměřené škody" (nižší práh).
+
+**5. Řešení.** ČNB provede předchozí posouzení: pouhá reputační újma či riziko obvyklého poklesu důvěry nestačí — pro písm. b) musí jít o systémové ohrožení, pro písm. d) o disproporcionální škodu nad rámec běžného důsledku publicity. Nejsou-li podmínky naplněny, ČNB uveřejní rozhodnutí plně. Je-li naplněna alespoň jedna, uveřejní anonymizovaně. V obou případech min. 5 let. Procesní kroky: odůvodnění posouzení podmínek anonymizace v rozhodnutí (přezkoumatelnost).
+
+**6. Varianty.** (a) Pokud by potrestanou osobou byla fyzická osoba a plné uveřejnění by bylo „zjevně nepřiměřené" (písm. a), ČNB by anonymizovala již z titulu ochrany soukromí FO. (b) Pokud by současně probíhalo trestní řízení, jehož by uveřejnění mohlo ohrozit (písm. c), nastoupila by anonymizace na ochranu trestního procesu.
+
+#### G. Protiargumenty a rizika
+
+- *Plné uveřejnění je nepřiměřeným zásahem do pověsti.* Banka může namítat porušení proporcionality. Neutralizace: naming and shaming je zákonným pravidlem (odst. 2, čl. 68 CRD); anonymizace je výjimkou vázanou na taxativní podmínky, jejichž splnění musí osoba doložit — obecná reputační újma nepostačí.
+- *Pětiletá doba je nepřiměřeně dlouhá vůči promlčení přestupku.* Argument, že informace má být dostupná jen do zániku odpovědnosti. Neutralizace: odst. 4 záměrně stanoví 5 let bez ohledu na promlčecí lhůtu (§ 30 ZOP), aby zajistil trvalou informovanost veřejnosti; jde o samostatný preventivní účel.
+- *Slabé místo:* legislativní anomálie v odst. 4 (self-referenční odkaz na „odstavce 3 nebo 4") teoreticky umožňuje výklad, že se pětiletá lhůta nevztahuje na plné uveřejnění (odst. 2); teleologický výklad však jednoznačně vede k aplikaci lhůty na všechna uveřejněná rozhodnutí.
+
+#### H. Praktický závěr
+
+§ 36j zakládá výlučnou příslušnost ČNB k projednávání přestupků dle ZoB (s subsidiárním ZOP) a transponuje povinnost uveřejňovat rozhodnutí o sankcích (naming and shaming, čl. 68 CRD). Pravidlem je plné uveřejnění (odst. 2); anonymizace (odst. 3) je výjimkou při splnění alespoň jedné ze čtyř taxativních podmínek, posuzovaných předem. Každé uveřejnění trvá nejméně 5 let (odst. 4).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověř výlučnou příslušnost ČNB (odst. 1) a subsidiární aplikaci ZOP (procesní úprava, lhůty, odvolání k bankovní radě).
+- [ ] Vyjdi z pravidla plného uveřejnění (odst. 2) a teprve poté zkoumej výjimky.
+- [ ] Posuď předem a individuálně každou ze čtyř podmínek anonymizace (odst. 3 písm. a–d) a odůvodni závěr.
+- [ ] Rozliš vyšší práh „ohrožení stability trhu" (písm. b) od nižšího prahu „nepřiměřené škody" (písm. d).
+- [ ] Zajisti uveřejnění po dobu nejméně 5 let (odst. 4) bez ohledu na promlčení.
+
+**Typicky rozhodné důkazy / podklady:** pravomocné rozhodnutí o správním trestu, analýza dopadu uveřejnění na stabilitu finančního trhu a na potrestanou osobu (test proporcionality), podklady o probíhajícím trestním řízení (písm. c), doklad o datu a způsobu uveřejnění a o jeho trvání.
 
 ---
 

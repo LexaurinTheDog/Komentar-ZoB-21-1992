@@ -212,6 +212,44 @@ Odst. 7 tvoří speciální katalog pro pobočky bank ze třetích zemí (non-EU
 
 Odst. 8 chrání princip volného pohybu finančních služeb v EU: vůči pobočkám bank z jiných členských států nelze uplatnit opatření zasahující do pravomoci domovského dohledu (kapitálové povinnosti individuálního charakteru, tvorba opravných položek, změna licence). Tím zákon respektuje princip home country control v souladu s čl. 40–47 CRD IV.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Banka A (akciová společnost, držitelka bankovní licence) projde procesem SREP, v němž ČNB zjistí dvě skupiny nedostatků: (i) opakované překračování interních limitů koncentrace u developerských úvěrů bez odpovídajícího navýšení kapitálu k pokrytí rizika a (ii) selhání vnitřní kontrolní funkce řízení rizik (chybějící nezávislé reportování, neobsazená pozice vedoucího řízení rizik 8 měsíců). Účastníci: Banka A (adresát dohledu), její statutární orgán, ČNB (dohledový orgán). Důkazy nutno obstarat: protokol o SREP, vnitřní předpisy banky k řízení rizik a koncentraci, výkazy kapitálové přiměřenosti (COREP), zápisy z jednání výboru pro řízení rizik, korespondence ČNB s bankou.
+
+**2. Právní otázka.** Může ČNB v jednom rozhodnutí kumulovat dodatečný kapitálový požadavek (odst. 2 písm. a) bod 1) s příkazem k výměně vedoucího řízení rizik (odst. 5 písm. a) bod 1), a obstojí takový postup z hlediska proporcionality dle odst. 1?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 26 odst. 1 (podmínky a princip proporcionality), odst. 2 písm. a) bod 1 a 2 (dodatečný kapitál, zlepšení uspořádání), odst. 5 písm. a) bod 1 (výměna vedoucí osoby).
+- *Související ustanovení téhož zákona:* § 8b (požadavky na řídicí a kontrolní systém), §§ 25–25j (výkon dohledu a SREP), § 26aa (procesní rámec uložení opatření), § 12m (kombinovaná kapitálová rezerva).
+- *Související předpisy:* čl. 92 a část třetí nařízení (EU) č. 575/2013 (CRR — kapitálové požadavky); čl. 104 a 104a CRD IV (katalog dohledových pravomocí); § 2 odst. 3 a 4 správního řádu (proporcionalita, ochrana legitimního očekávání).
+- *Judikatura:* NSS 5 Afs 62/2011-120 (proporcionalita jako mez správního uvážení ČNB při intervenci podle § 26; přípustnost zásahu odpovídajícího závažnosti a naléhavosti); NS 29 Odo 460/2001 (přezkoumatelnost korporátního provedení rozhodnutí ČNB o snížení základního jmění).
+
+**4. Subsumpce.** Znak „nedostatek v činnosti" je naplněn dvojnásobně (kapitálové podhodnocení koncentračního rizika i organizační selhání). Znak „příčinné souvislosti s porušením povinnosti" je splněn ohledně § 8b (řídicí a kontrolní systém) i obezřetnostních povinností CRR. Znak „proporcionality" je sporný u kumulace: dodatečný kapitál a zlepšení uspořádání (odst. 2) jsou mírnější nástroje; výměna vedoucí osoby (odst. 5) je strukturálním zásahem, jehož přiměřenost vyžaduje samostatné odůvodnění závažnosti (dlouhodobé neobsazení a systémové selhání kontroly).
+
+**5. Řešení.** ČNB může opatření kumulovat, neboť katalog odst. 2 a odst. 5 nejsou vzájemně výlučné a směřují k odlišným nedostatkům. Musí však pro každé opatření zvlášť odůvodnit jeho nezbytnost a vhodnost a vysvětlit, proč mírnější alternativa (např. pouhý příkaz obsadit funkci ve lhůtě podle odst. 2) nepostačuje k nápravě strukturálního selhání. Procesně postupuje podle § 26aa (řízení lze zahájit vydáním rozhodnutí; rozklad nemá odkladný účinek). Pravděpodobný výsledek: rozhodnutí obstojí, je-li výměna vedoucí osoby opřena o prokázané dlouhodobé selhání kontrolní funkce; pouhý odkaz na neobsazení pozice bez doložení rizikových dopadů by byl při přezkumu zranitelný.
+
+**6. Varianty.** (a) Pokud by šlo pouze o jednorázové, již napravené překročení limitu bez organizačního selhání, byl by namístě nanejvýš příkaz podle odst. 2 písm. a) bod 2 (zlepšení uspořádání) — výměna vedení by byla nepřiměřená. (b) Pokud by nedostatek zatím jen reálně hrozil v horizontu 12 měsíců (např. avizovaný odchod klíčových osob řízení rizik), mohla by ČNB využít preventivní pravomoc podle odst. 9, ale jen pro opatření z odst. 2–4, nikoli pro výměnu vedení dle odst. 5.
+
+#### G. Protiargumenty a rizika
+
+- *Námitka nepřiměřenosti kumulace (banka).* Banka může tvrdit, že současné uložení kapitálového i personálního opatření je nadbytečné a ČNB měla zvolit nejmírnější účinný nástroj. Neutralizace: oddělené odůvodnění každého opatření vůči jinému nedostatku; doložení, že kapitálové a organizační selhání jsou samostatné a vyžadují samostatnou nápravu.
+- *Námitka zásahu do vnitřních poměrů a vlastnických práv akcionářů.* Výměna člena orgánu zasahuje do působnosti valné hromady. Neutralizace: opora v čl. 104 odst. 1 písm. c) CRD IV a ve veřejném zájmu na obezřetném řízení banky; judikatura NSS 5 Afs 62/2011-120 připouští zásah odpovídající závažnosti.
+- *Slabé místo.* Anomálie číslování (chybějící bod 12 a písm. e) v odst. 2) nemá vliv na platnost uložených opatření, ale ČNB musí v rozhodnutí citovat existující body přesně, aby nevznikla pochybnost o právním základu. Riziko vzniká, opírá-li se opatření o nedostatečně zjištěný skutkový stav v procesu SREP.
+
+#### H. Praktický závěr
+
+V praxi je § 26 nástrojovou skříní dohledu: ČNB vybírá z katalogu opatření to, které je proporcionální zjištěnému nedostatku, a může kombinovat více opatření, je-li každé samostatně odůvodněno. Klíčové je řádné zjištění skutkového stavu (zpravidla v SREP) a explicitní test proporcionality (vhodnost, nezbytnost, přiměřenost v užším smyslu).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je identifikován konkrétní nedostatek v činnosti a normativní zdroj porušené povinnosti (zákon, prováděcí předpis, rozhodnutí, OOP, CRR, rozhodnutí Komise)?
+- [ ] Je dána příčinná souvislost mezi porušením a nedostatkem?
+- [ ] Je každé uložené opatření zvlášť odůvodněno z hlediska proporcionality (proč nepostačí mírnější nástroj)?
+- [ ] Spadá zvolené opatření do katalogu odst. 2–7 a není vyloučeno omezením podle odst. 8 (pobočky bank z EU / třetích zemí)?
+- [ ] Při preventivním uložení (hrozící nedostatek) jde jen o opatření přípustná podle odst. 9?
+- [ ] Je dodržen procesní rámec § 26aa (zahájení, rozklad bez odkladného účinku) a případné uveřejnění podle § 26ab?
+
+**Typicky rozhodné důkazy / podklady:** protokol a podklady SREP; výkazy kapitálové přiměřenosti (COREP) a likvidity; vnitřní předpisy řídicího a kontrolního systému (§ 8b); zápisy orgánů banky; korespondence ČNB–banka; znalecké/auditní zjištění o stavu rizik.
+
 ---
 
 ### § 26a — Opatření k nápravě při kritickém poklesu kapitálového poměru
@@ -254,6 +292,43 @@ Opatření písm. b) je mimořádně účinné: banka nemusí nutně získávat 
 
 Situace zachycená v § 26a je předstupeň scénáře, jenž by mohl vyústit v zahájení ozdravného nebo krizového procesu podle zákona č. 374/2015 Sb. Pokud by ani po uložení opatření k nápravě nebyla kapitálová situace banky obnovena, nastupuje posouzení selhání (failing or likely to fail) ve smyslu čl. 32 BRRD (§ 76 a násl. zákona č. 374/2015 Sb.). Opatření dle § 26a tak plní funkci hraniční zóny mezi korektivní regulací a krizovým řešením.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Banka B vykáže ve čtvrtletním výkazu celkový kapitálový poměr na individuálním základě 5,0 %, tj. pod hranicí dvou třetin z 8% minima CRR (práh ~5,33 %). Příčinou je skokové znehodnocení portfolia úvěrů po krachu významného korporátního dlužníka. Účastníci: Banka B, ČNB. Důkazy nutno obstarat: výkaz kapitálové přiměřenosti dokládající poměr 5,0 %, podklady o tvorbě opravných položek, analýza rizikových vah aktiv, přehled vkladových úrokových sazeb banky a srovnatelných bank na trhu.
+
+**2. Právní otázka.** Má ČNB při zjištění poklesu pod práh dvou třetin prostor pro úvahu, zda opatření podle § 26a uloží, nebo je povinna je uložit, a jakou množinu opatření z písm. a)–e) zvolit?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 26a (povinné — „uloží" — opatření při poklesu pod 2/3 celkového kapitálového poměru; katalog písm. a)–e).
+- *Související ustanovení téhož zákona:* § 26 (obecná opatření k nápravě), § 26b (informační povinnost orgánů při poklesu pod minimum), § 26ba (zrychlené zvýšení základního kapitálu), § 19 (osoby se zvláštním vztahem — písm. d).
+- *Související předpisy:* čl. 92 odst. 1 písm. c) CRR (8% minimum a vymezení rizikových vah pro písm. b); zákon č. 374/2015 Sb. (BRRD), zejm. § 76 a násl. (posouzení selhání — „failing or likely to fail").
+- *Judikatura:* nosný závěr o proporcionalitě dohledové intervence (NSS 5 Afs 62/2011-120) se uplatní omezeně, neboť uložení samotného opatření je obligatorní; uvážení se přesouvá do výběru a kombinace konkrétních opatření z katalogu.
+
+**4. Subsumpce.** Znak „celkový kapitálový poměr na individuálním základě menší než dvě třetiny" je naplněn (5,0 % < ~5,33 %). Tím se aktivuje zákonná povinnost ČNB uložit „jedno nebo více" opatření. ČNB nemá uvážení ohledně toho, zda konat (vázané rozhodování), nýbrž jen ohledně volby a kombinace opatření, kde se uplatní proporcionalita ve vztahu k povaze podkapitalizování.
+
+**5. Řešení.** ČNB je povinna uložit alespoň jedno opatření z písm. a)–e); zpravidla zvolí kombinaci: příkaz zvýšit základní kapitál (písm. a) jako cílový stav, doplněný omezením na aktiva s rizikovou váhou pod 100 % (písm. b) k organickému zlepšení poměru a omezením úrokových sazeb z vkladů (písm. e) k zamezení destabilizačního lákání vkladů. Procesně se uplatní § 26aa. Souběžně musí ČNB sledovat, zda nejsou naplněny podmínky posouzení selhání podle zákona č. 374/2015 Sb. Pravděpodobný výsledek: uložení balíčku opatření; pokud rekapitalizace selže, eskalace do krizového řešení.
+
+**6. Varianty.** (a) Klesne-li poměr jen mírně pod 8 %, avšak zůstane nad prahem dvou třetin, § 26a se neaktivuje a ČNB postupuje podle obecného § 26 (a § 12m při nedodržení kombinované rezervy). (b) Je-li pokles pod 2/3 doprovázen platební neschopností, nastupuje vedle § 26a též informační povinnost podle § 26b a reálně posouzení selhání podle BRRD.
+
+#### G. Protiargumenty a rizika
+
+- *Námitka, že opatření je fakultativní (banka).* Banka může argumentovat slovem „může" užívaným jinde v části sedmé. Neutralizace: § 26a výslovně užívá „uloží", jde tedy o vázané rozhodování bez uvážení o tom, zda konat.
+- *Námitka přílišné tvrdosti omezení vkladových sazeb (písm. e).* Banka může tvrdit zásah do smluvní volnosti. Neutralizace: opora ve veřejném zájmu na finanční stabilitě a ochraně vkladatelů před falešnými signály; omezení je dočasné a navázané na trvání podkapitalizování.
+- *Slabé místo.* Práh „dvou třetin" je odvozen z aktuální hodnoty CRR (8 %); změní-li se unijní minimum, mění se i práh automaticky — ČNB i banka musejí počítat s aktuální hodnotou. Riziko vzniká, opírá-li se rozhodnutí o zastaralý výklad číselné hodnoty.
+
+#### H. Praktický závěr
+
+§ 26a je „tvrdý" obligatorní režim pro kriticky podkapitalizovanou banku: jakmile poměr klesne pod dvě třetiny minima CRR, ČNB musí jednat a vybírá z uzavřeného katalogu opatření směřujících k rychlému obnovení kapitálu a zastavení dalšího zhoršování. Je předstupněm krizového řešení podle BRRD.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je doložen pokles celkového kapitálového poměru na individuálním základě pod dvě třetiny minima podle čl. 92 odst. 1 písm. c) CRR (aktuálně ~5,33 %)?
+- [ ] Bylo uloženo alespoň jedno opatření z písm. a)–e) (povinnost konat)?
+- [ ] Je volba a kombinace opatření odůvodněna ve vztahu k povaze a hloubce podkapitalizování?
+- [ ] Byla zvážena návaznost na § 26b (informační povinnost) a na posouzení selhání podle zákona č. 374/2015 Sb.?
+- [ ] U písm. e) — je „současná běžná úroková sazba" zjištěna ČNB doložitelným způsobem?
+
+**Typicky rozhodné důkazy / podklady:** výkaz kapitálové přiměřenosti (COREP) dokládající poměr; přehled rizikových vah a struktury aktiv; analýza tvorby opravných položek; data o vkladových úrokových sazbách na trhu; podklady o případné platební neschopnosti.
+
 ---
 
 ### § 26aa — Procesní pravidla pro řízení o uložení opatření k nápravě
@@ -285,6 +360,43 @@ Zákon ukládá bance aktivní povinnost sdělit ČNB bez zbytečného odkladu, 
 #### Rozklad bez odkladného účinku — odst. 4
 
 Rozklad je řádným opravným prostředkem v řízeních, v nichž prvostupňovým orgánem je ČNB; rozhoduje o něm bankovní rada ČNB. Výslovné vyloučení odkladného účinku je zásadní: opatření k nápravě se vykonává okamžitě, bez ohledu na podaný rozklad. Tím zákon brání tomu, aby podání rozkladu bylo zneužíváno k oddalování nápravy. Vyloučení odkladného účinku je v souladu s čl. 52 odst. 4 CRD IV.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** ČNB doručí Bance C rozhodnutí o uložení opatření k nápravě (omezení rizikových obchodů a příkaz zlepšit řídicí a kontrolní systém), které bylo zahájeno přímo vydáním rozhodnutí (bez předchozího oznámení o zahájení řízení). Banka C podá rozklad a současně se domáhá toho, aby výkon opatření byl pozastaven do rozhodnutí o rozkladu; namítá též, že měla být účastníkem řízení i její mateřská společnost. Účastníci: Banka C, ČNB (prvostupňový orgán i odvolací — bankovní rada). Důkazy: rozhodnutí o uložení opatření, doklad o doručení, podaný rozklad, vnitřní podklady o zjednání nápravy.
+
+**2. Právní otázka.** Má rozklad proti rozhodnutí o uložení opatření k nápravě odkladný účinek a může se výkonu opatření Banka C bránit jeho podáním? Je vyloučení mateřské společnosti z okruhu účastníků zákonné?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 26aa odst. 1 (jediný účastník — adresát opatření), odst. 2 (zahájení vydáním rozhodnutí), odst. 3 (oznámení o zjednání nápravy), odst. 4 (rozklad bez odkladného účinku, rozhoduje bankovní rada).
+- *Související ustanovení téhož zákona:* § 26 (hmotněprávní základ opatření), § 26ab (uveřejnění rozhodnutí), § 26ac odst. 5 (obdobné použití § 26aa na donucovací pokutu).
+- *Související předpisy:* § 27, § 46, § 152 správního řádu (účastníci, zahájení řízení, rozklad) — od nichž je § 26aa zčásti odchylkou jako lex specialis; čl. 52 odst. 4 a čl. 104 odst. 6 CRD IV (urychlené postupy, vyloučení suspenzivního účinku).
+- *Judikatura:* nosný závěr o ústavní přípustnosti zásahu bez předchozího plného řízení tam, kde prodlení ohrožuje převažující veřejný zájem (NSS 5 Afs 62/2011-120) — podpora pro zahájení vydáním rozhodnutí a vyloučení odkladného účinku.
+
+**4. Subsumpce.** Znak „jediný účastník" (odst. 1) je naplněn — adresátem je Banka C; mateřská společnost účastníkem není, neboť zákon okruh výslovně zužuje. Znak „zahájení vydáním rozhodnutí" (odst. 2) je naplněn. Vyloučení odkladného účinku (odst. 4) je výslovné — podání rozkladu nebrání výkonu. Vázne pouze povinnost banky oznámit zjednání nápravy (odst. 3), jejíž nesplnění může být samostatným přestupkem.
+
+**5. Řešení.** Rozklad nemá odkladný účinek, opatření je vykonatelné okamžitě bez ohledu na jeho podání; Banka C se výkonu jeho podáním bránit nemůže. Vyloučení mateřské společnosti z okruhu účastníků je zákonné (lex specialis k § 27 SŘ). O rozkladu rozhodne bankovní rada ČNB. Banka musí současně plnit opatření a po jeho splnění bez zbytečného odkladu informovat ČNB (odst. 3). Pravděpodobný výsledek: rozklad věcně přezkoumán bankovní radou, výkon však během řízení neodložen.
+
+**6. Varianty.** (a) Pokud by ČNB chtěla výjimečně přiznat odkladný účinek, zákon to nevylučuje absolutně z hlediska soudního přezkumu — banka může u správního soudu žádat o přiznání odkladného účinku žaloby, posouzení však podléhá přísnému testu. (b) Pokud by řízení bylo zahájeno standardně oznámením (nikoli vydáním rozhodnutí), získala by banka prostor vyjádřit se před vydáním rozhodnutí; § 26aa odst. 2 to však jako odchylku nevyžaduje.
+
+#### G. Protiargumenty a rizika
+
+- *Námitka porušení práva na obhajobu (banka).* Zahájení vydáním rozhodnutí omezuje možnost vyjádřit se předem. Neutralizace: odchylka je transpozicí čl. 104 odst. 6 CRD IV a odůvodněna urgencí; práva se hájí v rozkladu a v navazujícím soudním přezkumu.
+- *Námitka, že vyloučení odkladného účinku je nepřiměřené.* Neutralizace: výslovná zákonná úprava (odst. 4) odpovídající čl. 52 odst. 4 CRD IV; cílem je zabránit obstrukčnímu oddalování nápravy.
+- *Slabé místo.* Zúžení účastenství na adresáta (odst. 1) může vyvolat námitky dotčených třetích osob (akcionáři, věřitelé). Riziko je nízké — jde o výslovnou odchylku zákona, již nelze obejít, leč argumentace musí být v rozhodnutí jasně opřena o § 26aa odst. 1.
+
+#### H. Praktický závěr
+
+§ 26aa nastavuje rychlý a koncentrovaný procesní režim: jediný účastník, možnost zahájit řízení vydáním rozhodnutí, rozklad bez odkladného účinku (bankovní rada) a aktivní oznamovací povinnost banky o nápravě. Pro adresáta to znamená nutnost opatření plnit ihned a teprve poté/souběžně se bránit.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je účastníkem řízení pouze adresát opatření (nikoli třetí osoby)?
+- [ ] Je řízení zahájeno přípustně (oznámením, nebo vydáním rozhodnutí dle odst. 2)?
+- [ ] Je adresát srozuměn s tím, že rozklad nemá odkladný účinek a opatření je vykonatelné ihned?
+- [ ] Byl rozklad podán a postoupen k rozhodnutí bankovní radě ČNB?
+- [ ] Splnil adresát oznamovací povinnost o zjednání nápravy bez zbytečného odkladu (odst. 3)?
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí o uložení opatření a doklad o doručení; podaný rozklad; podklady o realizaci nápravy a oznámení o jejím zjednání; spisový materiál ČNB k zahájení a vedení řízení.
 
 ---
 
@@ -324,6 +436,43 @@ Zákon zná čtyři důvody pro anonymizaci (uveřejnění bez identifikačních
 #### Minimální doba uveřejnění
 
 Pětiletá lhůta uveřejnění je minimem stanoveným čl. 68 odst. 3 CRD IV. ČNB ji nemůže zkrátit ani v případě odvolání rozhodnutí nebo napravení nedostatku.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** ČNB pravomocně uloží Bance D opatření k nápravě za závažné nedostatky v řízení rizik. Banka D žádá, aby rozhodnutí nebylo uveřejněno s jejími identifikačními údaji; tvrdí, že zveřejnění by vyvolalo odliv vkladů a ohrozilo stabilitu. Současně proti odpovědné fyzické osobě (bývalý vedoucí řízení rizik) probíhá trestní řízení pro podezření z porušení povinnosti při správě cizího majetku. Účastníci: Banka D, dotčená fyzická osoba, ČNB, orgány činné v trestním řízení. Důkazy: pravomocné rozhodnutí, analýza dopadu zveřejnění na likviditu/stabilitu, sdělení orgánů činných v trestním řízení o probíhajícím vyšetřování.
+
+**2. Právní otázka.** Jsou v daném případě naplněny podmínky pro anonymizované uveřejnění podle § 26ab odst. 2, a může ČNB upustit od uvedení identifikačních údajů jak banky, tak fyzické osoby?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 26ab odst. 1 (povinnost bez zbytečného odkladu uveřejnit pravomocné rozhodnutí), odst. 2 písm. a)–d) (důvody anonymizace), odst. 3 (minimálně 5 let).
+- *Související ustanovení téhož zákona:* § 26 (opatření, jež se uveřejňuje), § 26aa (řízení vč. pravomocnosti rozhodnutí), § 26ac odst. 5 (obdobné použití na donucovací pokutu).
+- *Související předpisy:* čl. 68 CRD IV (povinnost zveřejnit opatření a sankce; minimální doba; důvody anonymizace); nařízení (EU) 2016/679 (GDPR) — ochrana osobních údajů fyzické osoby při posouzení proporcionality.
+- *Judikatura:* obecný nosný princip proporcionality při zásahu do práv jednotlivce (test vhodnosti, nezbytnosti a přiměřenosti) — uplatní se při posuzování důvodu podle písm. a) a d).
+
+**4. Subsumpce.** Znak „pravomocné rozhodnutí" je naplněn. Důvod anonymizace podle písm. b) (ohrožení stability finančního trhu) je sporný — vyžaduje doložení reálného systémového rizika, nikoli pouhé tvrzení banky o možném odlivu vkladů. Důvod podle písm. c) (ohrožení trestního řízení) je ve vztahu k identifikaci fyzické osoby naplnitelný, doloží-li orgány činné v trestním řízení riziko zmaření. Důvod podle písm. a) (nepřiměřenost vůči fyzické osobě) vyžaduje předchozí posouzení proporcionality ČNB.
+
+**5. Řešení.** ČNB je povinna rozhodnutí uveřejnit; o anonymizaci rozhoduje samostatně podle taxativních důvodů odst. 2. Tvrzení banky o ohrožení stability (písm. b) musí podložit konkrétní analýzou; samotná obava z reputační újmy nestačí (na tu míří spíše písm. d, opět po testu přiměřenosti). Ve vztahu k fyzické osobě v trestním řízení je namístě anonymizace podle písm. c) po koordinaci s orgány činnými v trestním řízení. Výsledek: pravděpodobně uveřejnění rozhodnutí o bance s jejími údaji (není-li doloženo systémové riziko), avšak bez identifikace fyzické osoby (písm. a/c). Doba uveřejnění minimálně 5 let, nezkratitelná ani při pozdějším zrušení nedostatku.
+
+**6. Varianty.** (a) Jde-li o systémově významnou instituci a ČNB doloží reálné riziko „bank run", anonymizace podle písm. b) je namístě a slouží jako krizový komunikační nástroj. (b) Skončí-li trestní řízení a odpadne důvod podle písm. c), nemůže to zpětně zkrátit pětiletou dobu již zveřejněného (anonymizovaného) rozhodnutí ani automaticky doplnit identifikační údaje.
+
+#### G. Protiargumenty a rizika
+
+- *Námitka banky o reputační újmě jako důvodu neanonymizace.* Banka může zaměňovat reputační dopad s ohrožením stability. Neutralizace: rozlišit písm. b) (systémové riziko, doložitelné) od pouhé reputační újmy; obecná reputační újma sama o sobě anonymizaci nezakládá.
+- *Námitka ochrany osobních údajů fyzické osoby (GDPR).* Neutralizace: § 26ab odst. 2 písm. a) výslovně počítá s testem proporcionality vůči fyzické osobě; ČNB jej musí provést a zdokumentovat, čímž je soulad s GDPR zajištěn.
+- *Slabé místo.* Posouzení důvodů anonymizace je úvahou ČNB, jež musí být přezkoumatelně odůvodněna. Chybějící analýza dopadu (zejm. u písm. b a d) je hlavním rizikem zrušení v přezkumu.
+
+#### H. Praktický závěr
+
+§ 26ab činí z uveřejnění rozhodnutí standardní dohledový a preventivní nástroj (name and shame); anonymizace je výjimkou ze čtyř taxativních důvodů, vždy po doloženém posouzení. Minimální doba uveřejnění 5 let je pevná a nezkratitelná.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o pravomocné rozhodnutí o uložení opatření k nápravě určené k uveřejnění?
+- [ ] Bylo uveřejnění provedeno bez zbytečného odkladu způsobem umožňujícím dálkový přístup?
+- [ ] Je-li navržena anonymizace, je opřena o některý z taxativních důvodů odst. 2 písm. a)–d) a doložena (zejm. analýzou u písm. b a d)?
+- [ ] Byla u fyzické osoby provedena dokumentace posouzení proporcionality (písm. a) a případně koordinace s orgány činnými v trestním řízení (písm. c)?
+- [ ] Je zajištěno uveřejnění po dobu nejméně 5 let bez ohledu na pozdější vývoj?
+
+**Typicky rozhodné důkazy / podklady:** pravomocné rozhodnutí; doklad o uveřejnění a jeho datu; analýza dopadu zveřejnění na stabilitu/likviditu; stanovisko orgánů činných v trestním řízení; dokumentace posouzení proporcionality vůči fyzické osobě.
 
 ---
 
@@ -377,6 +526,43 @@ Pro právnické osoby je denní strop **5 % průměrného denního čistého obr
 
 Donucovací pokuty vybírá a vymáhá **celní úřad** (nikoliv ČNB). Příjem putuje do **státního rozpočtu**. Tato institucionální separace — ČNB ukládá, ale nevybírá — je záměrná a eliminuje riziko korupční pobídky u dohledového orgánu.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** ČNB pravomocně uloží Bance E opatření k nápravě k odstranění nedostatku, jenž vykazuje znaky přestupku podle § 36e (porušení obezřetnostní povinnosti). Banka E ve stanovené lhůtě opatření nesplní. ČNB proto vydá rozhodnutí o donucovací pokutě se stanovenou denní sazbou a lhůtou ke splnění. Banka splní povinnost až po 40 dnech. Účastníci: Banka E (právnická osoba), ČNB (ukládá), celní úřad (vybírá a vymáhá). Důkazy: pravomocné rozhodnutí o opatření k nápravě, doklad o jeho nesplnění ve lhůtě, výpočet průměrného denního čistého obratu podle § 36i, doklad o dni splnění povinnosti.
+
+**2. Právní otázka.** Za jaké období a v jaké maximální výši lze Bance E uložit donucovací pokutu a jakým mechanismem se vyčíslí její celková výše?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 26ac odst. 1 (vázanost na přestupkové skutkové podstaty), odst. 2 (denní sazba, max. 6 měsíců), odst. 3 (dvoufázové vyčíslení), odst. 4 písm. a) (právnická osoba — až 5 % průměrného denního čistého obratu), odst. 5 (obdobné použití § 26aa a § 26ab), odst. 6 (vybírá celní úřad, příjem státního rozpočtu).
+- *Související ustanovení téhož zákona:* § 26 (opatření, jehož splnění se vynucuje), § 26 odst. 6 (upuštění od protiprávního jednání u osob nepodléhajících dohledu — písm. b odst. 1), §§ 36a, 36c, 36d, 36da, 36e, 36f, 36h (odkazované přestupkové skutkové podstaty), § 36i (výpočet obratu), § 26aa (procesní rámec).
+- *Související předpisy:* čl. 102 odst. 1 písm. a) a čl. 103 odst. 2 písm. e) CRD IV (pravomoc ukládat periodické penále); správní řád (výkon rozhodnutí podpůrně).
+- *Judikatura:* nosný závěr o odlišení donucovací pokuty (astreinte — nátlak do budoucna) od sankce za přestupek (postih minulého jednání) — donucovací pokuta není trestem a neuplatní se na ni zásada ne bis in idem ve vztahu k případné přestupkové pokutě za totéž porušení.
+
+**4. Subsumpce.** Znak „nesplnění opatření k nápravě, jež vykazuje znaky přestupku podle vyjmenovaných ustanovení" (odst. 1) je naplněn — nedostatek odpovídá § 36e. Znak časového omezení (odst. 2) — pokutu lze ukládat za každý den, nejdéle 6 měsíců; 40 dní prodlení je v limitu. Znak výpočtu výše (odst. 4 písm. a) — denní strop je 5 % průměrného denního čistého obratu podle § 36i. Celková výše se vyčíslí podle odst. 3 jako součin denní sazby a počtu dní (40).
+
+**5. Řešení.** ČNB nejprve rozhodnutím stanoví denní sazbu (do 5 % průměrného denního čistého obratu) a lhůtu ke splnění (max. 6 měsíců); po splnění (40. den) druhým rozhodnutím vyčíslí celkovou výši jako součin denní sazby × 40 dní. Vybírá a vymáhá celní úřad, příjem jde do státního rozpočtu. Procesně a pro uveřejnění se obdobně užije § 26aa a § 26ab. Důležité: ČNB musí v rozhodnutí explicitně identifikovat odkaz na konkrétní přestupkovou skutkovou podstatu (odst. 1), jinak nástroj nelze použít. Pravděpodobný výsledek: pokuta vyčíslena za 40 dní; banka se může bránit rozkladem (bez odkladného účinku) a poté žalobou.
+
+**6. Varianty.** (a) Pokud by nesplněné opatření nevykazovalo znaky žádné z vyjmenovaných přestupkových skutkových podstat, donucovací pokutu uložit nelze a ČNB musí volit jiný nástroj výkonu/intervence. (b) Šlo-li by o fyzickou osobu (např. dle § 26 odst. 6), denní strop je pevná částka 1 262 000 Kč (odst. 4 písm. b), nikoli procento z obratu.
+
+#### G. Protiargumenty a rizika
+
+- *Námitka dvojího postihu (banka).* Banka může tvrdit, že donucovací pokuta a přestupková pokuta za totéž porušení znamenají ne bis in idem. Neutralizace: donucovací pokuta není trestem za minulé jednání, nýbrž nátlakovým prostředkem k vynucení splnění do budoucna; obě plní odlišnou funkci.
+- *Námitka nesprávného výpočtu obratu.* Banka může zpochybnit základ pro 5% denní strop. Neutralizace: výpočet se řídí § 36i; ČNB musí doložit vstupní data a metodiku.
+- *Slabé místo.* Vázanost na taxativní výčet přestupkových skutkových podstat (odst. 1) je úzká — chybí-li přesný odkaz, je rozhodnutí o donucovací pokutě zrušitelné. Riziko vzniká rovněž při překročení šestiměsíční maximální doby (odst. 2).
+
+#### H. Praktický závěr
+
+§ 26ac dává ČNB peněžitý donucovací nástroj k vynucení splnění opatření (a příkazu dle § 26 odst. 6), avšak jen je-li porušení podřaditelné pod taxativně vyjmenované přestupkové skutkové podstaty. Mechanismus je dvoufázový (denní sazba → vyčíslení celkové výše), s tvrdým časovým limitem 6 měsíců; vybírá celní úřad.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Vykazuje nesplněné opatření (nebo příkaz dle § 26 odst. 6) znaky některé z taxativně vyjmenovaných přestupkových skutkových podstat (odst. 1)?
+- [ ] Stanovilo první rozhodnutí denní sazbu a lhůtu ke splnění (nejvýše 6 měsíců)?
+- [ ] Je denní sazba v mezích odst. 4 (5 % průměrného denního čistého obratu u PO dle § 36i / 1 262 000 Kč u FO)?
+- [ ] Bylo druhým rozhodnutím vyčísleno celkové penále jako součin sazby a počtu dní porušení (odst. 3)?
+- [ ] Byly obdobně užity § 26aa (řízení) a § 26ab (uveřejnění)? Je výběr směřován k celnímu úřadu (odst. 6)?
+
+**Typicky rozhodné důkazy / podklady:** pravomocné rozhodnutí o opatření k nápravě / o upuštění; doklad o nesplnění ve lhůtě; výpočet průměrného denního čistého obratu (§ 36i); evidence dní prodlení; rozhodnutí o stanovení denní sazby a o vyčíslení celkové výše.
+
 ---
 
 ### § 26b — Povinnost informovat ČNB o platební neschopnosti nebo hrozící ztrátě
@@ -403,6 +589,43 @@ Tato povinnost se doplňuje s povinnostmi k ozdravnému plánu (zákon č. 374/2
 #### Pobočky zahraničních bank — odst. 2
 
 Pro pobočky zahraničních bank ze třetích zemí platí povinnost informovat ČNB jak pro vedení mateřské banky, tak pro vedení pobočky samotné. Tím zákon zajišťuje redundantní informační tok a brání tomu, aby mateřská banka nezasílala informace na úkor pobočky.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Člen dozorčí rady Banky F se na mimořádném jednání dozví z interní analýzy, že po znehodnocení významné expozice klesne celkový kapitálový poměr banky na individuálním základě pod 8 % (minimum dle čl. 92 odst. 1 písm. c) CRR). Statutární orgán však zaujme postoj, že situaci „nejprve vyhodnotí" a ČNB osloví až po několika týdnech. Účastníci: jednotliví členové statutárního orgánu a dozorčí rady, Banka F, ČNB. Důkazy: interní analýza dopadu na kapitálový poměr, zápis z jednání orgánů, časová osa, kdy se který člen o situaci dozvěděl.
+
+**2. Právní otázka.** Stíhá informační povinnost vůči ČNB banku jako celek (po kolektivním projednání), nebo každého jednotlivého člena orgánu zvlášť, a kdy nejpozději musí být splněna?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 26b odst. 1 (individuální povinnost člena statutárního orgánu, správní rady nebo dozorčí rady neprodleně informovat ČNB při platební neschopnosti či ztrátách snižujících kapitálový poměr pod minimum), odst. 2 (obdobně pro vedení zahraniční banky z třetí země a její pobočky).
+- *Související ustanovení téhož zákona:* § 26a (povinná opatření při poklesu pod 2/3 minima), § 26 (navazující opatření k nápravě), § 8b (řídicí a kontrolní systém, povinnost mít systém včasného varování).
+- *Související předpisy:* čl. 92 odst. 1 písm. c) CRR (8% minimum); zákon č. 374/2015 Sb. (BRRD), zejm. § 76 a násl. (posouzení selhání „failing or likely to fail") a povinnosti k ozdravnému plánu; § 159 a násl. OZ (péče řádného hospodáře jako obecný standard jednání člena orgánu).
+- *Judikatura:* obecný nosný princip individuální odpovědnosti člena orgánu za výkon funkce s péčí řádného hospodáře — pasivní spoléhání na kolektivní rozhodnutí nezbavuje jednotlivce vlastní povinnosti jednat.
+
+**4. Subsumpce.** Znak „zjištění" je u člena dozorčí rady naplněn okamžikem seznámení s analýzou. Znak „pokles pod minimum celkového kapitálového poměru" je naplněn (pod 8 %). Znak „neprodleně" vyžaduje bezodkladné jednání jednotlivce — odklad „na vyhodnocení" statutárním orgánem nesplnění neomlouvá. Povinnost je individuální: každý člen, jenž se dozvěděl, musí jednat sám, bez ohledu na kolektivní postoj orgánu.
+
+**5. Řešení.** Informační povinnost stíhá každého jednotlivého člena orgánu osobně; člen dozorčí rady, jenž se o situaci dozvěděl, musí ČNB informovat neprodleně sám, i kdyby statutární orgán otálel. Splnění povinnosti jedním členem fakticky závazek naplní, avšak pasivita ostatních je porušením jejich vlastní povinnosti a může být přestupkem a zároveň porušením péče řádného hospodáře. Souběžně se aktivuje posouzení podle BRRD a zpravidla navazující opatření podle § 26a. Pravděpodobný výsledek: člen, jenž informoval, jedná souladně; členové, kteří se spolehli na „vyhodnocení", nesou riziko postihu.
+
+**6. Varianty.** (a) Pokud by pokles zasahoval pod dvě třetiny minima (~5,33 %), přistupuje k informační povinnosti i obligatorní režim opatření podle § 26a. (b) U pobočky zahraniční banky z třetí země (odst. 2) stíhá povinnost paralelně vedení mateřské banky i vedení pobočky, takže redundantní informační tok zajišťuje, že ČNB nebude obejita.
+
+#### G. Protiargumenty a rizika
+
+- *Námitka, že povinnost je kolektivní (člen orgánu).* Člen může tvrdit, že měl vyčkat usnesení orgánu. Neutralizace: § 26b váže povinnost na „člena", tj. individuálně; cílem je prolomit kolektivní pasivitu, jednotlivec nesmí spoléhat na sbor.
+- *Námitka neurčitosti pojmu „neprodleně".* Neutralizace: „neprodleně" znamená bez zbytečného prodlení po zjištění; prostor je pouze pro nezbytné ověření, nikoli pro odklad „na vyhodnocení" trvající týdny.
+- *Slabé místo.* Důkazně je sporné, kdy přesně se který člen o rozhodné skutečnosti dozvěděl. Riziko spočívá v rekonstrukci časové osy; doporučuje se evidovat okamžik seznámení a krok informování ČNB.
+
+#### H. Praktický závěr
+
+§ 26b ukládá osobní, individuální a neprodlenou informační povinnost každému členu statutárního orgánu, správní i dozorčí rady při platební neschopnosti nebo ztrátách stlačujících kapitálový poměr pod minimum CRR. Jde o pojistku proti kolektivní nečinnosti a o vstupní signál pro dohledovou i krizovou reakci.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Nastala platební neschopnost (stávající/hrozící) nebo ztráty snižující celkový kapitálový poměr pod minimum dle čl. 92 odst. 1 písm. c) CRR?
+- [ ] Dozvěděl se o tom konkrétní člen orgánu — a informoval ČNB neprodleně sám, nezávisle na kolektivním projednání?
+- [ ] Je evidováno, kdy se který člen o rozhodné skutečnosti dozvěděl (časová osa)?
+- [ ] U pobočky zahraniční banky z třetí země — splnilo povinnost vedení mateřské banky i vedení pobočky (odst. 2)?
+- [ ] Byla zvážena návaznost na § 26a (povinná opatření) a na posouzení selhání podle zákona č. 374/2015 Sb.?
+
+**Typicky rozhodné důkazy / podklady:** interní analýzy a výkazy dokládající pokles kapitálového poměru; zápisy z jednání orgánů; časová osa seznámení jednotlivých členů; doklad o oznámení ČNB a jeho datu; vnitřní pravidla systému včasného varování (§ 8b).
 
 ---
 
@@ -458,6 +681,43 @@ Přestože přednostní právo lze omezit nebo vyloučit, zákon trvá na **shod
 #### Neplatnost rozhodnutí VH a chybějící pozvánka
 
 Odst. 2 obsahuje pozoruhodnou normu: nesplnění povinnosti uvést v pozvánce důvody a odchylky **nezpůsobuje neplatnost usnesení valné hromady**. Zákon tím vědomě obětuje formální požadavky na transparentnost ve prospěch efektivity a právní jistoty o platnosti rekapitalizačního usnesení.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Celkový kapitálový poměr Banky G klesne pod minimum CRR. Banka přistoupí k urychlené rekapitalizaci a svolá valnou hromadu, na níž rozhodne o zvýšení základního kapitálu úpisem nových akcií s vyloučením přednostního práva stávajících akcionářů. Pozvánka je uveřejněna 7 dní předem, lhůta k úpisu činí 14 dní, emisní kurs je pro všechny upisovatele stejný a splácí se penězi a započtením pohledávek. Menšinový akcionář napadne usnesení s tím, že byl zkrácen na přednostním právu a že pozvánka neobsahovala dostatečné odůvodnění odchylek. Účastníci: Banka G, upisovatelé (vč. spřízněného investora), menšinový akcionář, ČNB. Důkazy: výkaz dokládající pokles poměru pod minimum, usnesení valné hromady, pozvánka, listiny o úpisu a splacení emisního kursu.
+
+**2. Právní otázka.** Je vyloučení přednostního práva a zkrácení lhůt podle § 26ba zákonné i bez individuálního prokazování „důležitého zájmu společnosti", a způsobuje absence odůvodnění odchylek v pozvánce neplatnost usnesení valné hromady?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 26ba odst. 1 písm. a) (zákonná presumpce důležitého zájmu pro omezení/vyloučení přednostního práva), písm. b) (stejný emisní kurs), písm. d) (nepřevoditelnost přednostního práva), písm. e)–g) (zkrácené lhůty), písm. i) (splacení jen penězi nebo započtením); odst. 2 (odůvodnění odchylek v pozvánce; jeho absence nezpůsobuje neplatnost usnesení).
+- *Související ustanovení téhož zákona:* § 26a (situace poklesu pod 2/3 minima a navazující opatření), § 26 odst. 5 písm. a) bod 3 (snížení/zvýšení základního kapitálu jako opatření k nápravě), § 26b (informační povinnost při poklesu pod minimum).
+- *Související předpisy:* zákon č. 90/2012 Sb. (ZOK) — obecná úprava zvyšování základního kapitálu a přednostního práva, od níž je § 26ba lex specialis; zákon č. 89/2012 Sb. (OZ); čl. 46 BRRD a unijní judikatura SDEU o proporcionalitě omezení vlastnického práva ve prospěch finanční stability.
+- *Judikatura:* NS 29 Odo 460/2001 (přezkoumatelnost korporátního provedení rozhodnutí ČNB o snížení základního jmění podle obchodněprávních pravidel) — analogicky podpora soudního přezkumu rekapitalizačních usnesení; nosný závěr SDEU, že naléhavý veřejný zájem na finanční stabilitě ospravedlňuje proporcionální omezení práv akcionářů.
+
+**4. Subsumpce.** Znak „pokles celkového kapitálového poměru pod minimum dle čl. 92 odst. 1 písm. c) CRR" je naplněn, čímž se aktivuje speciální režim. „Důležitý zájem společnosti" pro vyloučení přednostního práva je dán ex lege (písm. a) — netřeba jej individuálně prokazovat. Znak „stejný emisní kurs" (písm. b) je naplněn, čímž je vyloučena diskriminace upisovatelů. Lhůty (7 dní pozvánka, 14 dní úpis) odpovídají písm. e)–g). Absence odůvodnění odchylek v pozvánce porušuje odst. 2, avšak výslovně nezpůsobuje neplatnost usnesení.
+
+**5. Řešení.** Vyloučení přednostního práva je zákonné bez individuálního prokazování důležitého zájmu — ten presumuje § 26ba odst. 1 písm. a). Zkrácené lhůty a omezení způsobu splacení jsou souladné se zákonem. Námitka menšinového akcionáře na zkrácení přednostního práva tudíž neobstojí, je-li dodržen stejný emisní kurs (písm. b) chránící před diskriminačním umístěním akcií spřízněnému investorovi. Námitka nedostatečného odůvodnění odchylek v pozvánce nevede k neplatnosti usnesení (odst. 2 výslovně), nanejvýš může zakládat jinou odpovědnost. Pravděpodobný výsledek: usnesení valné hromady platné; rekapitalizace proběhne. Riziko vzniká jen tehdy, byl-li porušen požadavek stejného emisního kursu nebo splaceno jiným než přípustným způsobem (písm. i).
+
+**6. Varianty.** (a) Pokud by emisní kurs nebyl pro všechny upisovatele stejný (zvýhodnění spřízněného investora), šlo by o porušení písm. b) zakládající zranitelnost usnesení a odpovědnost; samotná rychlost režimu diskriminaci nelegitimuje. (b) Pokud by kapitálový poměr neklesl pod minimum CRR, speciální režim § 26ba se neuplatní a zvýšení kapitálu by se řídilo obecnou úpravou ZOK (vč. 30denní lhůty pozvánky a přísnějších podmínek vyloučení přednostního práva).
+
+#### G. Protiargumenty a rizika
+
+- *Námitka zásahu do vlastnického práva akcionáře.* Menšinový akcionář namítá protiústavní vyloučení přednostního práva. Neutralizace: opora v čl. 46 BRRD a judikatuře SDEU — naléhavý veřejný zájem na finanční stabilitě ospravedlňuje proporcionální omezení; zákon zachovává záruku stejného emisního kursu.
+- *Námitka, že chybějící odůvodnění v pozvánce zneplatňuje usnesení.* Neutralizace: odst. 2 výslovně stanoví, že nesplnění této povinnosti neplatnost usnesení nezpůsobuje — zákon vědomě upřednostňuje právní jistotu rekapitalizace.
+- *Slabé místo.* Zákonná presumpce důležitého zájmu (písm. a) může být napadána jako vybočení z korporátních standardů; obrana spočívá v doložení reálného poklesu pod minimum CRR jako podmínky aktivace celého režimu. Klíčové riziko je porušení rovného zacházení (písm. b), které ochranná funkce režimu nekryje.
+
+#### H. Praktický závěr
+
+§ 26ba poskytuje zrychlený a zjednodušený korporátní režim rekapitalizace podkapitalizované banky: presumovaný důležitý zájem pro vyloučení přednostního práva, krátké lhůty (7/14 dní), nepřevoditelné přednostní právo a splacení jen penězi nebo započtením. Ochrana akcionářů ustupuje finanční stabilitě, avšak rovné zacházení (stejný emisní kurs) zůstává tvrdou pojistkou.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je doložen pokles celkového kapitálového poměru pod minimum dle čl. 92 odst. 1 písm. c) CRR jako podmínka aktivace režimu?
+- [ ] Je emisní kurs stejný pro všechny upisovatele (písm. b) — bez zvýhodnění spřízněných investorů?
+- [ ] Jsou dodrženy lhůty (pozvánka min. 7 dní, úpis max. 14 dní — písm. e–g) a nepřevoditelnost přednostního práva (písm. d)?
+- [ ] Je emisní kurs splácen jen penězi nebo započtením (písm. i) a v upisovací lhůtě (písm. h)?
+- [ ] Obsahuje pozvánka odůvodnění odchylek (odst. 2) — s vědomím, že jeho absence usnesení nezneplatňuje?
+
+**Typicky rozhodné důkazy / podklady:** výkaz dokládající pokles poměru pod minimum CRR; usnesení valné hromady o zvýšení základního kapitálu; pozvánka na valnou hromadu a doklad o jejím uveřejnění; listiny o úpisu a splacení emisního kursu; doklady o totožnosti a podmínkách jednotlivých upisovatelů.
 
 ---
 
@@ -518,6 +778,43 @@ Postup dle čl. 458 CRR vyžaduje notifikaci ESRB, Rady EU a Komise; zákon tím
 Opatření obecné povahy se vydává **bez standardního řízení o návrhu** (odchylka od § 172 správního řádu, jenž standardně zahrnuje veřejné připomínkování). Tato odchylka je odůvodněna urgentní povahou systémového ohrožení. Zákon kompenzuje absenci procedury:
 - **Účinností od zveřejnění na úřední desce ČNB** (okamžitá účinnost).
 - **Automatickým zánikem po 6 měsících** (odst. 2), nestanoví-li se kratší lhůta nebo dřívější zánik. Tím je zaručena dočasnost výjimečného režimu.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** V důsledku náhlé tržní paniky a hrozícího hromadného odlivu vkladů (např. po pádu významné zahraniční banky) hrozí narušení stability tuzemského bankovního systému. ČNB vyhodnotí, že je účelné dočasně uvolnit některé informační povinnosti bank a současně plošně omezit určité kapitálové převody do zahraničí. Vydá proto opatření obecné povahy adresované skupině druhově určených bank. Účastníci: banky a jejich pobočky jako adresáti OOP, ČNB jako vydavatel, ESRB/Rada EU/Komise v notifikačním režimu (u opatření dle čl. 458 CRR). Důkazy/podklady: analýza systémového ohrožení, podklady o tržním vývoji, notifikace evropským orgánům (je-li dle čl. 458 CRR).
+
+**2. Právní otázka.** Za jakých podmínek a v jakém procesním režimu může ČNB plošně, formou opatření obecné povahy, dočasně suspendovat zákonné povinnosti bank, a jak dlouho takový režim trvá?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 26bb odst. 1 písm. a) a b) (aktivace při hrozbě nebo faktickém narušení stability, podmínka účelnosti), odst. 2 písm. a)–d) (obsah OOP — dočasné výjimky, zákazy/omezení činností, odchylná pravidla pro kapitál a informační povinnosti), odst. 3 (povinné OOP při naplnění čl. 458 CRR), odst. 4 (vydání bez řízení o návrhu, účinnost od zveřejnění na úřední desce ČNB, zánik po 6 měsících).
+- *Související ustanovení téhož zákona:* §§ 4, 4f, 8b, 11–24 (povinnosti, z nichž lze udělit dočasnou výjimku — odst. 2 písm. a), § 12 a § 14 odst. 1 písm. a) a c) (kapitál a distribuce — odst. 2 písm. c), § 26g odst. 1 (informační povinnost), § 26 a násl. (individuální opatření jako protipól plošného nástroje).
+- *Související předpisy:* čl. 458 nařízení (EU) č. 575/2013 (makroprudenční opatření, notifikace ESRB/Rady/Komise); CRD IV; § 171–174 správního řádu (obecná úprava OOP), od níž je § 26bb odst. 4 odchylkou (bez řízení o návrhu); rámec ESRB a EBA.
+- *Judikatura:* nosný závěr o přípustnosti urgentního zásahu bez předchozího plného řízení tam, kde prodlení ohrožuje převažující veřejný zájem (NSS 5 Afs 62/2011-120) — podpora pro vydání OOP bez řízení o návrhu; OOP podléhá soudnímu přezkumu podle § 101a a násl. s. ř. s.
+
+**4. Subsumpce.** Znak „ohrožení stability bankovního nebo finančního systému" (odst. 1 písm. a) je naplněn hrozbou hromadného odlivu vkladů; alternativně by se uplatnilo „faktické narušení" (písm. b). Znak „účelnosti" pro odstranění ohrožení / zmírnění následků musí ČNB doložit. Obsah zvoleného OOP (dočasná výjimka z informačních povinností + omezení převodů — odst. 2 písm. a a b) spadá do zákonného katalogu. Procesní znak „bez řízení o návrhu" a „účinnost od zveřejnění" (odst. 4) je naplněn; trvání je limitováno 6 měsíci.
+
+**5. Řešení.** ČNB může vydat OOP, doloží-li systémové ohrožení nebo narušení a účelnost zvoleného opatření; obsah musí zůstat v mezích odst. 2 (taxativní katalog). OOP se vydá bez řízení o návrhu a nabývá účinnosti dnem zveřejnění na úřední desce ČNB; automaticky zaniká po 6 měsících (není-li stanoveno dříve). Pro opatření naplňující čl. 458 CRR je vydání obligatorní (odst. 3) a vyžaduje notifikaci ESRB, Rady a Komise. Adresáti (banky) musí OOP respektovat okamžitě; obrana je možná návrhem na zrušení OOP u správního soudu. Pravděpodobný výsledek: dočasný plošný režim platný po nezbytnou dobu, nejdéle 6 měsíců.
+
+**6. Varianty.** (a) Půjde-li o makroprudenční zpřísnění podle čl. 458 CRR (např. zvýšení rizikových vah pro nemovitostní expozice), je vydání OOP povinné (odst. 3) a podléhá evropskému koordinačnímu/notifikačnímu mechanismu — na rozdíl od fakultativního režimu odst. 1. (b) Pomine-li ohrožení dříve než za 6 měsíců, ČNB může OOP zrušit nebo nechat pozbýt účinnosti; nelze je však prodloužit nad zákonný šestiměsíční limit bez vydání nového OOP při trvajícím naplnění podmínek.
+
+#### G. Protiargumenty a rizika
+
+- *Námitka absence řízení o návrhu a participace (banka).* Adresáti mohou namítat vyloučení veřejného připomínkování dle § 172 SŘ. Neutralizace: odst. 4 výslovně vylučuje řízení o návrhu kvůli urgenci systémového ohrožení; ochrana se přesouvá do následného soudního přezkumu OOP a do časového omezení 6 měsíci.
+- *Námitka neurčitosti „ohrožení stability".* Neutralizace: pojem je třeba vyložit s oporou v analýze ČNB a v unijním rámci (ESRB, čl. 458 CRR); ČNB musí účelnost a existenci ohrožení doložit přezkoumatelně.
+- *Slabé místo.* Plošný zásah do povinností a činností bank je intenzivní; klíčové riziko je nedostatečné odůvodnění účelnosti a systémovosti ohrožení, případně překročení taxativního katalogu odst. 2 nebo šestiměsíčního limitu. U opatření dle čl. 458 CRR je rizikem opomenutí notifikace evropským orgánům.
+
+#### H. Praktický závěr
+
+§ 26bb je makroprudenční „nouzový" nástroj: umožňuje ČNB plošně a dočasně (nejdéle 6 měsíců) upravit povinnosti bank formou opatření obecné povahy při hrozbě nebo narušení stability systému, a to bez řízení o návrhu, s účinností od zveřejnění na úřední desce. Při naplnění čl. 458 CRR je vydání povinné a notifikované evropským orgánům.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je doloženo ohrožení (písm. a) nebo faktické narušení (písm. b) stability bankovního/finančního systému a účelnost opatření?
+- [ ] Zůstává obsah OOP v mezích taxativního katalogu odst. 2 písm. a)–d)?
+- [ ] Jde-li o opatření podle čl. 458 CRR — je vydání pojato jako povinné (odst. 3) a provedena notifikace ESRB, Rady EU a Komise?
+- [ ] Bylo OOP vydáno bez řízení o návrhu a nabylo účinnosti dnem zveřejnění na úřední desce ČNB (odst. 4)?
+- [ ] Je respektováno časové omezení — automatický zánik po 6 měsících, není-li stanoveno dříve?
+
+**Typicky rozhodné důkazy / podklady:** analýza systémového ohrožení / narušení stability a jeho příčin; podklady o tržním a likviditním vývoji; text OOP a doklad o jeho zveřejnění na úřední desce a datu účinnosti; notifikace ESRB/Rady/Komise (u opatření dle čl. 458 CRR); evidence trvání a zániku OOP.
 
 ---
 
