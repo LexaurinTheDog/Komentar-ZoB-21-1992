@@ -304,3 +304,8 @@ Rozcestník podle paragrafů. Konsolidace k 11. 1. 2026. Úvod viz [00-uvod.md](
 ## Zásady z místní judikatury
 
 - [ZASADY.md](ZASADY.md) — právní zásady a judikatorní teze extrahované výhradně z místní složky `judikatura/`, bez mazání existujících citací.
+
+<!-- LOCAL-VYKLADOVE-OTAZKY-LINK -->
+## Výkladové otázky a odpovědi
+
+- [VYKLADOVE-OTAZKY.md](VYKLADOVE-OTAZKY.md) — předpisově konkrétní kontrolní otázky, odpovědi, místní opora a výslovně označené mezery komentáře.
