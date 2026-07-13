@@ -309,3 +309,8 @@ Rozcestník podle paragrafů. Konsolidace k 11. 1. 2026. Úvod viz [00-uvod.md](
 ## Výkladové otázky a odpovědi
 
 - [VYKLADOVE-OTAZKY.md](VYKLADOVE-OTAZKY.md) — předpisově konkrétní kontrolní otázky, odpovědi, místní opora a výslovně označené mezery komentáře.
+
+<!-- LOCAL-HLOUBKOVY-VYKLAD-LINK -->
+## Hloubkový výklad a aplikační mapa
+
+- [HLOUBKOVY-VYKLAD.md](HLOUBKOVY-VYKLAD.md) — třináctivrstvá předpisová syntéza, místní důkazní opora, kapitolová matice a autorský protokol úplného právního komentáře.
