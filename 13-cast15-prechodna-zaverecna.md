@@ -64,52 +64,6 @@ Fikce se vztahuje na **banky i spořitelny** — zákon č. 158/1989 Sb. totiž 
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=7c333caca927e1f2e2dc generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
-#### Revizní doplnění k § 42
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
-
-##### Znění ustanovení
-
-> Právnické osoby působící jako banky nebo spořitelny podle [[zákona č. 158/1989 Sb., o bankách a spořitelnách|zákona č. 158/1989 Sb., o bankách a spořitelnách]], se ode dne účinnosti tohoto zákona považují za banky podle tohoto zákona.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- zákon č. 158/1989 Sb. (výslovně uvedeno v místním znění)
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=7c333caca927e1f2e2dc -->
-
 ### § 43 — Přechodná fikce pro půjčky
 
 > **§ 43**
@@ -168,52 +122,6 @@ Ustanovení mělo přechodný dosah — s faktickým dozráváním smluv uzavře
 **Typicky rozhodné důkazy / podklady:** text smlouvy o půjčce, doklad o osobě poskytovatele (banka), zůstatek pohledávky ke dni 1. 2. 1992, interní evidence zařazení produktu.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=408a6473088bb1cd21e2 generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
-#### Revizní doplnění k § 43
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
-
-##### Znění ustanovení
-
-> Půjčky poskytnuté bankami podle dosavadních předpisů se považují za úvěry podle tohoto zákona.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=408a6473088bb1cd21e2 -->
 
 ### § 44 — Přechodné období pro první uveřejnění údajů o odměňování (§ 11c odst. 1 písm. a–c)
 
@@ -276,52 +184,6 @@ Tato skupina údajů je zveřejňována v plném rozsahu a za podmínek § 11c, 
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=131d4819a4cb651d60ef generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
-#### Revizní doplnění k § 44
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
-
-##### Znění ustanovení
-
-> Údaje uvedené v § 11c odst. 1 písm. a) až c) uveřejní banka poprvé do dne 1. září 2014 za bezprostředně předcházející účetní období, a to za podmínek a způsobem uvedeným v [[#§ 11c|§ 11c]].
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 11c
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=131d4819a4cb651d60ef -->
-
 ### § 44a — Přechodné období pro první poskytnutí údajů G-SII Evropské komisi
 
 > **§ 44a**
@@ -375,52 +237,6 @@ Klíčový rozdíl oproti § 44: údaje dle písm. d) až f) se **neposkytují v
 **Typicky rozhodné důkazy / podklady:** rozhodnutí/seznam o určení G-SII, metodické podklady dle nař. (EU) č. 1222/2014, údaje o pásmech odměn d)–f), doklad o předání Komisi v důvěrném režimu.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=3ae5b72927a6dc70ab0b generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
-#### Revizní doplnění k § 44a
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
-
-##### Znění ustanovení
-
-> Údaje uvedené v § 11c odst. 1 písm. d) až f) poskytne mezinárodně určená globální systémově významná instituce poprvé do dne 1. září 2014 za bezprostředně předcházející účetní období Evropské komisi, a to v režimu důvěrných informací a za podmínek a způsobem uvedeným v [[#§ 11c|§ 11c]].
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 11c
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=3ae5b72927a6dc70ab0b -->
 
 ### § 44b — Přechodné sazby kapitálových rezerv
 
@@ -495,60 +311,6 @@ Toto postupné zavádění odpovídá unijní logice fázování kapitálových 
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=64ad77644edcb44c5076 generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
-#### Revizní doplnění k § 44b
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
-
-##### Znění ustanovení
-
-> (1) Pro účely § 12j odst. 3 a [[#§ 4|4]] se do 31. prosince 2014 namísto sazby 5 % použije sazba 3 %.
->
-> (2) Pro účely [[#§ 12u|§ 12u]] činí kapitálová rezerva pro globální systémově významné instituce pro rok
->
-> - a) 2016 25 % z kapitálové rezervy stanovené podle [[#§ 12u|§ 12u]],
->
-> - b) 2017 50 % z kapitálové rezervy stanovené podle [[#§ 12u|§ 12u]],
->
-> - c) 2018 75 % z kapitálové rezervy stanovené podle [[#§ 12u|§ 12u]].
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 12j, § 4, § 12u
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=64ad77644edcb44c5076 -->
-
 ### § 44d — Přechodné ustanovení pro první zátěžový test pojištění vkladů
 
 > **§ 44d**
@@ -602,52 +364,6 @@ Podrobná úprava Garančního systému, Fondu pojištění vkladů, zátěžov�
 **Typicky rozhodné důkazy / podklady:** zpráva/protokol o zátěžovém testu, metodika a scénáře testu, datum provedení, podklady o stavu Fondu a krytých pohledávek.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=67d7fe0ab09840a65f5a generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
-#### Revizní doplnění k § 44d
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
-
-##### Znění ustanovení
-
-> Garanční systém provede první zátěžový test systému pojištění pohledávek z vkladů podle § 41n odst. 2 do 3. července 2017.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 41n
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=67d7fe0ab09840a65f5a -->
 
 ### § 44e — Přechodné sazby příspěvků do Fondu pojištění vkladů (do 31. 12. 2015)
 
@@ -726,58 +442,6 @@ Příspěvky jsou splatné nejpozději do konce měsíce následujícího po sko
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=6754e1787a6100156a78 generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
-#### Revizní doplnění k § 44e
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
-
-##### Znění ustanovení
-
-> (1) Do 31. prosince 2015 činí příspěvek banky a pobočky banky z jiného než členského státu do Fondu 0,04 % z průměru objemu pojištěných pohledávek z vkladů za příslušné kalendářní čtvrtletí. Průměr objemu pojištěných pohledávek z vkladů banka a pobočka banky z jiného než členského státu propočítává podle stavu pojištěných pohledávek z vkladů k poslednímu dni každého kalendářního měsíce v příslušném kalendářním čtvrtletí, a to včetně úroků, na jejichž připsání vznikl vkladateli nárok k témuž dni. Výpočet se provádí v české měně. U pohledávek z vkladů vedených v cizí měně se pro přepočet na českou měnu použije kurz vyhlášený Českou národní bankou pro den, ke kterému je prováděn výpočet.
->
-> (2) Do 31. prosince 2015 činí příspěvek spořitelního a úvěrního družstva do Fondu 0,08 % z průměru objemu pojištěných pohledávek z vkladů za příslušné kalendářní čtvrtletí. Průměr objemu pojištěných pohledávek z vkladů spořitelní a úvěrní družstvo propočítává podle stavu pojištěných pohledávek z vkladů k poslednímu dni každého kalendářního měsíce v příslušném kalendářním čtvrtletí, a to včetně úroků, na jejichž připsání vznikl členovi nárok k témuž dni. Výpočet se provádí v české měně. U pohledávek z vkladů vedených v cizí měně se pro přepočet na českou měnu použije kurz vyhlášený Českou národní bankou pro den, ke kterému je prováděn výpočet.
->
-> (3) Do 31. prosince 2015 činí příspěvek stavební spořitelny do Fondu 0,02 % z průměru objemu pojištěných pohledávek z vkladů za příslušné kalendářní čtvrtletí. Průměr objemu pojištěných pohledávek z vkladů stavební spořitelna propočítává podle stavu pojištěných pohledávek z vkladů k poslednímu dni každého kalendářního měsíce v příslušném kalendářním čtvrtletí, a to včetně úroků, na jejichž připsání vznikl vkladateli nárok k témuž dni, bez započítání zálohy na státní podporu.
->
-> (4) Do 31. prosince 2015 banka, pobočka banky z jiného než členského státu, spořitelní a úvěrní družstvo a stavební spořitelna zaplatí příspěvek do Fondu za příslušné kalendářní čtvrtletí nejpozději do konce kalendářního měsíce následujícího po skončení kalendářního čtvrtletí. Příspěvek se platí v českých korunách. O jeho nezaplacení informuje Garanční systém neprodleně Českou národní banku. Je-li banka, pobočka banky z jiného než členského státu, spořitelní a úvěrní družstvo a stavební spořitelna s placením příspěvků v prodlení, je povinna z dlužné částky platit Garančnímu systému úroky z prodlení stanovené podle [[občanského zákoníku|občanského zákoníku]].
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=6754e1787a6100156a78 -->
-
 ### § 44f — Přechodný cíl objemu prostředků Fondu pojištění vkladů
 
 > **§ 44f**
@@ -838,52 +502,6 @@ Povinnost postupovat dle přechodného cíle **zaniká okamžikem, kdy Fond popr
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=a85457bd47c358c46a66 generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
-#### Revizní doplnění k § 44f
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
-
-##### Znění ustanovení
-
-> Česká národní banka při stanovení výše ročního příspěvku banky podle § 41ca odst. 2 postupuje tak, aby do 3. července 2024 dosáhl objem prostředků ve Fondu alespoň 0,8 % objemu krytých pohledávek z vkladů. Tato lhůta se prodlužuje do 3. července 2028, pokud dojde před jejím uplynutím k čerpání prostředků Fondu v souhrnné výši převyšující 0,8 % celkového objemu krytých pohledávek z vkladů. Tato povinnost zaniká okamžikem, kdy objem prostředků ve Fondu poprvé dosáhne 0,8 % objemu krytých pohledávek z vkladů. Od tohoto okamžiku Česká národní banka postupuje podle § 41ca odst. 4 a [[#§ 5|5]].
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 41ca, § 5
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=a85457bd47c358c46a66 -->
-
 ### § 45 — Přechodné ustanovení o náhradě majetkové újmy
 
 > **§ 45**
@@ -942,52 +560,6 @@ Nárok banky je nárok soukromoprávní povahy vůči státu, realizovaný zprav
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=e1d92f1c9d890bb14789 generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
-#### Revizní doplnění k § 45
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
-
-##### Znění ustanovení
-
-> Jestliže banka je povinna podle právního předpisu vydaného před účinností tohoto zákona poskytovat úvěry za stanovených podmínek a vznikne jí tím majetková újma, má banka nadále právo na úhradu této újmy ze státního rozpočtu, ke kterému má odvodovou nebo daňovou povinnost.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=e1d92f1c9d890bb14789 -->
-
 ### § 46 — Zrušovací ustanovení
 
 > **§ 46**
@@ -1041,52 +613,6 @@ Ačkoli zákon č. 158/1989 Sb. je zrušen, § 42 zajišťuje, že subjekty, kte
 **Typicky rozhodné důkazy / podklady:** doklad o době vzniku právního vztahu, text § 46 a § 47 ZoB, podklady k přechodným fikcím § 42/§ 43, případně předchozí oprávnění dle zák. 158/1989 Sb.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=e07f7cd89b5e2ffb1559 generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
-#### Revizní doplnění k § 46
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
-
-##### Znění ustanovení
-
-> Zrušuje se [[zákon č. 158/1989 Sb., o bankách a spořitelnách|zákon č. 158/1989 Sb., o bankách a spořitelnách]].
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- zákon č. 158/1989 Sb. (výslovně uvedeno v místním znění)
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=e07f7cd89b5e2ffb1559 -->
 
 ### § 47 — Účinnost
 
@@ -1150,52 +676,6 @@ Datum 1. února 1992 je kritickým datem pro přechodné normy § 42 a § 43: v�
 **Typicky rozhodné důkazy / podklady:** doklady o datu vzniku posuzovaných vztahů/subjektů, znění § 47 a navazujících přechodných ustanovení, ústavní zákon č. 4/1993 Sb., případně doklady o oprávnění dle dosavadních předpisů.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=e7bbfd82dc92fe24972d generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
-#### Revizní doplnění k § 47
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
-
-##### Znění ustanovení
-
-> Tento zákon nabývá účinnosti dnem 1. února 1992.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=e7bbfd82dc92fe24972d -->
 
 ## Synoptický přehled přechodných a závěrečných ustanovení
 
