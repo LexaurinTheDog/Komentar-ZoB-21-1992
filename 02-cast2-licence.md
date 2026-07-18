@@ -147,6 +147,96 @@ V praxi je § 4 vstupní branou do bankovního sektoru s dvanácti kumulativním
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=4e48f6c728401a3e9c95 generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 4
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> (1) Žádost o licenci se předkládá České národní bance. Minimální výše základního kapitálu banky činí 500 000 000 Kč a minimálně v této výši musí být tvořen peněžitými vklady.
+>
+> (2) O udělení licence rozhoduje Česká národní banka.
+>
+> (3) Před vydáním rozhodnutí o žádosti o licenci požádá Česká národní banka o stanovisko orgán dohledu členského státu vykonávající dohled nad úvěrovými institucemi, investičními podniky nebo pojišťovnami, jestliže je osoba, které má být licence udělena, ovládaná
+>
+> - a) institucí,
+>
+> - b) osobou, která má povolení příslušného orgánu dohledu členského státu k poskytování investičních služeb,
+>
+> - c) pojišťovnou, která má povolení příslušného orgánu dohledu členského státu,
+>
+> - d) osobou, která ovládá osobu uvedenou v písmenech a), b) nebo c).
+>
+> (4) Česká národní banka požádá, aby stanovisko podle odstavce 3 obsahovalo zejména informace vhodné pro posouzení, zda jsou splněny podmínky uvedené v odstavci 5 písm. d) a e).
+>
+> (5) Pro udělení licence musí být splněny tyto podmínky:
+>
+> - a) průhledný a nezávadný původ základního kapitálu a dalších finančních zdrojů banky, jejich dostatečnost a vyhovující skladba,
+>
+> - b) splacení základního kapitálu v plné výši,
+>
+> - c) důvěryhodnost a odborná způsobilost osoby, které má být licence udělena,
+>
+> - d) důvěryhodnost a způsobilost osob s kvalifikovanou účastí na bance nebo, nejsou-li takové osoby, 20 největších akcionářů banky podle podílu na hlasovacích právech k výkonu práv akcionáře při podnikání banky,
+>
+> - e) důvěryhodnost, odborná způsobilost a zkušenost členů statutárního orgánu, členů správní rady a členů dozorčí rady banky a splnění dalších požadavků na orgány banky a jejich členy podle [[#§ 8|§ 8]]; statutárním orgánem, správní radou a dozorčí radou se pro účely tohoto zákona rozumí také jiný orgán, jemuž přísluší obdobná působnost, a to v závislosti na právní formě této osoby,
+>
+> - f) technické a organizační předpoklady pro výkon navrhovaných činností banky, účinný řídicí a kontrolní systém banky a organizační uspořádání banky včetně údajů o ovládajících osobách a finančních holdingových osobách a smíšených finančních holdingových osobách ve skupině,
+>
+> - g) obchodní plán vycházející z navrhované strategie činnosti banky je podložený reálnými ekonomickými kalkulacemi a jednoznačně z něj vyplývají činnosti, které má banka v úmyslu provozovat,
+>
+> - h) průhlednost skupiny osob s úzkým propojením s bankou,
+>
+> - i) úzké propojení v rámci skupiny podle písmene h) nebrání výkonu dohledu,
+>
+> - j) ve státě, na jehož území má skupina podle písmene h) úzké propojení, nejsou právní ani faktické zábrany k výkonu dohledu,
+>
+> - k) sídlo banky musí být na území České republiky,
+>
+> - l) banka má alespoň 3 zaměstnance nebo fyzické osoby, které uskutečňují svou činnost podle příkazu jiného (dále jen „pracovník“), kteří zastávají výkonnou řídicí funkci a jsou členy jejího statutárního orgánu nebo správní rady.
+>
+> (6) Česká národní banka je oprávněna vyžádat si opis z rejstříku trestů týkající se fyzických osob, které jsou zakladateli banky nebo jsou navrhovány na člena statutárního orgánu, člena správní rady nebo člena dozorčí rady banky. Osoba v minulosti pravomocně odsouzená pro trestný čin majetkové povahy nebo pro trestný čin, jehož skutková podstata souvisí s bankovními činnostmi, anebo pro úmyslný trestný čin spáchaný v souvislosti s podnikáním nesmí působit jako člen statutárního orgánu, člen správní rady nebo člen dozorčí rady banky.
+>
+> (7) Posuzuje-li Česká národní banka žádost podle odstavce 1 spolu s žádostí o schválení podle [[#§ 28|§ 28]] nebo výjimku z povinnosti schválení podle [[#§ 29|§ 29]], konzultuje činnost v závislosti na daném případě s příslušným orgánem dohledu jiného členského státu určeným k výkonu dohledu na konsolidovaném základě a s příslušným orgánem dohledu členského státu, v němž má osoba žádající podle [[#§ 28|§ 28]] nebo [[#§ 29|29]] sídlo. V takovém případě se lhůta pro vydání rozhodnutí o udělení licence podle § 40 odst. 3 staví až do dne nabytí právní moci rozhodnutí o žádosti o schválení podle [[#§ 28|§ 28]] nebo o žádosti o výjimku z povinnosti schválení podle [[#§ 29|§ 29]]. Neobdrží-li Česká národní banka vyjádření příslušného orgánu dohledu ve lhůtě pro vydání rozhodnutí o udělení licence, řízení se přerušuje na dobu 60 dnů za účelem zajištění vyjádření příslušného orgánu dohledu Českou národní bankou.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 8, § 28, § 29, § 40
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4e48f6c728401a3e9c95 -->
+
 ### § 4a — Licence pro spořitelní a úvěrní družstvo měnící právní formu
 
 > **§ 4a**
@@ -207,6 +297,52 @@ Toto ustanovení je specifickým projevem zásady kontinuity podnikání při or
 **Typicky rozhodné důkazy / podklady:** projekt přeměny právní formy, účetní a kapitálová dokumentace SÚD, doklady ke splnění podmínek § 4, obě správní rozhodnutí v právní moci, doklad o zápisu změny formy do obchodního rejstříku.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=4af0e84fa0320bfbab91 generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 4a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> Licenci lze udělit též na žádost spořitelního a úvěrního družstva, pokud současně požádá i o souhlas se změnou právní formy spořitelního a úvěrního družstva na akciovou společnost. O obou žádostech se vede společné řízení podle zákona upravujícího správní řízení. Návrh na zápis změny právní formy spořitelního a úvěrního družstva na akciovou společnost do obchodního rejstříku lze podat poté, co nabylo právní moci udělení licence i souhlas se změnou právní formy spořitelního a úvěrního družstva na akciovou společnost. Právní účinky udělení licence nastávají ke dni zápisu změny právní formy spořitelního a úvěrního družstva na akciovou společnost do obchodního rejstříku.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4af0e84fa0320bfbab91 -->
 
 ### § 4b — Pobočka zahraniční banky ze třetí země — základní podmínky
 
@@ -278,6 +414,56 @@ Rozsah povolených činností je:
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=57986fdec2f2504e920a generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 4b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> (1) Osoba se skutečným sídlem v jiném než členském státě, která splňuje kritéria podle čl. 4 odst. 1 bodu 1 nařízení Evropského parlamentu a Rady (EU) č. 575/2013, může na území České republiky vykonávat činnost poskytování úvěrů podle § 1 odst. 1 písm. b) nebo poskytování záruk a příslibů podle § 1 odst. 3 písm. e), bude-li činnost vykonávat prostřednictvím pobočky zřízené v České republice a Česká národní banka jí k této činnosti udělí licenci.
+>
+> (2) Osoba se skutečným sídlem v jiném než členském státě může na území České republiky vykonávat činnost přijímání vkladů od veřejnosti podle § 1 odst. 1 písm. a), bude-li činnost vykonávat prostřednictvím pobočky zřízené v České republice a Česká národní banka jí k této činnosti udělí licenci.
+>
+> (3) Osoba podle odstavce 1 nebo [[#§ 2|2]] může na území České republiky vykonávat i další činnost podle § 1 odst. 3, má-li ji povolenu v licenci udělené jí Českou národní bankou podle [[#§ 4f|§ 4f]] a vykonává-li ji prostřednictvím pobočky zřízené v České republice.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 1, § 2, § 4f
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=57986fdec2f2504e920a -->
+
 ### § 4c — Výjimky z povinnosti licence pro banky ze třetích zemí
 
 > **§ 4c**
@@ -346,6 +532,62 @@ Odstavec 3 zakotvuje negativní definici: pokud osoba ze třetí země osloví p
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=ed01ec7dc6bbd1476139 generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 4c
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> (1) Osoba podle [[#§ 4b|§ 4b]] může na území České republiky vykonávat činnost podle § 1 odst. 1 a § 1 odst. 3 písm. e) bez licence udělené jí Českou národní bankou pouze tehdy, má-li protistrana sídlo v členském státě a je
+>
+> - a) způsobilou protistranou podle [[zákona upravujícího podnikání na kapitálovém trhu|zákona upravujícího podnikání na kapitálovém trhu]], profesionálním zákazníkem podle [[zákona upravujícího podnikání na kapitálovém trhu|zákona upravujícího podnikání na kapitálovém trhu]] nebo zákazníkem, který není profesionálním zákazníkem podle [[zákona upravujícího podnikání na kapitálovém trhu|zákona upravujícího podnikání na kapitálovém trhu]], za předpokladu, že činnost nebo služba je poskytována výhradně na základě vlastního podnětu takové protistrany,
+>
+> - b) úvěrovou institucí, nebo
+>
+> - c) osobou, která je součástí stejné skupiny jako osoba podle [[#§ 4b|§ 4b]].
+>
+> (2) Výkon činnosti nebo poskytnutí služby podle § 1 odst. 1 a § 1 odst. 3 písm. e) bez licence udělené Českou národní bankou na základě vlastního podnětu protistrany podle odstavce 1 písm. a) opravňuje osobu podle [[#§ 4b|§ 4b]] pouze k výkonu činnosti nebo poskytnutí služby na základě vlastního podnětu protistrany a činnosti nebo služby, které jsou pro tento výkon činnosti nebo toto poskytnutí služby nutné, nebo s nimi úzce souvisejí.
+>
+> (3) Pokud je protistrana nebo potenciální protistrana oslovena osobou podle [[#§ 4b|§ 4b]] nebo osobou, která má úzké propojení s osobou podle [[#§ 4b|§ 4b]], nejedná se o činnost nebo službu poskytovanou výhradně na základě vlastního podnětu protistrany podle odstavce 1 písm. a).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 4b, § 1
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ed01ec7dc6bbd1476139 -->
+
 ### § 4d — Přednost zákona o podnikání na kapitálovém trhu
 
 > **§ 4d**
@@ -393,6 +635,52 @@ Odstavec 3 zakotvuje negativní definici: pokud osoba ze třetí země osloví p
 **Typicky rozhodné důkazy / podklady:** smluvní dokumentace úvěru a investiční služby prokazující přímou souvislost, popis produktu, doklad o oprávnění k poskytování investičních služeb dle ZPKT.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=d3de5e583e6421d24040 generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 4d
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> Pokud osoba podle [[#§ 4b|§ 4b]] na území České republiky vykonává činnost podle § 4b odst. 1 nebo [[#§ 2|2]] v přímé souvislosti s investiční službou podle [[zákona upravujícího podnikání na kapitálovém trhu|zákona upravujícího podnikání na kapitálovém trhu]], tento zákon se nepoužije.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 4b, § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d3de5e583e6421d24040 -->
 
 ### § 4e — Žádost pobočky zahraniční banky ze třetí země
 
@@ -462,6 +750,64 @@ Zákon zachovává obecnost tím, že podrobnosti náležitostí, formát a tech
 **Typicky rozhodné důkazy / podklady:** elektronická žádost ve formátu dle vyhlášky ČNB, plán činností pobočky, popis organizační struktury pobočky, dokumentace řídicího a kontrolního systému pobočky.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=29e156ab97577d103d96 generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 4e
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> (1) Osoba podle [[#§ 4b|§ 4b]] podává žádost o udělení licence České národní bance.
+>
+> (2) Žádost o udělení licence podle odstavce 1 obsahuje vedle náležitostí stanovených správním řádem údaje o splnění podmínek pro udělení licence podle § 4f odst. 2. Žádost lze podat pouze elektronicky.
+>
+> (3) Součástí žádosti o udělení licence podle odstavce 1 je
+>
+> - a) plán činností, které prostřednictvím pobočky hodlá vykonávat,
+>
+> - b) informace o organizační struktuře pobočky a
+>
+> - c) popis řídicího a kontrolního systému k zajištění řádného a obezřetného řízení rizik pobočky.
+>
+> (4) Podrobnosti náležitostí žádosti a příloh podle odstavce 3, formát a další technické náležitosti stanoví Česká národní banka vyhláškou.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 4b, § 4f
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=29e156ab97577d103d96 -->
 
 ### § 4f — Podmínky udělení licence pobočce zahraniční banky ze třetí země
 
@@ -555,6 +901,76 @@ Zákon zakotvuje **obligatorní konzultaci s Finančním analytickým úřadem**
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=8b897b3c5581e06993f0 generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 4f
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> (1) O udělení licence podle § 4e odst. 1 rozhoduje Česká národní banka.
+>
+> (2) Pro udělení licence musí být splněny tyto podmínky:
+>
+> - a) požadavky podle § 12ab až 12ag,
+>
+> - b) osobě podle [[#§ 4b|§ 4b]] bylo pro výkon činnosti, kterou hodlá vykonávat na území České republiky, uděleno povolení ve státě jejího sídla a je nad ní v souvislosti s touto činností ve státě jejího sídla vykonáván dohled,
+>
+> - c) osoba podle [[#§ 4b|§ 4b]] informovala o svém záměru vykonávat činnost na území České republiky prostřednictvím své pobočky orgán dohledu ve státě svého sídla a poskytla mu informace a dokumenty podle § 4e odst. 3,
+>
+> - d) příslušný orgán dohledu nad osobou podle [[#§ 4b|§ 4b]] zpřístupnil České národní bance všechny informace o této osobě, které jsou nezbytné pro účely výkonu dohledu nad její pobočkou,
+>
+> - e) právní řád státu sídla osoby podle [[#§ 4b|§ 4b]] nestanoví žádné překážky k tomu, aby Česká národní banka mohla účinně koordinovat svoji činnost v oblasti výkonu dohledu s činností příslušného orgánu dohledu nad touto osobou v jiném než členském státě, zejména v období krize nebo finančních potíží této osoby nebo skupiny, jejíž je součástí, anebo potíží finančního systému jiného než členského státu,
+>
+> - f) Finanční analytický úřad na základě své dozorové činnosti ani Česká národní banka nemají důvodné podezření, že by pobočka zřízená osobou podle [[#§ 4b|§ 4b]] v České republice byla použita k legalizaci výnosů z trestné činnosti nebo financování terorismu,
+>
+> - g) hlavní osoba nebo její skupina splňují obezřetnostní požadavky, které se na ně použijí podle právních předpisů jiného než členského státu, a není důvodné podezření, že tyto požadavky nesplňují nebo je poruší ve 12 měsících následujících ode dne udělení licence.
+>
+> (3) Česká národní banka si před udělením licence vyžádá od Finančního analytického úřadu stanovisko za účelem vyhodnocení splnění podmínky podle odstavce 2 písm. f). Finanční analytický úřad vydá stanovisko ve lhůtě 30 dnů ode dne doručení žádosti České národní banky. V odůvodnění stanoviska Finanční analytický úřad uvede pouze v obecné rovině skutečnosti, na základě kterých bylo stanovisko vydáno. Nevydá-li Finanční analytický úřad stanovisko ve stanovené lhůtě, má se za to, že Finanční analytický úřad nemá důvodné podezření, že by pobočka zřízená osobou podle [[#§ 4b|§ 4b]] v České republice byla použita k legalizaci výnosů z trestné činnosti nebo financování terorismu.
+>
+> (4) V rozhodnutí o udělení licence Česká národní banka stanoví, že zahraniční banka z jiného než členského státu může vykonávat povolené činnosti jen na území České republiky a nesmí vykonávat povolené činnosti v jiných členských státech na přeshraničním základě, s výjimkou
+>
+> - a) služeb poskytovaných výhradně na základě vlastního podnětu protistrany nebo
+>
+> - b) vnitroskupinového financování mezi pobočkami téže hlavní osoby.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 4e, § 12ab, § 4b
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8b897b3c5581e06993f0 -->
+
 ### § 5 — Dohoda o spolupráci v oblasti dohledu — třetizemní pobočky
 
 > **§ 5**
@@ -604,6 +1020,52 @@ Zákon ukládá ČNB využívat **vzorové dohody EBA** vypracované dle čl. 33
 **Typicky rozhodné důkazy / podklady:** korespondence ČNB s domovským orgánem dohledu, návrh dohody dle vzoru EBA, doklady o zajištění výměny informací, případné memorandum o porozumění.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=9c4f92cec98afe1f2c0d generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 5
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> Česká národní banka vyvíjí úsilí k tomu, aby přede dnem zahájení činnosti zahraniční banky z jiného než členského státu v České republice uzavřela s příslušným orgánem dohledu nad touto zahraniční bankou z jiného než členského státu dohodu o spolupráci v oblasti výkonu přeshraničního dohledu nad pobočkou. K tomu Česká národní banka využívá vzorových dohod o spolupráci vypracovaných Evropským orgánem pro bankovnictví19) podle čl. 33 odst. 5 nařízení Evropského parlamentu a Rady (EU) č. 1093/2010.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- akt EU 1093/2010 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9c4f92cec98afe1f2c0d -->
 
 ### § 5a — Výkon činnosti zahraničních bank z členských států — bez licence, jednotná licence
 
@@ -696,6 +1158,76 @@ Odstavec 3 vymezuje taxativní výčet ustanovení ZoB, která se přece jen pou
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=76af8abcc7f9017f8136 generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 5a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> (1) Zahraniční banky z členských států mohou vykonávat na území České republiky prostřednictvím svých poboček činnosti podle tohoto zákona bez licence, pokud oprávnění k jejich výkonu jim bylo uděleno v zemi jejich sídla a pokud zahraniční banka z členského státu dodržela postup podle § 5c až 5m. Zahraniční banky z členských států jsou dále za stejných podmínek oprávněny k provozování těchto činností i bez založení pobočky, pokud jejich provozování nemá charakter trvalé hospodářské činnosti.
+>
+> (2) Ustanovení odstavce 1 neplatí v případech, kdy jde o zahraniční banky, které nepožívají výhody jednotné licence podle práva Evropské unie, nebo o zahraniční banky se sídlem ve státě, který nepožívá výhody jednotné licence podle práva Evropské unie.
+>
+> (3) Na činnost poboček zahraničních bank z členského státu se tento zákon nepoužije, s výjimkou § 3 odst. 3 písm. b), [[#§ 5a|§ 5a]], [[#§ 5n|5n]], [[#§ 10|10]], § 11 odst. 1 až 6 a [[#§ 9|9]], [[#§ 20b|§ 20b]], [[#§ 21|21]], § 24 odst. 2 věta třetí, [[#§ 26bb|§ 26bb]], [[#§ 37|37]], povinnosti poskytnout údaje podle § 38 odst. 2 až 9, ustanovení týkajících se provádění měnové politiky a opravného zúčtování bank ([[#§ 20c|§ 20c]]), [[#§ 38a|§ 38a]] a [[#§ 41m|41m]].
+>
+> (4) Pokud se pobočka zahraniční banky z členského státu stane účastníkem platebního systému provozovaného Českou národní bankou, použijí se na zahraniční banku z členského státu právní předpisy upravující provoz tohoto systému. Pokud pobočka zahraniční banky z členského státu využije možnosti podle § 38a odst. 1, použije se na zahraniční banku z členského státu [[#§ 38a|§ 38a]].
+>
+> (5) Postup podle [[#§ 26|§ 26]] lze vůči zahraniční bance z členského státu uplatnit pouze
+>
+> - a) v případě porušení § 11 odst. 1 až 6 a [[#§ 9|9]],
+>
+> - b) v případě porušení [[#§ 20c|§ 20c]] o opravném zúčtování bank,
+>
+> - c) v případě porušení [[zákona upravujícího platební styk|zákona upravujícího platební styk]], pokud jde o provoz platebního systému provozovaného Českou národní bankou, pokud je pobočka zahraniční banky z členského státu účastníkem tohoto systému ([[#§ 20b|§ 20b]]),
+>
+> - d) v případě porušení [[#§ 38a|§ 38a]] a povinnosti poskytnout údaje podle § 38 odst. 2 až 8,
+>
+> - e) tehdy, je-li to nutné pro zajištění ochrany finanční stability a společných zájmů klientů nebo investorů zahraniční banky z členského státu a tuto věc je třeba řešit bezodkladně (§ 5k odst. 3), nebo
+>
+> - f) po předchozím informování orgánu dohledu země sídla zahraniční banky z členského státu a Evropského orgánu pro bankovnictví, je-li to nutné pro zajištění ochrany finanční stability a společných zájmů klientů nebo investorů zahraniční banky z členského státu z důvodu ohrožení její likvidity (§ 5ka odst. 1).
+>
+> (6) Česká národní banka může v pobočkách zahraničních bank z členského státu nebo v osobách ve skupině, jejímž členem je zahraniční banka z členského státu podle odstavce 1, provést kontrolu na místě, je-li o to požádána orgánem dohledu země sídla zahraniční banky z členského státu. Orgán dohledu země sídla zahraniční banky z členského státu podle odstavce 1 může po předchozím oznámení České národní bance provést na území České republiky kontrolu na místě v pobočce zahraniční banky z členského státu nebo ve finanční instituci splňující podmínky podle § 5e odst. 1.
+>
+> (7) Česká národní banka může provádět kontroly na místě a vyžadovat informace o činnostech, které pobočka zahraniční banky z členského státu vykonává na území České republiky, pokud to považuje za důležité z hlediska finanční stability v České republice. Česká národní banka před zahájením kontroly na místě informuje orgán dohledu dotčeného státu o účelu kontroly a po jejím ukončení poskytne tomuto orgánu dohledu veškeré informace, které jsou významné pro hodnocení rizikovosti banky nebo pro finanční stabilitu v České republice.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 5c, § 3, § 5n, § 10, § 11, § 9, § 20b, § 21, § 24, § 26bb, § 37, § 38, § 20c, § 38a, § 41m, § 26, § 5k, § 5ka, § 5e
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=76af8abcc7f9017f8136 -->
+
 ### § 5b — Zákaz licence v rozporu s mezinárodní smlouvou
 
 > **§ 5b**
@@ -743,6 +1275,52 @@ Odstavec 3 vymezuje taxativní výčet ustanovení ZoB, která se přece jen pou
 **Typicky rozhodné důkazy / podklady:** text a právní základ dotčené mezinárodní smlouvy/sankčního režimu, sankční seznamy, doklady o vlastnické a ovládací struktuře žadatele, stanovisko příslušného koordinačního orgánu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=cdf5edd838fff27deacf generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 5b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> Licence nesmí být udělena, jestliže by to bylo v rozporu s mezinárodní smlouvou.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=cdf5edd838fff27deacf -->
 
 ### § 5c — Princip jednotné licence — výkon v hostitelském státě prostřednictvím pobočky
 
@@ -802,6 +1380,56 @@ Odstavec 3 opakuje negativní vymezení z § 5a odst. 2 pro opačný směr: čes
 **Typicky rozhodné důkazy / podklady:** česká licence a rozsah povolených činností, doklady o splnění podmínek § 5e u oprávněné finanční instituce, notifikace záměru a obchodní plán pobočky, doklady o organizační struktuře pobočky.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=cbafe034ee4aa03e3cc0 generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 5c
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> (1) Banky se sídlem na území členského státu (dále jen „domovský stát“) mohou vykonávat na území jiného členského státu (dále jen „hostitelský stát“) prostřednictvím své pobočky činnosti vyjmenované v [[#§ 5d|§ 5d]] bez licence, pokud oprávnění k jejich výkonu bylo těmto bankám uděleno v domovském státě. Stejné oprávnění s výjimkou činnosti uvedené v § 5d písm. a) se vztahuje i na finanční instituce splňující podmínky uvedené v § 5e odst. 1 (dále jen „oprávněná finanční instituce“).
+>
+> (2) Banky podle odstavce 1 jsou dále oprávněny k provozování činností vyjmenovaných v [[#§ 5d|§ 5d]] i bez založení pobočky, pokud jejich provozování nemá charakter trvalé hospodářské činnosti. Totéž platí pro oprávněné finanční instituce podle odstavce 1 s výjimkou činnosti uvedené v § 5d písm. a).
+>
+> (3) Vykonávat na území hostitelského státu prostřednictvím své pobočky činnosti bez licence nemůže banka podle odstavce 1 nebo finanční instituce, která nepožívá výhody jednotné licence podle práva Evropské unie, nebo zahraniční banka nebo finanční instituce se sídlem ve státě, který nepožívá výhody jednotné licence podle práva Evropské unie.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 5d, § 5e
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=cbafe034ee4aa03e3cc0 -->
 
 ### § 5d — Seznam činností vykonatelných na základě jednotné licence
 
@@ -904,6 +1532,96 @@ Zařazení kryptoaktivních služeb do passportovacího katalogu je výsledkem r
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=04e3232f810b7689e246 generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 5d
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> Banky podle § 5c odst. 1 nebo oprávněné finanční instituce mohou vykonávat na území hostitelského státu při splnění podmínek stanovených právem Evropské unie a uvedených v tomto zákoně tyto činnosti:
+>
+> - a) přijímání vkladů od veřejnosti,
+>
+> - b) poskytování úvěrů,
+>
+> - c) finanční pronájem (finanční leasing),
+>
+> - d) poskytování platebních služeb a vydávání elektronických peněz,
+>
+> - e) vydávání a správu platebních prostředků, jestliže se nejedná o poskytování platebních služeb nebo vydávání elektronických peněz podle písmene d),
+>
+> - f) poskytování záruk a příslibů,
+>
+> - g) obchodování na vlastní účet nebo na účet klienta
+>
+> - 1. s nástroji peněžního trhu,
+>
+> - 2. s peněžními prostředky v cizích měnách,
+>
+> - 3. futures, opcemi a nástroji, jejichž hodnota se vztahuje k měnovým kursům, úrokové míře nebo úrokovému výnosu,
+>
+> - 4. s investičními cennými papíry,
+>
+> - h) účast na vydávání cenných papírů a poskytování souvisejících služeb,
+>
+> - i) poradenství ve věcech kapitálové struktury, průmyslové strategie a v souvisejících otázkách a poradenství a služby v oblasti fúzí a koupí obchodních závodů,
+>
+> - j) peněžní makléřství,
+>
+> - k) obhospodařování cenných papírů klienta na jeho účet včetně poradenství,
+>
+> - l) uložení a správu cenných papírů,
+>
+> - m) poskytování bankovních informací,
+>
+> - n) úschovu cenností,
+>
+> - o) poskytování investičních služeb a činností podle zvláštního právního předpisu,
+>
+> - p) správu nevýkonného úvěru,
+>
+> - q) vydávání elektronických peněžních tokenů a tokenů vázaných na aktiva,
+>
+> - r) poskytování služeb souvisejících s kryptoaktivy za podmínek stanovených přímo použitelným předpisem Evropské unie upravujícím trhy kryptoaktiv47).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 5c
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=04e3232f810b7689e246 -->
+
 ### § 5e — Podmínky pro oprávněnou finanční instituci
 
 > **§ 5e**
@@ -978,6 +1696,68 @@ Ztráta byť jediné z podmínek (odst. 3) vede k automatické ztrátě výhody 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=6ee77de743e5f24d86ff generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 5e
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> (1) Finanční instituce, která hodlá využívat výhody uvedené v [[#§ 5c|§ 5c]], musí splňovat současně následující podmínky:
+>
+> - a) banka nebo banky podle § 5c odst. 1 musí disponovat nejméně 90 % hlasovacích práv a zároveň i základního kapitálu v této finanční instituci a musí se řídit právem stejného státu jako tato finanční instituce,
+>
+> - b) činnosti, které hodlá provozovat na území hostitelského státu, musí provozovat i na území svého domovského státu,
+>
+> - c) musí být zahrnuta do dohledu na konsolidovaném základě vykonávaného nad bankou nebo bankami podle § 5c odst. 1 v souladu s předpisy Evropské unie,
+>
+> - d) banka nebo banky podle § 5c odst. 1 společně a nerozdílně se souhlasem domovského orgánu dohledu ručí za její závazky,
+>
+> - e) banka nebo banky podle § 5c odst. 1 splňují požadavky domovského orgánu dohledu ohledně obezřetného řízení finanční instituce.
+>
+> (2) Splnění podmínek podle odstavce 1 musí být ověřeno orgánem dohledu domovského státu, který o tom vystaví potvrzení.
+>
+> (3) V případě, že oprávněná finanční instituce přestane plnit některou z podmínek podle odstavce 1, domovský orgán dohledu o tom okamžitě informuje hostitelský orgán dohledu a finanční instituce pozbývá výhody jednotné licence.
+>
+> (4) Osoba ovládaná oprávněnou finanční institucí se sídlem v jiném členském státě může vykonávat na území České republiky prostřednictvím své pobočky činnost ve stejném rozsahu jako oprávněná finanční instituce.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 5c
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6ee77de743e5f24d86ff -->
+
 ### § 5f — Oznámení záměru pobočky domovskému orgánu dohledu
 
 > **§ 5f**
@@ -1041,6 +1821,64 @@ Notifikace směřuje k domovskému orgánu dohledu, nikoliv přímo k hostitelsk
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=77088cfd01585c0ddc0e generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 5f
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> Banka podle § 5c odst. 1 nebo oprávněná finanční instituce, která hodlá založit svou pobočku na území hostitelského státu, o tom informuje orgán dohledu domovského státu a sdělí mu písemně následující informace:
+>
+> - a) na území kterého členského státu hodlá založit pobočku,
+>
+> - b) obchodní plán obsahující zejména výčet předpokládaných činností,
+>
+> - c) organizační strukturu pobočky,
+>
+> - d) adresu v hostitelském státě, na které bude možno získat dokumenty,
+>
+> - e) jména osob zodpovědných za řízení pobočky,
+>
+> - f) v případě oprávněné finanční instituce též podklady pro ověření skutečností uvedených v § 5e odst. 1.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 5c, § 5e
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=77088cfd01585c0ddc0e -->
+
 ### § 5g — Předání informací hostitelskému orgánu dohledu domovským orgánem
 
 > **§ 5g**
@@ -1099,6 +1937,54 @@ Domovský orgán informaci nepředá, **pokud má pochybnosti** o organizační 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=8e7261fb161136cc8997 generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 5g
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> (1) Orgán dohledu domovského státu, pokud nemá pochybnosti o organizační struktuře a finanční situaci banky podle § 5c odst. 1 nebo oprávněné finanční instituce ve vztahu k předpokládaným činnostem, předá do 3 měsíců ode dne obdržení informací podle [[#§ 5f|§ 5f]] tyto informace spolu s údaji o výši a složení kapitálu banky podle § 5c odst. 1 nebo oprávněné finanční instituce, s údaji o jejích kapitálových poměrech podle čl. 92 nařízení Evropského parlamentu a Rady (EU) č. 575/2013, podrobnostmi o pojištění vkladů a potvrzením podle § 5e odst. 2, orgánu dohledu hostitelského státu, o čemž informuje i banku podle § 5c odst. 1 nebo oprávněnou finanční instituci.
+>
+> (2) V případě, že existují pochybnosti uvedené v odstavci 1, orgán dohledu domovského státu ve lhůtě uvedené v odstavci 1 banku podle § 5c odst. 1 nebo oprávněnou finanční instituci informuje o tom, že její oznámení nebylo předáno orgánu dohledu hostitelského státu, a svůj postup odůvodní. V tomto případě a v případě, kdy není ve lhůtě podle odstavce 1 banka podle § 5c odst. 1 nebo oprávněná finanční instituce ze strany orgánu dohledu domovského státu informována, může se banka podle § 5c odst. 1 nebo oprávněná finanční instituce domáhat nápravy u soudu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 5c, § 5f, § 5e
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8e7261fb161136cc8997 -->
+
 ### § 5h — Příprava hostitelského orgánu dohledu a zahájení činnosti
 
 > **§ 5h**
@@ -1155,6 +2041,56 @@ Odstavec 3 zakotvuje oznamovací povinnost při **změnách** — banka musí s 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=a407e84b1039c3afe5da generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 5h
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> (1) Orgán dohledu hostitelského státu se do 2 měsíců od obdržení informace podle § 5g odst. 1 připraví na dohled nad bankou podle § 5c odst. 1 nebo oprávněnou finanční institucí, a je-li to nutné, sdělí jí ustanovení právních předpisů hostitelského státu, která upravují podmínky výkonu jejich činnosti na území hostitelského státu na základě oprávnění uděleného jí orgánem dohledu domovského státu.
+>
+> (2) Po obdržení informací podle odstavce 1 nebo po marném uplynutí 2 měsíců může banka podle § 5c odst. 1 nebo oprávněná finanční instituce začít podnikat na území hostitelského státu.
+>
+> (3) Změny v údajích uvedených v [[#§ 5f|§ 5f]] a § 5g odst. 1 oznámí banka podle § 5c odst. 1 nebo oprávněná finanční instituce s měsíčním předstihem orgánu dohledu domovského i hostitelského státu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 5g, § 5c, § 5f
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a407e84b1039c3afe5da -->
+
 ### § 5i — Přeshraniční poskytování služeb bez pobočky
 
 > **§ 5i**
@@ -1204,6 +2140,52 @@ Odstavec 3 zakotvuje oznamovací povinnost při **změnách** — banka musí s 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=ce442a00d9892575d48f generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 5i
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> V případě, že banka podle § 5c odst. 1 nebo oprávněná finanční instituce hodlá na území hostitelského státu provozovat činnosti podle [[#§ 5d|§ 5d]] bez založení pobočky, oznámí zamýšlené činnosti před prvním poskytnutím služby domovskému orgánu dohledu, který toto oznámení do jednoho měsíce zašle hostitelskému orgánu dohledu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 5c, § 5d
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ce442a00d9892575d48f -->
+
 ### § 5j — Dohled nad pobočkami EU bank v ČR
 
 > **§ 5j**
@@ -1251,6 +2233,52 @@ Odstavec 3 zakotvuje oznamovací povinnost při **změnách** — banka musí s 
 **Typicky rozhodné důkazy / podklady:** žádost ČNB o hlášení s vymezením účelu, data o objemu vkladů a počtu klientů pobočky, podklady pro posouzení významnosti dle § 5n, případná komunikace s domovským orgánem.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=1fb74535aa189f8d6fbd generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 5j
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> Dohled nad pobočkou banky z členského státu nebo oprávněné finanční instituce vykonává orgán dohledu domovského státu. Orgán dohledu hostitelského státu může od pobočky banky z členského státu nebo oprávněné finanční instituce požadovat pro statistické a informační účely a pro účely výkonu dohledu podle tohoto zákona pravidelné hlášení o jejích podnikatelských aktivitách na území hostitelského státu a požadovat údaje nezbytné pro rozhodnutí o označení pobočky za významnou podle [[#§ 5n|§ 5n]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 5n
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1fb74535aa189f8d6fbd -->
 
 ### § 5k — Opatření k nápravě při porušení v hostitelském státě — koordinační mechanismus
 
@@ -1325,6 +2353,62 @@ Odstavec 6 zachovává autonomii hostitelského státu v oblasti **veřejného p
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=25145875ffa852ac3ccc generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 5k
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> (1) Pokud orgán dohledu hostitelského státu na základě informací od orgánu dohledu domovského státu podle [[#§ 38h|§ 38h]] zjistí, že banka podle § 5c odst. 1 nebo oprávněná finanční instituce při poskytování služeb na jeho území porušuje tento zákon nebo přímo použitelný předpis Evropské unie upravující obezřetnostní požadavky nebo je-li důvodné podezření, že poruší tento zákon nebo přímo použitelný předpis Evropské unie upravující obezřetnostní požadavky, oznámí tuto skutečnost orgánu dohledu domovského státu. Orgán dohledu domovského státu bez zbytečného odkladu přijme vhodná opatření k nápravě podle [[#§ 26|§ 26]] směřující k odstranění porušování těchto předpisů nebo k odvrácení rizika vzniku takového porušování a neprodleně informuje o přijatých opatřeních orgán dohledu hostitelského státu.
+>
+> (2) Pokud orgán dohledu domovského státu nepřijal opatření podle odstavce 1, orgán dohledu hostitelského státu může na tuto skutečnost upozornit Evropský orgán pro bankovnictví a požádat jej o urovnání sporu podle přímo použitelného předpisu Evropské unie upravujícího dohled nad finančním trhem v oblasti bankovnictví28).
+>
+> (3) Nesnese-li věc odkladu, může orgán dohledu hostitelského státu přijmout vhodná opatření podle [[#§ 26|§ 26]] nebo [[#§ 26bb|§ 26bb]] pro zajištění ochrany finanční stability a společných zájmů klientů nebo investorů zahraniční banky z členského státu nebo oprávněné finanční instituce v hostitelském členském státě. O přijetí takových opatření informuje orgán dohledu domovského státu, Evropskou komisi, Evropský orgán pro bankovnictví a orgány dohledu dotčených států. Pokud orgán dohledu domovského nebo jiného dotčeného státu nesouhlasí s opatřeními přijatými orgánem dohledu hostitelského státu, může požádat Evropský orgán pro bankovnictví o urovnání sporu podle přímo použitelného předpisu Evropské unie upravujícího dohled nad finančním trhem v oblasti bankovnictví28).
+>
+> (4) Opatření podle odstavce 3 musí být přiměřená ochraně finanční stability a společných zájmů klientů nebo investorů zahraniční banky z členského státu nebo oprávněné finanční instituce v hostitelském členském státě a nesmí vést k upřednostnění klientů nebo investorů zahraniční banky z členského státu nebo oprávněné finanční instituce v hostitelském členském státě oproti klientům nebo investorům zahraniční banky z členského státu nebo oprávněné finanční instituce zahraniční banky v jiných členských státech. Orgán dohledu hostitelského státu může přijmout opatření podle odstavce 3 pouze do doby, než jsou přijata opatření k řešení úpadku zahraniční banky z členského státu podle právní úpravy insolvence domovského členského státu. Přijetím těchto opatření pozbývají opatření podle odstavce 3 účinnost.
+>
+> (5) Orgán dohledu hostitelského státu opatření podle odstavce 3 zruší, pokud podle jeho uvážení tato opatření nadále nejsou nutná vzhledem k opatřením přijatým orgánem dohledu domovského státu podle odstavce 1.
+>
+> (6) Orgány hostitelského státu mohou přijmout potřebná opatření k zamezení či potrestání jednání na území tohoto státu porušujícího právní předpisy tohoto státu v oblasti veřejného zájmu včetně opatření k ukončení činnosti zahraniční banky z členského státu nebo oprávněné finanční instituce na území tohoto státu. Ustanovení předchozích odstavců se v tomto případě nepoužijí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 38h, § 5c, § 26, § 26bb
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=25145875ffa852ac3ccc -->
+
 ### § 5ka — Opatření při ohrožení likvidity zahraniční banky z členského státu
 
 > **§ 5ka**
@@ -1376,6 +2460,54 @@ Odstavec 6 zachovává autonomii hostitelského státu v oblasti **veřejného p
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=c1f9bece6596449ca5c2 generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 5ka
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> (1) Orgán dohledu hostitelského státu může po předchozím informování orgánu dohledu domovského státu a Evropského orgánu pro bankovnictví přijmout opatření pro zajištění ochrany společných zájmů klientů nebo investorů zahraniční banky z členského státu nebo finanční stability v hostitelském členském státě, pokud je ohrožena likvidita zahraniční banky z členského státu, jejíž pobočka vykonává činnost na území hostitelského státu, a orgán dohledu domovského státu nepřijal potřebná opatření.
+>
+> (2) Orgán dohledu domovského státu se může obrátit na Evropský orgán pro bankovnictví, pokud nesouhlasí s opatřeními přijatými orgánem dohledu hostitelského státu, na jehož území zahraniční banka z členského státu vykonává činnost prostřednictvím pobočky, a požádat jej o urovnání sporu podle přímo použitelného předpisu Evropské unie upravujícího dohled nad finančním trhem v oblasti bankovnictví28).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c1f9bece6596449ca5c2 -->
+
 ### § 5l — Zánik licence domácí pobočky EU banky
 
 > **§ 5l**
@@ -1426,6 +2558,54 @@ Odstavec 6 zachovává autonomii hostitelského státu v oblasti **veřejného p
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=ea6fcb34db8dae9c2751 generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 5l
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> (1) V případě odnětí licence bance podle § 5c odst. 1 nebo oprávněné finanční instituci informuje domovský orgán dohledu neprodleně hostitelský orgán dohledu. Hostitelský orgán dohledu přijme potřebná opatření k ukončení činnosti banky podle § 5c odst. 1 nebo oprávněné finanční instituce na svém území a k ochraně zájmů vkladatelů.
+>
+> (2) Orgány dohledu informují Evropskou komisi o počtu a povaze případů, kdy odmítly postoupit orgánu hostitelského státu informaci o založení pobočky zahraniční banky z členského státu nebo kdy použily svého oprávnění k ukončení protiprávního stavu podle § 5k odst. 1 až 3.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 5c, § 5k
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ea6fcb34db8dae9c2751 -->
+
 ### § 5m — Svoboda reklamy v členských státech
 
 > **§ 5m**
@@ -1473,6 +2653,52 @@ Odstavec 6 zachovává autonomii hostitelského státu v oblasti **veřejného p
 **Typicky rozhodné důkazy / podklady:** znění reklamních sdělení, srovnání s požadavky předpisů o reklamě a spotřebitelském úvěru, doklad o (ne)diskriminační a přiměřené povaze národní úpravy.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=8a831bc0572caef1f7a5 generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 5m
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> Banky podle § 5c odst. 1 a oprávněné finanční instituce smějí volně inzerovat své služby v členských státech při respektování právních předpisů o reklamě přijatých příslušným státem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 5c
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8a831bc0572caef1f7a5 -->
 
 ### § 5n — Označení pobočky za významnou (significant branch)
 
@@ -1547,6 +2773,72 @@ Rozhodnutí o označení je výsledkem konsensuálního procesu mezi ČNB a domo
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=674b0a2451dbc48c7974 generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 5n
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> (1) Pobočka banky nebo pobočka zahraniční banky z členského státu může být orgánem dohledu členského státu, na jehož území působí, označena v souladu s právem Evropské unie za významnou (dále jen „významná pobočka“).
+>
+> (2) O svém záměru označit pobočku zahraniční banky z členského státu, která působí na území České republiky, za významnou informuje Česká národní banka příslušný orgán dohledu domovského státu úvěrové instituce, která působí v České republice prostřednictvím pobočky. Pokud je ta ovládána evropskou ovládající úvěrovou institucí, evropskou finanční holdingovou osobou, evropskou smíšenou finanční holdingovou osobou nebo evropským ovládajícím investičním podnikem, informuje Česká národní banka o svém záměru označit pobočku této úvěrové instituce za významnou orgán určený k výkonu dohledu na konsolidovaném základě. Zároveň Česká národní banka tomuto orgánu sdělí důvody, které ji vedou k záměru označit pobočku zahraniční banky z členského státu za významnou s ohledem na kritéria podle odstavce 3.
+>
+> (3) Při záměru označit pobočku zahraniční banky z členského státu za významnou přihlédne Česká národní banka zejména k
+>
+> - a) tržnímu podílu pobočky na vkladech v České republice a k tomu, zda tento podíl přesahuje 2 %,
+>
+> - b) pravděpodobnému dopadu pozastavení nebo ukončení činnosti zahraniční banky z členského státu, jejíž pobočka by mohla být označena za významnou, na likviditu na trhu nebo na činnost platebních nebo vypořádacích systémů v České republice,
+>
+> - c) velikosti pobočky zahraniční banky z členského státu a jejímu významu pro finanční systém České republiky z hlediska počtu jejích klientů.
+>
+> (4) Česká národní banka vyvíjí úsilí k tomu, aby jejího rozhodnutí o označení pobočky zahraniční banky z členského státu za významnou bylo dosaženo po dohodě s orgánem dohledu uvedeným v odstavci 2, a to ve lhůtě 2 měsíců ode dne, kdy Česká národní banka informovala tento orgán o svém záměru podle odstavce 2. Nebylo-li dosaženo takové dohody, pak Česká národní banka rozhodne o označení pobočky zahraniční banky z členského státu za významnou do 4 měsíců ode dne, kdy o tomto záměru informovala orgán dohledu uvedený v odstavci 2, nebo v téže lhůtě oznámí tomuto orgánu, že od tohoto záměru ustupuje. Přitom přihlíží ke stanovisku tohoto orgánu.
+>
+> (5) Rozhodne-li Česká národní banka o označení pobočky zahraniční banky z členského státu za významnou, informuje o tom písemně bez zbytečného odkladu orgán dohledu uvedený v odstavci 2. Česká národní banka tomuto orgánu zároveň sdělí důvody označení této pobočky za významnou.
+>
+> (6) Česká národní banka se může obrátit na Evropský orgán pro bankovnictví a požádat jej o urovnání sporu podle přímo použitelného předpisu Evropské unie upravujícího dohled nad finančním trhem v oblasti bankovnictví28), jestliže
+>
+> - a) orgán dohledu domovského státu podle odstavce 2 nekonzultuje s Českou národní bankou plán na obnovení likvidity zahraniční banky z členského státu, která působí na území České republiky prostřednictvím významné pobočky, nebo
+>
+> - b) Česká národní banka nesouhlasí s předloženým plánem na obnovení likvidity.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=674b0a2451dbc48c7974 -->
+
 ### § 5o — Česká banka s významnou pobočkou v cizině
 
 > **§ 5o**
@@ -1606,6 +2898,62 @@ Rozhodnutí o označení je výsledkem konsensuálního procesu mezi ČNB a domo
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=c93e55f99b4baec13346 generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 5o
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka je příslušná k dohodě o označení pobočky banky za významnou, jestliže tato banka vykonává prostřednictvím této pobočky činnost v jiném členském státě a orgán dohledu hostitelského státu informoval Českou národní banku o záměru označit tuto pobočku za významnou a sdělil jí důvody, které jej vedou k tomuto záměru v souladu s právem Evropské unie. Ustanovení § 5n odst. 4 se použije obdobně.
+>
+> (2) Pokud banka vykonává činnost na území jiného členského státu prostřednictvím významné pobočky, sdělí Česká národní banka orgánům dohledu tohoto členského státu údaje uvedené v § 38ha odst. 2 písm. c) a d), výsledky procesu přezkumu a vyhodnocování podle [[#§ 25c|§ 25c]], poskytne jim zprávy o posouzení rizik skupiny podle § 26k odst. 2 a ve spolupráci s orgány dohledu tohoto členského státu plní úkoly uvedené v § 26i odst. 1 písm. c). Česká národní banka dále sdělí orgánům dohledu tohoto členského státu rozhodnutí o opatření k nápravě, které bance uloží, pokud je rozhodnutí významné pro tuto pobočku.
+>
+> (3) Pokud Česká národní banka zjistí nepříznivý vývoj v bance, která vykonává činnost prostřednictvím významné pobočky na území jiného členského státu, informuje bez zbytečného odkladu příslušné centrální banky Evropského systému centrálních bank za podmínek uvedených v § 25a odst. 4 písm. j) a orgány veřejné moci podle § 25a odst. 4 písm. l) v členských státech dotčených tímto vývojem.
+>
+> (4) Pokud banka vykonává činnost na území jiného členského státu prostřednictvím významné pobočky, zřizuje Česká národní banka k plnění úkolů uvedených v odstavcích 2 a [[#§ 3|3]] a v [[#§ 38h|§ 38h]] kolegium orgánů dohledu (dále jen „kolegium“). Zřízení a činnost kolegia jsou založeny na písemných ujednáních podle § 26e odst. 1, která připravuje Česká národní banka po projednání s orgány dohledu podle odstavce 2. Členy kolegia jsou Česká národní banka a orgány dohledu hostitelských států, v nichž banka vykonává činnost prostřednictvím významné pobočky. Ustanovení § 26l odst. 5 a [[#§ 6|6]] se použije obdobně.
+>
+> (5) Povinnosti uvedené v odstavcích 2 až 4 vykonává Česká národní banka poté, kdy se dohodla o označení pobočky za významnou podle odstavce 1, nebo poté, kdy byla o označení pobočky banky za významnou informována příslušným orgánem dohledu hostitelského státu.
+>
+> (6) Pokud banka vykonává činnost na území jiného členského státu prostřednictvím významné pobočky, konzultuje Česká národní banka s orgánem dohledu tohoto členského státu plán na obnovení likvidity banky za podmínky, že existuje riziko likvidity, které by mohlo mít významný dopad na měnu hostitelského státu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 5n, § 38ha, § 25c, § 26k, § 26i, § 25a, § 3, § 38h, § 26e, § 26l, § 6
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c93e55f99b4baec13346 -->
+
 ### § 5p — Investiční služby pro profesionální zákazníky bez pobočky
 
 > **§ 5p**
@@ -1653,6 +3001,52 @@ Rozhodnutí o označení je výsledkem konsensuálního procesu mezi ČNB a domo
 **Typicky rozhodné důkazy / podklady:** kategorizace zákazníků dle § 2a ZPKT, doklad o povolení k investičním službám v domovském státě, smluvní dokumentace prokazující povahu a okruh poskytovaných služeb.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=2b4deca701cdaaf78735 generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 5p
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> Zahraniční banka z členského státu nebo oprávněná finanční instituce může profesionálním zákazníkům podle [[§ 2a|§ 2a]] zákona [[o podnikání na kapitálovém trhu|o podnikání na kapitálovém trhu]] poskytovat i bez založení pobočky na území České republiky investiční služby, a to i trvale. Ustanovení § 5a odst. 1 a § 5c odst. 2 se pro poskytování investičních služeb podle předchozí věty nepoužijí v rozsahu, v jakém upravují trvalé provozování činnosti výhradně prostřednictvím pobočky.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2a, § 5a, § 5c
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2b4deca701cdaaf78735 -->
 
 ### § 6 — Doba platnosti a nepřevoditelnost licence
 
@@ -1706,6 +3100,52 @@ Rozhodnutí o označení je výsledkem konsensuálního procesu mezi ČNB a domo
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=2b4aa1aacc4d5c85b8d5 generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 6
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> Licence se uděluje na dobu neurčitou a není převoditelná na jinou osobu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2b4aa1aacc4d5c85b8d5 -->
+
 ### § 7 — Veřejný seznam bank a poboček
 
 > **§ 7**
@@ -1757,6 +3197,52 @@ Zákon č. 21/1992 Sb. nestanoví, že výpis ze seznamu je veřejnou listinou, 
 **Typicky rozhodné důkazy / podklady:** výpis ze seznamu bank a poboček ČNB, prezentace a smluvní podmínky dotčeného subjektu, případné potvrzení ČNB o zápisu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=e42435784b5abe2823bc generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 7
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> Česká národní banka vede seznam bank a poboček zahraničních bank a uveřejňuje jej způsobem umožňujícím dálkový přístup.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e42435784b5abe2823bc -->
 
 ### § 7a — Zánik licence
 
@@ -1844,6 +3330,70 @@ Zákon zakotvuje **pracovní provizorní status** po zániku licence: subjekt, j
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=85e99525f5e93e9e6e00 generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 7a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> (1) Licence zaniká dnem,
+>
+> - a) kterým nabývá právní moci rozhodnutí o odnětí licence,
+>
+> - b) ke kterému se banka zrušuje, pokud se zrušuje s likvidací,
+>
+> - c) od kterého podle rozhodnutí valné hromady dosavadní banka nadále nebude vykonávat činnost, ke které je třeba licence,
+>
+> - d) výmazu banky z obchodního rejstříku, pokud zaniká bez likvidace,
+>
+> - e) ke kterému nabylo právní moci rozhodnutí o zákazu činnosti banky na území České republiky podle zvláštního právního předpisu.
+>
+> (2) Licence udělená zahraniční bance z jiného než členského státu pro její pobočku zaniká rovněž dnem, ke kterému
+>
+> - a) zahraniční banka z jiného než členského státu ukončí činnost své pobočky na území České republiky,
+>
+> - b) zahraniční banka z jiného než členského státu pozbyla ve státě svého sídla oprávnění k činnosti.
+>
+> (3) Ode dne zániku licence nesmí právnická osoba, které zanikla licence, nebo osoba podle [[#§ 4b|§ 4b]] přijímat vklady, poskytovat úvěry, záruky a přísliby a provozovat další činnosti, s výjimkou těch, které jsou nezbytné k vypořádání jejích pohledávek a závazků. Do doby, než právnická osoba, které zanikla licence, vypořádá své pohledávky a závazky nebo osoba podle [[#§ 4b|§ 4b]] vypořádá pohledávky a závazky týkající se její pobočky, se považuje za banku nebo pobočku zahraniční banky z jiného než členského státu podle tohoto zákona.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 4b
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=85e99525f5e93e9e6e00 -->
+
 ### § 7b — Licence pro překlenovací instituci a nabyvatele při řešení krize
 
 > **§ 7b**
@@ -1905,3 +3455,50 @@ Propojení obou odstavců se zákonem o bankách: překlenovací instituce s lic
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o zahájení a nástrojích resolution dle ZOPRK, projekt převodu aktiv a závazků na překlenovací instituci, žádost nabyvatele majetku/dluhů, odůvodnění rozsahu a doby derogace podmínek § 4.
 
 ---
+
+<!-- LEGAL-REVISION:BEGIN id=f737e873acd54da0349d generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 7b — Speciální ustanovení o udělení licence ve vztahu k řešení krize
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka může z moci úřední na časově omezenou dobu udělit licenci překlenovací instituci podle zákona upravujícího ozdravné postupy a řešení krize na finančním trhu, přestože tato instituce nesplňuje některou z podmínek pro udělení licence podle [[#§ 4|§ 4]].
+>
+> (2) Předloží-li nabyvatel majetku nebo dluhů povinné osoby podle zákona upravujícího ozdravné postupy a řešení krize na finančním trhu žádost o udělení licence, Česká národní banka žádost bez zbytečného odkladu posoudí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 4
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f737e873acd54da0349d -->

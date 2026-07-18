@@ -70,6 +70,52 @@ Bezpečnostní rezerva je pevný polštář 2,5 % TREA krytý výhradně CET1; j
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=ad747fe72f37f53122f5 generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 12n — Bezpečnostní kapitálová rezerva
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> Osoba podle § 12m odst. 1 průběžně udržuje bezpečnostní kapitálovou rezervu na individuálním a konsolidovaném základě podle části první hlavy druhé nařízení Evropského parlamentu a Rady (EU) č. [[575/2013|575/2013]] ve výši 2,5 % z celkového objemu rizikové expozice podle čl. 92 odst. 3 nařízení Evropského parlamentu a Rady (EU) č. [[575/2013|575/2013]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 12m
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ad747fe72f37f53122f5 -->
+
 ### § 12o — Proticyklická kapitálová rezerva pro Českou republiku
 
 > **§ 12o**
@@ -182,6 +228,98 @@ CCyB je dynamický nástroj s variabilní sazbou; ČNB ji nastavuje OOP v režim
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=d329a0ce00d04f0941a2 generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 12o
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> (1) Osoba podle § 12m odst. 1 průběžně udržuje proticyklickou kapitálovou rezervu specifickou pro příslušnou osobu na individuálním a konsolidovaném základě podle části první hlavy druhé nařízení Evropského parlamentu a Rady (EU) č. [[575/2013|575/2013]].
+>
+> (2) Česká národní banka čtvrtletně vypočte orientační ukazatel proticyklické kapitálové rezervy jako referenční hodnotu, kterou se řídí při stanovení sazby proticyklické kapitálové rezervy. Tento ukazatel je založen na odchylce poměru objemu poskytnutých úvěrů a hrubého domácího produktu od dlouhodobého trendu.
+>
+> (3) Česká národní banka při výpočtu orientačního ukazatele proticyklické kapitálové rezervy přihlíží zejména k
+>
+> - a) úvěrovému cyklu a růstu objemu poskytovaných úvěrů v České republice,
+>
+> - b) změnám poměru objemu poskytnutých úvěrů a hrubého domácího produktu,
+>
+> - c) specifikům českého národního hospodářství,
+>
+> - d) doporučením vydaným Evropskou radou pro systémová rizika.
+>
+> (4) Česká národní banka čtvrtletně vyhodnocuje míru cyklického systémového rizika, na jehož základě může stanovit nebo změnit sazbu proticyklické kapitálové rezervy pro Českou republiku; při stanovení nebo změně sazby Česká národní banka přihlíží k
+>
+> - a) orientačnímu ukazateli proticyklické kapitálové rezervy vypočtenému podle odstavců 2 a [[#§ 3|3]],
+>
+> - b) doporučením vydaným Evropskou radou pro systémová rizika,
+>
+> - c) ukazatelům, které mohou značit růst systémového rizika.
+>
+> (5) Sazba proticyklické kapitálové rezervy podle odstavce 4 se stanoví ve výši 0 % až 2,5 % z celkového objemu rizikové expozice podle čl. 92 odst. 3 nařízení Evropského parlamentu a Rady (EU) č. [[575/2013|575/2013]] v násobcích 0,25 procentního bodu. V případech, kdy to bude na základě skutečností uvedených v odstavci 4 důvodné, může Česká národní banka stanovit tuto sazbu vyšší než 2,5 %.
+>
+> (6) Česká národní banka stanoví opatřením obecné povahy
+>
+> - a) sazbu proticyklické kapitálové rezervy pro Českou republiku podle odstavce 4,
+>
+> - b) den, od kterého osoba podle § 12m odst. 1 použije sazbu podle písmene a) pro účely výpočtu kombinované kapitálové rezervy.
+>
+> (7) Při prvním stanovení sazby podle odstavce 6 písm. a) nebo při zvýšení této sazby může být den podle odstavce 6 písm. b) stanoven nejdříve 1 rok po dni vydání opatření obecné povahy; ve výjimečných případech může být tato lhůta kratší. To neplatí, pokud se sazba podle odstavce 6 písm. a) sníží.
+>
+> (8) Česká národní banka v opatření obecné povahy uvede
+>
+> - a) údaje podle odstavce 6,
+>
+> - b) poměr objemu poskytnutých úvěrů k hrubému domácímu produktu České republiky a odchylku tohoto poměru od dlouhodobého trendu,
+>
+> - c) referenční sazbu proticyklické kapitálové rezervy podle odstavců 2 a [[#§ 3|3]],
+>
+> - d) odůvodnění výše sazby podle odstavce 6 písm. a), včetně uvedení všech faktorů, které Česká národní banka vzala v úvahu při stanovení této sazby,
+>
+> - e) důvody pro zkrácení lhůty, pokud je lhůta podle odstavce 7 kratší než 1 rok,
+>
+> - f) nezávazně určené období, po které Česká národní banka očekává, že sazba podle odstavce 6 písm. a) nebude zvýšena včetně odůvodnění délky tohoto období, pokud byla sazba proticyklické kapitálové rezervy snížena.
+>
+> (9) Česká národní banka koordinuje termín vydání opatření obecné povahy s příslušnými orgány dohledu nebo určenými orgány jiných států.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 12m, § 3
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d329a0ce00d04f0941a2 -->
+
 ### § 12p — Proticyklická kapitálová rezerva pro jiný členský stát EU
 
 > **§ 12p**
@@ -255,6 +393,66 @@ Pro expozice v jiném členském státě EU se sazba CCyB do 2,5 % aplikuje auto
 **Typicky rozhodné důkazy / podklady:** geografické členění rizikových expozic, oznámení/akt zahraničního orgánu dohledu, OOP ČNB (u sazeb nad 2,5 %), výpočet specifické sazby CCyB.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=e1f7138b126b713ab4d8 generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 12p
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> (1) Osoba podle § 12m odst. 1 použije sazbu proticyklické kapitálové rezervy pro jiný členský stát ve výši, kterou stanovil příslušný orgán dohledu nebo určený orgán tohoto členského státu29), pokud tato sazba byla stanovena do výše 2,5 % z celkového objemu rizikové expozice podle čl. 92 odst. 3 nařízení Evropského parlamentu a Rady (EU) č. [[575/2013|575/2013]].
+>
+> (2) Pokud příslušný orgán dohledu nebo určený orgán jiného členského státu stanovil sazbu proticyklické kapitálové rezervy vyšší než 2,5 % z celkového objemu rizikové expozice podle čl. 92 odst. 3 nařízení Evropského parlamentu a Rady (EU) č. [[575/2013|575/2013]], Česká národní banka tuto sazbu uzná nebo stanoví sazbu ve výši 2,5 %. Osoba podle § 12m odst. 1 v takovém případě použije sazbu stanovenou Českou národní bankou.
+>
+> (3) Česká národní banka stanoví opatřením obecné povahy
+>
+> - a) sazbu proticyklické kapitálové rezervy pro jiný členský stát podle odstavce 2,
+>
+> - b) název státu, na nějž se vztahuje sazba podle písmene a),
+>
+> - c) den, od kterého osoba podle § 12m odst. 1 použije sazbu podle písmene a) pro účely výpočtu kombinované kapitálové rezervy.
+>
+> (4) Při prvním stanovení sazby podle odstavce 3 písm. a) nebo při zvýšení této sazby může být den podle odstavce 3 písm. c) stanoven nejdříve 1 rok po dni vydání opatření obecné povahy; ve výjimečných případech může být tato lhůta kratší. To neplatí, pokud se sazba podle odstavce 3 písm. a) sníží.
+>
+> (5) Je-li lhůta podle odstavce 4 kratší než 1 rok, Česká národní banka v opatření obecné povahy uvede důvody pro zkrácení lhůty.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 12m
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e1f7138b126b713ab4d8 -->
 
 ### § 12q — Proticyklická kapitálová rezerva pro třetí stát
 
@@ -333,6 +531,72 @@ U expozic vůči třetím státům má ČNB silnější autonomní diskreci než
 **Typicky rozhodné důkazy / podklady:** objem a dynamika úvěrů české banky v třetím státě, makroekonomické a dohledové údaje o daném státě, doporučení ESRB, OOP ČNB s odůvodněním, výpočet vážené specifické sazby CCyB.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=3052f0cc4d496f654e13 generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 12q
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> (1) Osoba podle § 12m odst. 1 použije sazbu proticyklické kapitálové rezervy pro jiný než členský stát ve výši, kterou stanovil příslušný orgán dohledu tohoto státu, pokud tato sazba byla stanovena do výše 2,5 % z celkového objemu rizikové expozice podle čl. 92 odst. 3 nařízení Evropského parlamentu a Rady (EU) č. [[575/2013|575/2013]].
+>
+> (2) Pokud příslušný orgán dohledu jiného než členského státu stanovil sazbu proticyklické kapitálové rezervy nižší než 2,5 % z celkového objemu rizikové expozice podle čl. 92 odst. 3 nařízení Evropského parlamentu a Rady (EU) č. [[575/2013|575/2013]], Česká národní banka může sazbu zvýšit až do výše 2,5 %, považuje-li to za potřebné z hlediska rizik spojených s objemem poskytovaných úvěrů v tomto státě. Osoba podle § 12m odst. 1 v takovém případě použije sazbu stanovenou Českou národní bankou.
+>
+> (3) Pokud příslušný orgán dohledu jiného než členského státu stanovil sazbu proticyklické kapitálové rezervy vyšší než 2,5 % z celkového objemu rizikové expozice podle čl. 92 odst. 3 nařízení Evropského parlamentu a Rady (EU) č. [[575/2013|575/2013]], Česká národní banka tuto sazbu uzná nebo stanoví sazbu ve výši 2,5 %. Osoba podle § 12m odst. 1 v takovém případě použije sazbu stanovenou Českou národní bankou.
+>
+> (4) Pokud příslušný orgán dohledu jiného než členského státu sazbu proticyklické kapitálové rezervy nestanovil, Česká národní banka může tuto sazbu stanovit do výše 2,5 % z celkového objemu rizikové expozice podle čl. 92 odst. 3 nařízení Evropského parlamentu a Rady (EU) č. [[575/2013|575/2013]]. Osoba podle § 12m odst. 1 v takovém případě použije sazbu stanovenou Českou národní bankou.
+>
+> (5) Česká národní banka při stanovení sazby proticyklické kapitálové rezervy podle odstavců 2 až 4 přihlíží k doporučením vydaným Evropskou radou pro systémová rizika.
+>
+> (6) Česká národní banka stanoví opatřením obecné povahy
+>
+> - a) sazbu proticyklické kapitálové rezervy pro jiný než členský stát podle odstavců 2 až 4,
+>
+> - b) název státu, na nějž se vztahuje sazba podle písmene a),
+>
+> - c) den, od kterého osoba podle § 12m odst. 1 použije sazbu podle písmene a) pro účely výpočtu kombinované kapitálové rezervy.
+>
+> (7) Při prvním stanovení sazby podle odstavce 6 písm. a) nebo při zvýšení této sazby může být den podle odstavce 6 písm. c) stanoven nejdříve 1 rok po dni vydání opatření obecné povahy; ve výjimečných případech může být tato lhůta kratší. To neplatí, pokud se sazba podle odstavce 6 písm. a) sníží.
+>
+> (8) Česká národní banka v opatření obecné povahy odůvodní výši sazby podle odstavce 6 písm. a), a je-li lhůta podle odstavce 7 kratší než 1 rok, Česká národní banka uvede důvody pro zkrácení lhůty.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 12m
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3052f0cc4d496f654e13 -->
 
 ### § 12r — Kapitálová rezerva ke krytí systémového rizika — pravidla stanovení
 
@@ -436,6 +700,92 @@ SyRB je nejflexibilnější makroobezřetnostní rezerva pro strukturální (vč
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=48051e65872f02b155fc generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 12r
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka může za účelem omezení systémového nebo makroobezřetnostního rizika, včetně těchto rizik vyplývajících ze změny klimatu, která nejsou kryta požadavky podle přímo použitelného předpisu Evropské unie upravujícího obezřetnostní požadavky a požadavky na proticyklickou kapitálovou rezervu a kapitálovou rezervu pro globální nebo jinou systémově významnou instituci, stanovit, aby osoby, skupina druhově určených osob nebo jednotlivá osoba podle § 12m odst. 1 průběžně udržovaly pro všechny expozice nebo podmnožinu expozic kapitálovou rezervu ke krytí systémového rizika na individuálním, konsolidovaném nebo subkonsolidovaném základě podle části první hlavy druhé nařízení Evropského parlamentu a Rady (EU) č. 575/2013.
+>
+> (2) Kapitálová rezerva ke krytí systémového rizika se může vztahovat na
+>
+> - a) expozice umístěné v České republice,
+>
+> - b) podmnožinu expozic umístěných v České republice v členění na expozice vůči
+>
+> - 1. fyzickým osobám zajištěné obytnými nemovitostmi, kterými se pro účely tohoto zákona rozumí obytné nemovitosti podle čl. 4 odst. 1 bodu 75 nařízení Evropského parlamentu a Rady (EU) č. [[575/2013|575/2013]],
+>
+> - 2. právnickým osobám zajištěné obchodními nemovitostmi, kterými se pro účely tohoto zákona rozumí jiné než obytné nemovitosti,
+>
+> - 3. fyzickým osobám s výjimkou expozic podle bodu 1,
+>
+> - 4. právnickým osobám s výjimkou expozic podle bodu 2,
+>
+> - c) části expozic podle písmene b) bodů 1 až 4,
+>
+> - d) expozice umístěné v jiných členských státech,
+>
+> - e) expozice v členění podle písmene b) bodů 1 až 4 umístěné v jiném členském státě, pro který Česká národní banka uznala sazbu podle [[#§ 12t|§ 12t]],
+>
+> - f) expozice umístěné v jiném než členském státě.
+>
+> (3) Česká národní banka stanoví sazbu kapitálové rezervy ke krytí systémového rizika pro všechny expozice nebo podmnožinu expozic v násobcích 0,5 procentního bodu. Česká národní banka při stanovení sazby přihlíží k tomu, aby výše sazby neměla nepříznivý dopad na finanční trh jako celek nebo jeho část v jiných členských státech Evropské unie nebo celé Evropské unii a nebyla překážkou pro fungování jednotného trhu. Česká národní banka přezkoumává důvody pro stanovení kapitálové rezervy ke krytí systémového rizika alespoň jednou za 2 roky.
+>
+> (4) Česká národní banka stanoví rozhodnutím nebo opatřením obecné povahy
+>
+> - a) sazbu kapitálové rezervy ke krytí systémového rizika,
+>
+> - b) údaje nutné k identifikaci osoby podle § 12m odst. 1, která je povinna udržovat kapitálovou rezervu ke krytí systémového rizika,
+>
+> - c) údaje nutné k identifikaci expozic, na které se sazba kapitálové rezervy ke krytí systémového rizika vztahuje,
+>
+> - d) den, od kterého dotčená osoba podle § 12m odst. 1 použije sazbu podle písmene a),
+>
+> - e) názvy států, na něž se vztahuje sazba podle písmene a).
+>
+> (5) Kapitálová rezerva pro krytí systémového rizika se nepoužije pro krytí stejných rizik, která jsou kryta proticyklickou kapitálovou rezervou a kapitálovou rezervou pro globální nebo jinou systémově významnou instituci, a rizik, která jsou plně kryta požadavkem vypočteným podle čl. 92 odst. 3 nařízení Evropského parlamentu a Rady (EU) č. 575/2013.
+>
+> (6) Pokud se na osobu podle odstavce 1 použije kapitálová rezerva ke krytí systémového rizika pro celkovou rizikovou expozici a stane se pro ni závazným minimální výstupní práh podle [[#§ 25ga|§ 25ga]], přezkoumá Česká národní banka nejpozději ke dni, kdy má být proveden přezkum podle odstavce 3, požadavek na kapitálovou rezervu ke krytí systémového rizika této osoby s cílem zachovat její přiměřenou kalibraci.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 12m, § 12t, § 25ga
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=48051e65872f02b155fc -->
+
 ### § 12s — Oznamovací povinnost ČNB před stanovením SyRB
 
 > **§ 12s**
@@ -536,6 +886,86 @@ Procesní náročnost stanovení SyRB roste se sazbou: do 3 % stačí oznámení
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=542ec308946fc4919af7 generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 12s
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka oznámí záměr stanovit sazbu kapitálové rezervy ke krytí systémového rizika Evropské radě pro systémová rizika. Je-li osoba podle § 12m odst. 1 ovládána osobou se sídlem v jiném členském státě a na její expozice se vztahuje sazba kapitálové rezervy ke krytí systémového rizika, oznámí Česká národní banka záměr stanovit sazbu kapitálové rezervy ke krytí systémového rizika příslušnému orgánu dohledu nebo určenému orgánu dotčeného členského státu.
+>
+> (2) Oznámení podle odstavce 1 obsahuje
+>
+> - a) sazbu kapitálové rezervy ke krytí systémového rizika,
+>
+> - b) údaje nutné k identifikaci osoby podle § 12m odst. 1,
+>
+> - c) údaje nutné k identifikaci expozic, na které se sazba kapitálové rezervy ke krytí systémového rizika vztahuje, včetně identifikace expozic umístěných v jiném než členském státě,
+>
+> - d) popis systémového nebo makroobezřetnostního rizika,
+>
+> - e) odůvodnění výše sazby podle písmene a) vzhledem k míře systémového nebo makroobezřetnostního rizika a ohrožení stability finančního systému v České republice,
+>
+> - f) odůvodnění výše sazby podle písmene a) z hlediska její účinnosti a přiměřenosti zmírnit systémové nebo makroobezřetnostní riziko,
+>
+> - g) vyhodnocení pravděpodobných kladných a záporných dopadů stanovení kapitálové rezervy ke krytí systémového rizika na jednotný trh Evropské unie na základě informací dostupných České národní bance.
+>
+> (3) Pokud hodlá Česká národní banka uložit osobě podle § 12m odst. 1 povinnost udržovat kapitálovou rezervu ke krytí systémového rizika pro všechny expozice, uvede v oznámení podle odstavce 1 důvody, pro které nelze považovat kapitálovou rezervu ke krytí systémového rizika za duplicitní k fungování kapitálové rezervy pro jinou systémově významnou instituci.
+>
+> (4) Pokud by stanovení nebo změna sazby kapitálové rezervy ke krytí systémového rizika vedly k tomu, že kombinovaná sazba kapitálové rezervy ke krytí systémového rizika nepřevýší 3 % z celkového objemu rizikové expozice podle čl. 92 odst. 3 nařízení Evropského parlamentu a Rady (EU) č. 575/2013 pro kteroukoli podmnožinu expozic, Česká národní banka oznámí záměr podle odstavce 1 nejpozději 1 měsíc přede dnem vydání rozhodnutí nebo opatření obecné povahy podle § 12r odst. 4.
+>
+> (5) Pokud by stanovení nebo změna sazby kapitálové rezervy ke krytí systémového rizika vedly k tomu, že by kombinovaná sazba kapitálové rezervy ke krytí systémového rizika byla vyšší než 3 % a nepřevýšila 5 % z celkového objemu rizikové expozice podle čl. 92 odst. 3 nařízení Evropského parlamentu a Rady (EU) č. [[575/2013|575/2013]] pro kteroukoli podmnožinu expozic, Česká národní banka si vyžádá před vydáním rozhodnutí nebo opatření obecné povahy podle § 12r odst. 4 stanovisko Evropské komise. Pokud Česká národní banka stanovisku Evropské komise nevyhoví, sdělí jí důvody, které ji k tomu vedly.
+>
+> (6) Pokud by stanovení nebo změna sazby kapitálové rezervy ke krytí systémového rizika vedly k tomu, že by kombinovaná sazba kapitálové rezervy ke krytí systémového rizika byla vyšší než 5 % z celkového objemu rizikové expozice podle čl. 92 odst. 3 nařízení Evropského parlamentu a Rady (EU) č. [[575/2013|575/2013]] pro kteroukoli podmnožinu expozic, Česká národní banka oznámí záměr podle odstavce 1, přičemž rozhodnutí nebo opatření obecné povahy podle § 12r odst. 4 vydá pouze v návaznosti na nařízení nebo rozhodnutí Evropské komise.
+>
+> (7) Je-li osoba podle § 12m odst. 1 ovládána osobou se sídlem v jiném členském státě a na její expozice se vztahuje kombinovaná sazba podle odstavce 5, požádá Česká národní banka v oznámení podle odstavce 1 Evropskou komisi a Evropskou radu pro systémová rizika o vydání doporučení. Neshodnou-li se Česká národní banka a příslušný orgán dohledu nebo určený orgán dotčeného členského státu nebo jsou-li doporučení Evropské komise a Evropské rady pro systémová rizika zamítavá, Česká národní banka může postoupit věc k rozhodnutí Evropskému orgánu pro bankovnictví podle přímo použitelného předpisu Evropské unie upravujícího dohled nad finančním trhem v oblasti bankovnictví19). Česká národní banka rozhodnutí nebo opatření obecné povahy podle § 12r odst. 4 nevydá, dokud ve věci nerozhodne Evropský orgán pro bankovnictví.
+>
+> (8) Do kombinované sazby kapitálové rezervy ke krytí systémového rizika podle odstavců 4 až 6 se nezapočte sazba stanovená Českou národní bankou podle [[#§ 12t|§ 12t]].
+>
+> (9) Pokud změna sazby kapitálové rezervy ke krytí systémového rizika nevede ke zvýšení dříve stanovené sazby, postup podle odstavců 4 až 6 se nepoužije.
+>
+> (10) Pokud Česká národní banka hodlá stanovit sazbu kapitálové rezervy ke krytí systémového rizika pro expozice umístěné v jiných členských státech, musí být sazba kapitálové rezervy ke krytí systémového rizika stejná pro všechny členské státy s výjimkou sazby podle [[#§ 12t|§ 12t]].
+>
+> (11) Česká národní banka může požádat Evropskou radu pro systémová rizika, aby pro příslušné orgány dohledu nebo určené orgány jiných členských států vydala doporučení uznat sazbu kapitálové rezervy ke krytí systémového rizika stanovenou Českou národní bankou pro Českou republiku.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 12m, § 12r, § 12t
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=542ec308946fc4919af7 -->
+
 ### § 12t — Uznání sazby SyRB jiného členského státu
 
 > **§ 12t**
@@ -591,6 +1021,58 @@ Uznání zahraniční SyRB je u ČNB fakultativní; je-li uznána a kryje toté�
 **Typicky rozhodné důkazy / podklady:** oznámení zahraničního orgánu dohledu, akt ČNB o uznání dle § 12r odst. 4, analýza totožnosti krytých rizik (vlastní vs. uznaná SyRB), členění expozic v daném státě, doklad o oznámení ESRB.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=711664d4746b54e70d92 generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 12t
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> (1) Pokud příslušný orgán dohledu nebo určený orgán jiného členského státu stanovil pro tento členský stát sazbu kapitálové rezervy ke krytí systémového rizika, může Česká národní banka sazbu pro účely výpočtu kapitálové rezervy ke krytí systémového rizika uznat a rozhodnutím nebo opatřením obecné povahy podle § 12r odst. 4 tuto sazbu stanovit.
+>
+> (2) Pokud kapitálová rezerva ke krytí systémového rizika vypočtená na základě sazby stanovené příslušným orgánem dohledu nebo určeným orgánem jiného členského státu pokrývá stejná rizika jako kapitálová rezerva ke krytí systémového rizika stanovená podle § 12r, použije se vyšší z kapitálových rezerv.
+>
+> (3) Česká národní banka před stanovením sazby kapitálové rezervy ke krytí systémového rizika přihlíží k informacím uvedeným v oznámení příslušného orgánu dohledu nebo určeného orgánu jiného členského státu.
+>
+> (4) Česká národní banka oznámí uznání sazby podle odstavce 1 Evropské radě pro systémová rizika.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 12r
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=711664d4746b54e70d92 -->
 
 ### § 12u — Kapitálová rezerva pro globální systémově významnou instituci (G-SII buffer)
 
@@ -675,6 +1157,78 @@ G-SII buffer cílí na globálně systémově významné skupiny, uplatňuje se 
 **Typicky rozhodné důkazy / podklady:** data o velikosti, propojenosti, nahraditelnosti, složitosti a přeshraniční aktivitě skupiny, výpočet skóre dle metodiky EBA, rozhodnutí ČNB o určení a o sazbě, doklad o informování ESRB (§ 12w).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=52a04a73ada484d504da generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 12u — Kapitálová rezerva pro globální systémově významnou instituci
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka rozhodne o povinnosti globální systémově významné instituce průběžně udržovat kapitálovou rezervu pro globální systémově významnou instituci na konsolidovaném základě podle části první hlavy druhé nařízení Evropského parlamentu a Rady (EU) č. [[575/2013|575/2013]].
+>
+> (2) Česká národní banka rozhodne o určení globální systémově významné instituce na konsolidovaném základě podle části první hlavy druhé nařízení Evropského parlamentu a Rady (EU) č. [[575/2013|575/2013]]. Jako globální systémově významná instituce může být určena skupina, v jejímž čele je evropská ovládající úvěrová instituce, evropská finanční holdingová osoba nebo evropská smíšená finanční holdingová osoba schválená podle § 27 odst. 1 nebo banka s výjimkou banky ovládané evropskou ovládající úvěrovou institucí, evropským ovládajícím investičním podnikem, evropskou finanční holdingovou osobou nebo evropskou smíšenou finanční holdingovou osobou.
+>
+> (3) Česká národní banka stanoví systémovou významnost globální systémově významné instituce na základě těchto kritérií:
+>
+> - a) velikost skupiny globální systémově významné instituce,
+>
+> - b) propojenost skupiny globální systémově významné instituce s finančním systémem,
+>
+> - c) nahraditelnost služeb poskytovaných skupinou globální systémově významné instituce,
+>
+> - d) složitost skupiny globální systémově významné instituce,
+>
+> - e) přeshraniční činnost skupiny globální systémově významné instituce.
+>
+> (4) Česká národní banka rozhodne o zařazení globální systémově významné instituce do jedné z alespoň 5 kategorií na základě vyhodnocení systémové významnosti instituce podle přímo použitelného předpisu Evropské unie upravujícího metodiku určování globálních systémově významných institucí a vymezení podkategorií globálních systémově významných institucí39). Systémovou významností se rozumí očekávaný dopad, jaký by měla nepříznivá finanční situace globální systémově významné instituce na celosvětový finanční trh.
+>
+> (5) Česká národní banka může v odůvodněných případech rozhodnout o zařazení
+>
+> - a) globální systémově významné instituce do kategorie s vyšší systémovou významností,
+>
+> - b) instituce, která nebyla určena jako systémově významná, do některé z kategorií systémové významnosti,
+>
+> - c) globální systémově významné instituce do kategorie s nižší systémovou významností s přihlédnutím k přeshraničním činnostem skupiny prováděným v rámci zúčastněných členských států podle čl. 4 nařízení Evropského parlamentu a Rady (EU) č. [[806/2014|806/2014]]40).
+>
+> (6) Sazby kapitálové rezervy pro globální systémově významnou instituci pro jednotlivé kategorie systémové významnosti jsou stanoveny v násobcích 0,5 procentního bodu, přičemž pro instituce zařazené do kategorie s nejnižší úrovní systémové významnosti sazba činí 1 % z celkového objemu rizikové expozice podle čl. 92 odst. 3 nařízení Evropského parlamentu a Rady (EU) č. [[575/2013|575/2013]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 27
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=52a04a73ada484d504da -->
 
 ### § 12v — Kapitálová rezerva pro jinou systémově významnou instituci (O-SII buffer)
 
@@ -768,6 +1322,82 @@ O-SII buffer (až 3 %, nad 3 % jen s aktem EK) je primárním nástrojem pro tuz
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=1be78d256191f2a06c69 generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 12v — Kapitálová rezerva pro jinou systémově významnou instituci
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka může stanovit, aby jiná systémově významná instituce průběžně udržovala na individuálním, konsolidovaném nebo subkonsolidovaném základě podle části první hlavy druhé nařízení Evropského parlamentu a Rady (EU) č. [[575/2013|575/2013]] kapitálovou rezervu pro jinou systémově významnou instituci.
+>
+> (2) Česká národní banka rozhodne o určení jiné systémově významné instituce na individuálním, konsolidovaném nebo subkonsolidovaném základě podle části první hlavy druhé nařízení Evropského parlamentu a Rady (EU) č. [[575/2013|575/2013]]. Jako jiná systémově významná instituce může být označena skupina, v jejímž čele je evropská ovládající úvěrová instituce, evropská finanční holdingová osoba nebo evropská smíšená finanční holdingová osoba schválená podle § 27 odst. 1, skupina, v jejímž čele je tuzemská ovládající banka, tuzemská finanční holdingová osoba nebo tuzemská smíšená finanční holdingová osoba schválená podle § 27 odst. 1, nebo banka.
+>
+> (3) Česká národní banka stanoví systémovou významnost jiné systémově významné instituce alespoň podle některého z těchto kritérií:
+>
+> - a) velikost instituce nebo skupiny jiné systémově významné instituce,
+>
+> - b) význam instituce nebo skupiny jiné systémově významné instituce pro hospodářství Evropské unie nebo České republiky,
+>
+> - c) význam přeshraničních činností instituce nebo skupiny jiné systémově významné instituce, nebo
+>
+> - d) propojenost instituce nebo skupiny jiné systémově významné instituce s finančním systémem.
+>
+> (4) Česká národní banka může rozhodnout o stanovení sazby kapitálové rezervy pro jinou systémově významnou instituci do výše 3 % z celkového objemu rizikové expozice podle čl. 92 odst. 3 nařízení Evropského parlamentu a Rady (EU) č. 575/2013 s přihlédnutím k systémové významnosti instituce podle odstavce 3. Česká národní banka při stanovení sazby přihlíží k tomu, aby výše sazby neměla nepříznivý dopad na finanční trh jako celek nebo jeho část v jiných členských státech Evropské unie nebo celé Evropské unii a nebyla překážkou pro fungování jednotného trhu. Česká národní banka může rozhodnout o stanovení sazby kapitálové rezervy pro jinou systémově významnou instituci vyšší než 3 % z celkového objemu rizikové expozice podle čl. 92 odst. 3 nařízení Evropského parlamentu a Rady (EU) č. 575/2013 pouze v návaznosti na nařízení nebo rozhodnutí Evropské komise. Česká národní banka přezkoumává požadavek na kapitálovou rezervu pro jinou systémově významnou instituci alespoň jednou ročně. Stane-li se minimální výstupní práh pro jinou systémově významnou instituci podle [[#§ 25ga|§ 25ga]] závazným, přezkoumá Česká národní banka sazbu kapitálové rezervy této jiné systémově významné instituce nejpozději ke dni takového přezkumu s cílem zachovat její přiměřenou kalibraci.
+>
+> (5) Česká národní banka oznámí záměr stanovit nebo změnit sazbu kapitálové rezervy pro jinou systémově významnou instituci Evropské radě pro systémová rizika nejpozději 1 měsíc přede dnem vydání rozhodnutí podle odstavce 4, pokud jde o sazbu nepřevyšující 3 % z celkového objemu rizikové expozice podle čl. 92 odst. 3 nařízení Evropského parlamentu a Rady (EU) č. [[575/2013|575/2013]]. Pokud Česká národní banka hodlá stanovit sazbu kapitálové rezervy pro jinou systémově významnou instituci vyšší než 3 % z celkového objemu rizikové expozice podle čl. 92 odst. 3 nařízení Evropského parlamentu a Rady (EU) č. [[575/2013|575/2013]], oznámí záměr Evropské radě pro systémová rizika 3 měsíce přede dnem vydání rozhodnutí podle odstavce 4.
+>
+> (6) Oznámení podle odstavce 5 obsahuje
+>
+> - a) sazbu kapitálové rezervy pro jinou systémově významnou instituci,
+>
+> - b) odůvodnění výše sazby podle písmene a) z hlediska její účinnosti a přiměřenosti zmírnit riziko,
+>
+> - c) vyhodnocení pravděpodobných kladných a záporných dopadů stanovení kapitálové rezervy pro jinou systémově významnou instituci na jednotný trh Evropské unie na základě informací dostupných České národní bance.
+>
+> (7) Pokud je jiná systémově významná instituce ovládána globální systémově významnou institucí nebo jinou systémově významnou institucí, která je institucí nebo skupinou, v jejímž čele je evropská ovládající úvěrová instituce, evropský ovládající investiční podnik, evropská finanční holdingová osoba nebo evropská smíšená finanční holdingová osoba, a je povinna udržovat kapitálovou rezervu pro jinou systémově významnou instituci na konsolidovaném základě, pak kapitálová rezerva pro tuto jinou systémově významnou instituci na individuálním nebo subkonsolidovaném základě nesmí přesáhnout nižší z těchto hodnot:
+>
+> - a) součet vyšší ze sazeb kapitálové rezervy pro globální systémově významnou instituci nebo jinou systémově významnou instituci uplatňovaných pro skupinu na konsolidovaném základě a 1 % z celkového objemu rizikové expozice podle čl. 92 odst. 3 nařízení Evropského parlamentu a Rady (EU) č. [[575/2013|575/2013]], nebo
+>
+> - b) 3 % z celkového objemu rizikové expozice podle čl. 92 odst. 3 nařízení Evropského parlamentu a Rady (EU) č. [[575/2013|575/2013]] nebo sazba uplatňovaná pro skupinu na konsolidovaném základě v návaznosti na nařízení nebo rozhodnutí Evropské komise podle odstavce 4.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 27, § 25ga
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1be78d256191f2a06c69 -->
+
 ### § 12va — Společná pravidla pro G-SII, O-SII a SyRB při součtu nad 5 %
 
 > **§ 12va**
@@ -819,6 +1449,54 @@ Převýší-li součet G-SII/O-SII bufferu a SyRB hranici 5 % TREA pro kteroukol
 **Typicky rozhodné důkazy / podklady:** výpočet součtu G-SII/O-SII bufferu a SyRB pro jednotlivé podmnožiny expozic, akty ČNB o jednotlivých rezervách, žádost o souhlas a souhlas Evropské komise, doklad o tom, zda jde o zvýšení nebo zachování sazeb.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=0910981b19ddb3c0789d generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 12va — Společná pravidla pro stanovení kapitálové rezervy pro globální nebo jinou systémově významnou instituci a kapitálové rezervy ke krytí systémového rizika
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> (1) Pokud osoba podle § 12m odst. 1 podléhá kapitálové rezervě pro globální systémově významnou instituci, nebo kapitálové rezervě pro jinou systémově významnou instituci a zároveň podléhá kapitálové rezervě pro krytí systémového rizika a jejich součet by převýšil u jakékoli příslušné množiny nebo podmnožiny expozic 5 % z objemu rizikové expozice, Česká národní banka vydá rozhodnutí o sazbě kapitálové rezervy pro globální systémově významnou instituci, nebo o sazbě kapitálové rezervy pro jinou systémově významnou instituci pouze se souhlasem Evropské komise.
+>
+> (2) Odstavec 1 se nepoužije, pokud se sazba kapitálové rezervy pro krytí systémového rizika nebo sazba kapitálové rezervy pro jinou systémově významnou instituci nebo pro globální systémově významnou instituci nezvyšuje.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 12m
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0910981b19ddb3c0789d -->
 
 ### § 12w — Informační povinnosti ČNB vůči ESRB o G-SII a O-SII
 
@@ -873,6 +1551,56 @@ Převýší-li součet G-SII/O-SII bufferu a SyRB hranici 5 % TREA pro kteroukol
 **Typicky rozhodné důkazy / podklady:** sdělení ČNB vůči ESRB, korespondence o výsledku ročního přezkumu vůči instituci, znění a datum aktualizace veřejného seznamu na webu ČNB, rozhodnutí o určení dle § 12u/§ 12v.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=f8b882ce30005a734bb6 generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 12w
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka sdělí Evropské radě pro systémová rizika názvy institucí označených jako globální systémově významné a jiné systémově významné včetně kategorií systémové významnosti, do kterých byly globální systémově významné instituce zařazeny, a uvede důvody, pro které tak činí.
+>
+> (2) Česká národní banka přezkoumává určení globálních systémově významných institucí a jiných systémově významných institucí a zařazení globálních systémově významných institucí do kategorií systémové významnosti jednou ročně. Česká národní banka o výsledku přezkumu informuje dotčené systémově významné instituce a Evropskou radu pro systémová rizika.
+>
+> (3) Česká národní banka uveřejňuje způsobem umožňujícím dálkový přístup aktuální seznam institucí, které určila jako globální systémově významné nebo jako jiné systémově významné, a kategorii systémové významnosti, do které globální systémově významnou instituci zařadila.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f8b882ce30005a734bb6 -->
 
 ### § 12x — Procesní pravidla pro vydávání OOP dle §§ 12o–12r
 
@@ -929,6 +1657,54 @@ OOP k makroobezřetnostním rezervám (§§ 12o–12r) se vydávají ve zrychlen
 **Typicky rozhodné důkazy / podklady:** znění OOP a datum/způsob jeho zveřejnění, doklad o ohrožení stability odůvodňující nezveřejnění odůvodnění, podklady k proporcionalitě a souladu se zákonným zmocněním.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=94a3d04730b48566e275 generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 12x
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> (1) Při vydání opatření obecné povahy podle § 12o až 12r se [[§ 172|§ 172]] a [[§ 173 odst. 1|§ 173 odst. 1]] [[správního řádu|správního řádu]] nepoužije. Opatření obecné povahy oznámí Česká národní banka způsobem umožňujícím dálkový přístup. Opatření obecné povahy nabývá účinnosti dnem zveřejnění. Pokud by zveřejnění odůvodnění opatření obecné povahy vydaného podle § 12r odst. 3 ohrozilo stabilitu finančního systému dotčených států, Česká národní banka odůvodnění nezveřejní.
+>
+> (2) Česká národní banka zveřejní pravomocné rozhodnutí podle § 12r odst. 3 způsobem umožňujícím dálkový přístup. Pokud by zveřejnění odůvodnění rozhodnutí ohrozilo stabilitu finančního systému dotčených států, Česká národní banka odůvodnění nezveřejní.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 12o, § 172, § 173, § 12r
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=94a3d04730b48566e275 -->
 
 ### § 12y — Kapitálová rezerva k pákovému poměru pro G-SII
 
@@ -997,6 +1773,62 @@ Rezerva k pákovému poměru pro G-SII (50 % G-SII bufferu) je doplňkovým pož
 **Typicky rozhodné důkazy / podklady:** výpočet pákového poměru a rezervy k pákovému poměru, struktura tier 1, plán na obnovení kapitálu, výpočet MDA pro pákový poměr, návrh distribuce (odkup akcií, pohyblivé odměny).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=8c96dddd9fa3f0db8d24 generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 12y — Kapitálová rezerva k pákovému poměru pro globální systémově významnou instituci
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> (1) Globální systémově významná instituce podle § 12u odst. 2 není oprávněna rozdělit kmenový kapitál tier 1 v rozsahu, který by vedl k nesplnění povinnosti udržovat v požadované výši kapitálovou rezervu k pákovému poměru podle čl. 92 odst. 1a nařízení Evropského parlamentu a Rady (EU) č. [[575/2013|575/2013]].
+>
+> (2) Pokud globální systémově významná instituce podle § 12u odst. 2 požadavek kapitálové rezervy k pákovému poměru neplní, dodržuje pravidla omezující rozdělení kmenového kapitálu tier 1 a do 5 pracovních dnů ode dne, kdy dojde k poklesu kapitálové rezervy k pákovému poměru pod požadovanou výši, předloží České národní bance žádost o schválení plánu na obnovení kapitálu. Česká národní banka může tuto lhůtu prodloužit až na 10 pracovních dnů v závislosti na posouzení individuální situace dané osoby s přihlédnutím k rozsahu a složitosti jejích činností.
+>
+> (3) Česká národní banka plán na obnovení kapitálu podle odstavce 3 schválí, jestliže lze očekávat, že na základě tohoto plánu globální systémově významná instituce podle § 12u odst. 2 požadavek kapitálové rezervy k pákovému poměru ve stanovené lhůtě splní. Pokud Česká národní banka plán na obnovení kapitálu neschválí, uloží opatření k nápravě podle § 26 odst. 2 písm. a) bodu 14 nebo § 26 odst. 2 písm. g).
+>
+> (4) Česká národní banka stanoví vyhláškou
+>
+> - a) pravidla a omezení při nesplnění požadavku kapitálové rezervy k pákovému poměru, včetně pravidel pro výpočet nejvyšší částky k možnému rozdělení související s pákovým poměrem a
+>
+> - b) náležitosti plánu na obnovení kapitálu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 12u, § 26
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8c96dddd9fa3f0db8d24 -->
 
 ### § 14 — Pravidla bezpečného provozu
 
@@ -1069,6 +1901,60 @@ V rozsahu, v němž jsou pravidla angažovanosti (large exposures) a měnových 
 **Typicky rozhodné důkazy / podklady:** znění prováděcí vyhlášky ČNB dle § 14 odst. 2, výpočet otevřené měnové pozice, ocenění a impairment nabytých aktiv, analýza zákonného zmocnění a relevantních ustanovení CRR (rozsah národní diskrece).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=8dd752a6beb7cdb10685 generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 14
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> (1) Banka je povinna dodržovat pravidla bezpečného provozu, která upravují
+>
+> - a) omezení a podmínky pro některé druhy úvěrů nebo investic, vkladů, záruk a závazků,
+>
+> - b) pravidla pro nabývání, financování a posuzování aktiv,
+>
+> - c) omezení a podmínky pro měnové pozice.
+>
+> (2) Podrobnosti pravidel podle odstavce 1 může Česká národní banka stanovit vyhláškou.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8dd752a6beb7cdb10685 -->
 
 ### § 16 — Předchozí souhlas ČNB s korporátními změnami banky
 
@@ -1220,6 +2106,112 @@ Odstavce 8–11 (oznamovací povinnosti a právo vkladatelů) se nepoužijí př
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=6e7adc2daee7f4c5965b generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 16
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> (1) Banka musí mít předchozí souhlas České národní banky
+>
+> - a) k uzavření smlouvy, na jejímž základě dochází k jakékoliv dispozici s obchodním závodem nebo jeho částí,
+>
+> - b) k rozhodnutí valné hromady o zrušení banky,
+>
+> - c) k převodu jmění na banku jakožto společníka,
+>
+> - d) k rozhodnutí valné hromady o snížení základního kapitálu banky, nejedná-li se o snížení základního kapitálu banky k úhradě ztráty,
+>
+> - e) k rozhodnutí valné hromady podle § 7a odst. 1 písm. c).
+>
+> Na právní jednání valné hromady učiněná bez požadovaného předchozího souhlasu se hledí, jako by nebyla přijata. Účastníkem řízení o udělení předchozího souhlasu je pouze žádající banka; účastníky tohoto řízení jsou rovněž druhá smluvní strana při dispozici s obchodním závodem nebo jeho částí podle písmene a), anebo přejímající společník při převodu jmění podle písmene c).
+>
+> (2) Banka je povinna informovat Českou národní banku
+>
+> - a) o zamýšlené změně stanov týkající se skutečností, které musí být ve stanovách uvedeny na základě požadavku zákona,
+>
+> - b) o záměru založit právnickou osobu v zahraničí nebo se na ní majetkově podílet.
+>
+> (3) Ustanoveními odstavce 1 písm. b) a c) nejsou dotčena ustanovení zvláštního předpisu.4)
+>
+> (4) Nabýt obchodní závod banky nebo být jeho pachtýřem může pouze
+>
+> - a) jiná banka,
+>
+> - b) banka se sídlem na území členského státu, která vykonává činnost na území České republiky prostřednictvím své pobočky, nebo
+>
+> - c) zahraniční banka z jiného než členského státu vykonávající na území České republiky činnost prostřednictvím své pobočky na základě licence podle [[#§ 4f|§ 4f]].
+>
+> (5) Dnem nabytí účinnosti smlouvy o převodu obchodního závodu se banka, která obchodní závod převedla, zrušuje a vstupuje do likvidace.
+>
+> (6) Česká národní banka neudělí předchozí souhlas podle odstavce 1 písm. a) nebo c), pokud jsou důvodné obavy, že dispozice s obchodním závodem nebo částí obchodního závodu banky, nebo převod jmění na banku jakožto společníka povede k ohrožení finanční stability a bezpečného fungování finančního systému České republiky, zejména s ohledem na organizační předpoklady, kapitálové vybavení a další předpoklady obezřetného podnikání banky nebo zahraniční banky zúčastněné na postupu podle odstavce 1 písm. a) nebo c). Přitom zváží i dopad na stabilitu finančního systému jiného členského státu Evropské unie, a to s přihlédnutím ke skutečnostem dostupným v době jeho vydání a zejména v případech, kdy nastane mimořádná situace, která by mohla fungování finančních systémů ovlivnit.
+>
+> (7) Žádost o udělení souhlasu podle odstavce 1 obsahuje, vedle náležitostí stanovených správním řádem, informace o důvodech zamýšleného postupu, způsobu jeho provedení a osobách zúčastněných na tomto postupu. Žádost lze podat pouze elektronicky. Podrobnosti náležitostí žádosti, její formát a další technické náležitosti stanoví Česká národní banka vyhláškou.
+>
+> (8) Poté, co nabude právní moci rozhodnutí o udělení souhlasu podle odstavce 1 písm. a) nebo c) nebo § 17m odst. 1 nebo [[#§ 2|2]] a alespoň 1 měsíc před nabytím účinnosti právního jednání, ke kterému byl souhlas udělen, banka uveřejní oznámení o tomto postupu na svých internetových stránkách. Vkladatelům, ve vztahu k jejichž pohledávce z vkladu se v důsledku postupu podle odstavce 1 písm. a) nebo c) nebo § 17m odst. 1 nebo [[#§ 2|2]] změnila osoba dlužníka, banka bez zbytečného odkladu po uveřejnění tohoto oznámení poskytne toto oznámení na trvalém nosiči dat. Uveřejnění tohoto oznámení se považuje za splnění povinnosti informovat vkladatele podle § 41s odst. 1.
+>
+> (9) Oznámení podle odstavce 8 obsahuje alespoň
+>
+> - a) obchodní firmu nebo název a sídlo osob zúčastněných na postupu podle odstavce 1 písm. a) nebo c) nebo § 17m odst. 1 nebo [[#§ 2|2]],
+>
+> - b) zkrácený rozsah údajů o plnění pravidel obezřetného podnikání osob uvedených v písmeni a), které se uveřejňují podle [[#§ 11a|§ 11a]] a [[#§ 11b|11b]] a podle přímo použitelného předpisu Evropské unie upravujícího obezřetnostní požadavky; tato povinnost může být splněna i uveřejněním odkazu na místo, kde jsou tyto údaje k dispozici,
+>
+> - c) informaci o sídle budoucí pobočky zahraniční banky na území České republiky, pokud se jedná o přeměnu banky na pobočku zahraniční banky,
+>
+> - d) popis postupu podle odstavce 1 písm. a) nebo c) nebo § 17m odst. 1 nebo [[#§ 2|2]],
+>
+> - e) popis vlivu postupu podle odstavce 1 písm. a) nebo c) nebo § 17m odst. 1 nebo [[#§ 2|2]] na klienty a jejich smlouvy s bankou,
+>
+> - f) informaci o příslušném orgánu dohledu po uskutečnění postupu podle odstavce 1 písm. a) nebo c) nebo § 17m odst. 1 nebo [[#§ 2|2]],
+>
+> - g) informaci o příslušném zahraničním systému pojištění vkladů po uskutečnění postupu, ke kterému byl souhlas podle odstavce 1 nebo § 17m odst. 1 nebo [[#§ 2|2]] udělen, a
+>
+> - h) poučení o právu vybrat své pohledávky z vkladů nebo je převést, pokud toto právo podle odstavce 11 nebo § 41s odst. 2 vznikne v souvislosti s uskutečněním postupu podle odstavce 1 písm. a) nebo c) nebo § 17m odst. 1 nebo [[#§ 2|2]], ke kterému byl souhlas udělen.
+>
+> (10) Oznámení podle odstavce 8 banka zašle České národní bance. Pokud oznámení nemá předepsané náležitosti, není určité nebo srozumitelné, Česká národní banka ve lhůtě 30 dnů ode dne jeho doručení zahájí řízení o zákazu jeho uveřejnění. Oznámení lze uveřejnit až poté, co marně uplyne lhůta pro zahájení řízení o zákazu uveřejnění oznámení, nebo pokud bylo zahájeno řízení o zákazu uveřejnění oznámení a nebylo vydáno rozhodnutí o zákazu uveřejnění oznámení, až po skončení tohoto řízení.
+>
+> (11) V případě, kdy v důsledku postupu podle odstavce 1 písm. a) nebo c) nebo § 17m odst. 1 nebo [[#§ 2|2]] dochází ke změně příslušného orgánu dohledu na zahraniční orgán dohledu ve vztahu k činnosti podle § 1 odst. 1 písm. a), má vkladatel, ve vztahu k jehož pohledávce z vkladu se změnila osoba dlužníka, ve lhůtě 3 měsíců ode dne, kdy bylo oznámení podle odstavce 8 uveřejněno na internetových stránkách banky, právo vybrat své pohledávky z vkladů nebo je převést, a to bezúplatně a bez sankce, jde-li o pohledávky z vkladů vyloučené z pojištění podle [[#§ 41c|§ 41c]].
+>
+> (12) Odstavce 8 až 11 se nepoužijí, jestliže se postupuje podle zákona upravujícího ozdravné postupy a řešení krize na finančním trhu nebo v rámci jiných opatření k ozdravení banky se souhlasem České národní banky.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 7a, § 4f, § 17m, § 2, § 41s, § 11a, § 11b, § 1, § 41c
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6e7adc2daee7f4c5965b -->
+
 ### § 16a — Zahraniční expanze — oznamovací povinnosti
 
 > **§ 16a**
@@ -1288,6 +2280,58 @@ Zákon výslovně deklaruje soudní přezkoumatelnost odmítavého rozhodnutí �
 **Typicky rozhodné důkazy / podklady:** oznámení banky vůči ČNB, dokumentace pasportní notifikace dle §§ 5c–5m, informace předané dle § 5f, odmítavé rozhodnutí ČNB s odůvodněním, doklady o organizačním, personálním a kapitálovém zajištění zahraniční pobočky.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=ce675d7935fa88063ee9 generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 16a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> (1) Banka je povinna písemně informovat Českou národní banku o záměru zřídit pobočku nebo zastoupení v zahraničí, o záměru poskytovat služby v zahraničí bez založení pobočky a o případných diskriminačních opatřeních státu, na jehož území pobočka nebo zastoupení v zahraničí působí nebo mají působit nebo na jehož území jsou nebo mají být poskytovány služby bez založení pobočky.
+>
+> (2) Banka postupuje v případě záměru zřídit pobočku nebo poskytovat služby bez založení pobočky v členském státě v souladu s § 5c až 5m. Totéž platí v případě záměru poskytovat služby podle [[#§ 5d|§ 5d]] prostřednictvím oprávněné finanční instituce splňující podmínky podle § 5e odst. 1, která služby bude poskytovat prostřednictvím své pobočky nebo bez založení pobočky. Pokud po obdržení oznámení o záměru zřídit pobočku banky nebo oprávněné finanční instituce v členském státě Česká národní banka shledá, že nebyly splněny podmínky podle § 5c až 5m, rozhodne o tom ve správním řízení ve lhůtě 3 měsíců ode dne obdržení informací podle [[#§ 5f|§ 5f]].
+>
+> (3) Jestliže Česká národní banka ve správním řízení rozhodne, že podmínky podle § 5c až 5m nejsou splněny, rozhodnutí je soudně přezkoumatelné.
+>
+> (4) Česká národní banka při výkonu dohledu nad bankou, která vykonává činnost na území jiného členského státu prostřednictvím pobočky, zohlední při sestavování plánu dohledových šetření podle [[#§ 25e|§ 25e]] informace získané orgánem dohledu tohoto členského státu při kontrole na místě.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 5c, § 5d, § 5e, § 5f, § 25e
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ce675d7935fa88063ee9 -->
 
 ### § 17 — Podmínky nabývání podílů bankou
 
@@ -1373,3 +2417,58 @@ Zákon výslovně zahrnuje **nepřímé podíly** (přes jiné osoby) a **souče
 *Navazující úprava (§§ 17a–17h a dále) je komentována v [06-cast4-provozni-pozadavky-c.md](06-cast4-provozni-pozadavky-c.md).*
 
 ---
+
+<!-- LEGAL-REVISION:BEGIN id=41a1b6f53549fc3ce828 generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 17
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> (1) Banka může nabýt podíl v jiné právnické osobě, založit jinou právnickou osobu nebo podílet se na jejím založení, pokud
+>
+> - a) se nestane společníkem s neomezeným ručením,
+>
+> - b) nejde o osobu, která má na této bance kvalifikovanou účast, ledaže jde o účastnické cenné papíry této osoby držené krátkodobě za účelem obchodování a banka dodrží pravidla pro nabývání, financování a posuzování aktiv stanovené Českou národní bankou podle § 14 odst. 1 písm. b),
+>
+> - c) nejsou právní nebo jiné překážky pro poskytování informací touto osobou bance a pro poskytování těchto informací bankou pro účely dohledu nad činností banky a je zachována průhlednost skupiny, jejímž členem je banka, a úzké propojení v rámci skupiny nebrání výkonu dohledu nad činností banky, nebo
+>
+> - d) investice je v souladu s celkovou strategií banky a banka řídí rizika s touto investicí spojená zejména z hlediska případných závazků banky z toho plynoucích.
+>
+> (2) Podílem se rozumí i nepřímý podíl nebo součet nepřímých podílů.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 14
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=41a1b6f53549fc3ce828 -->

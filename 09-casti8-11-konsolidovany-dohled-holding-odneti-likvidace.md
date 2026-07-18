@@ -97,6 +97,74 @@ V praxi se příslušnost ČNB jako orgánu konsolidovaného dohledu určuje hie
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=8c9803f8b3edcb0209d2 generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 26c — Orgán určený k výkonu dohledu na konsolidovaném základě
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> (1) Je-li banka tuzemskou ovládající bankou nebo evropskou ovládající úvěrovou institucí, je Česká národní banka orgánem určeným k výkonu dohledu na konsolidovaném základě.
+>
+> (2) Jsou-li banka nebo spořitelní a úvěrní družstvo ovládány tuzemskou finanční holdingovou osobou nebo tuzemskou smíšenou finanční holdingovou osobou, evropskou finanční holdingovou osobou nebo evropskou smíšenou finanční holdingovou osobou, je Česká národní banka orgánem určeným k výkonu dohledu na konsolidovaném základě.
+>
+> (3) Ovládá-li tuzemská finanční holdingová osoba, tuzemská smíšená finanční holdingová osoba, evropská finanční holdingová osoba nebo evropská smíšená finanční holdingová osoba více institucí z členských států, je Česká národní banka orgánem určeným k výkonu dohledu na konsolidovaném základě, pokud
+>
+> - a) banka nebo spořitelní a úvěrní družstvo je jedinou úvěrovou institucí z členského státu ve skupině, nebo
+>
+> - b) banka nebo spořitelní a úvěrní družstvo má nejvyšší bilanční sumu z úvěrových institucí z členského státu ve skupině.
+>
+> (4) Je-li podle čl. 18 odst. 3 nebo 6 nařízení Evropského parlamentu a Rady (EU) č. [[575/2013|575/2013]] požadována konsolidace, je Česká národní banka orgánem určeným k výkonu dohledu na konsolidovaném základě, pokud banka nebo spořitelní a úvěrní družstvo má nejvyšší bilanční sumu z úvěrových institucí, které jsou ve skupině z členských států.
+>
+> (5) Česká národní banka je orgánem určeným k výkonu dohledu na konsolidovaném základě, je-li součet bilančních sum bank a spořitelních a úvěrních družstev z členských států ve skupině vyšší než součet bilančních sum úvěrových institucí ve skupině, nad nimiž vykonává dohled na individuálním základě jiný příslušný orgán dohledu; v takovém případě se nepoužije odstavec 3 písm. b) a odstavce 4 a [[#§ 8|8.]]
+>
+> (6) Česká národní banka vykonává dohled na konsolidovaném základě, i když nejsou splněny podmínky podle odstavce 1, [[#§ 3|3]], [[#§ 4|4]], [[#§ 7|7]] nebo [[#§ 8|8]], nebo upustí od výkonu dohledu na konsolidovaném základě, i když jsou splněny podmínky podle odstavce 1, [[#§ 3|3]], [[#§ 4|4]], [[#§ 7|7]] nebo [[#§ 8|8]], jestliže se tak dohodne s příslušným orgánem dohledu, pokud považují použití kritéria podle odstavce 1, [[#§ 3|3]], [[#§ 4|4]], [[#§ 7|7]] nebo [[#§ 8|8]] jako nevhodné s ohledem na dotčené instituce a relativní význam jejich činností v příslušných členských státech. V takovém případě si Česká národní banka před uzavřením dohody s příslušným orgánem dohledu vyžádá stanovisko evropské ovládající úvěrové instituce, evropské finanční holdingové osoby, evropské smíšené finanční holdingové osoby nebo instituce s nejvyšší bilanční sumou.
+>
+> (7) Ovládá-li tuzemský ovládající obchodník s cennými papíry nebo evropský ovládající investiční podnik jednu nebo více úvěrových institucí, je Česká národní banka orgánem určeným k výkonu dohledu na konsolidovaném základě, pokud banka nebo spořitelní a úvěrní družstvo
+>
+> - a) je jedinou úvěrovou institucí z členského státu ve skupině, nebo
+>
+> - b) má nejvyšší bilanční sumu z úvěrových institucí, které jsou ve skupině, z členských států.
+>
+> (8) Je-li banka nebo spořitelní a úvěrní družstvo určenou úvěrovou institucí podle § 29 odst. 2 písm. c) nebo uloží-li Česká národní banka opatření podle § 31 odst. 2, je Česká národní banka určeným orgánem k výkonu dohledu na konsolidovaném základě.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 8, § 3, § 4, § 7, § 29, § 31
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8c9803f8b3edcb0209d2 -->
+
 ### § 26d — Posouzení rovnocennosti dohledu na konsolidovaném základě v jiných než členských státech
 
 > **§ 26d**
@@ -163,6 +231,60 @@ Ustanovení slouží jako pojistka proti tomu, aby tuzemská banka unikla konsol
 **Typicky rozhodné důkazy / podklady:** popis a doklady dohledového rámce orgánu třetí země, konsolidované rozvahy skupiny, srovnávací analýza kapitálových požadavků, záznamy z konzultací s EBA a dotčenými orgány, stanovisko Evropského bankovního výboru.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=666116d1800ff25678e6 generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 26d — Posouzení rovnocennosti dohledu na konsolidovaném základě v jiných než členských státech
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> (1) Pokud banka nebo spořitelní a úvěrní družstvo, které jsou ovládány institucí, finanční holdingovou osobou nebo smíšenou finanční holdingovou osobou se sídlem v jiném než členském státě, nepodléhají dohledu na konsolidovaném základě vykonávaném Českou národní bankou nebo jiným příslušným orgánem, pak Česká národní banka posoudí, zda tato banka nebo toto spořitelní a úvěrní družstvo podléhají ze strany orgánu dohledu z jiného než členského státu dohledu na konsolidovaném základě, který je rovnocenný dohledu na konsolidovaném základě podle tohoto zákona, a požadavkům části první hlavy druhé kapitoly 2 nařízení Evropského parlamentu a Rady (EU) č. [[575/2013|575/2013]].
+>
+> (2) Česká národní banka provádí posouzení podle odstavce 1, pokud by byla jinak orgánem určeným k výkonu dohledu na konsolidovaném základě nebo na žádost ovládající osoby nebo na žádost osoby zahrnuté do doplňkového dohledu na základě zákona upravujícího doplňkový dohled nad finančními konglomeráty nebo obdobné zahraniční osoby z členského státu. Česká národní banka přitom konzultuje ostatní dotčené příslušné orgány dohledu.
+>
+> (3) Při posouzení podle odstavce 1 Česká národní banka přihlíží k obecným pokynům vydaným Evropským bankovním výborem42) a konzultuje Evropský orgán pro bankovnictví.
+>
+> (4) Pokud Česká národní banka na základě posouzení podle odstavce 1 zjistí, že nad bankou nebo spořitelním a úvěrním družstvem není vykonáván rovnocenný dohled na konsolidovaném základě, použije na tuto banku nebo toto spořitelní a úvěrní družstvo obdobně ustanovení tohoto zákona, právního předpisu jej provádějícího nebo nařízení Evropského parlamentu a Rady (EU) č. [[575/2013|575/2013]] nebo uplatní jiné přiměřené postupy dohledu, které zabezpečí cíle dohledu na konsolidovaném základě. Tyto postupy Česká národní banka přijme po konzultaci s ostatními dotčenými příslušnými orgány dohledu a poté je oznámí dotčeným příslušným orgánům dohledu, Evropskému orgánu pro bankovnictví a Evropské komisi.
+>
+> (5) Přiměřené postupy dohledu podle odstavce 4 mohou zejména zahrnovat povinnost zřídit finanční holdingovou osobu nebo smíšenou finanční holdingovou osobu se sídlem v členském státě a uplatňovat tento zákon, právní předpis jej provádějící nebo nařízení Evropského parlamentu a Rady (EU) č. [[575/2013|575/2013]] o dohledu na konsolidovaném základě nad konsolidovanou situací této finanční holdingové osoby nebo smíšené finanční holdingové osoby.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=666116d1800ff25678e6 -->
 
 ### § 26e — Dohody o koordinaci a spolupráci
 
@@ -233,6 +355,62 @@ Písemná ujednání dle § 26e jsou organizačním základem přeshraničního 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=b6faf5a1a3d8e810609b generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 26e — Dohody o koordinaci a spolupráci
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> (1) Je-li Česká národní banka orgánem určeným k výkonu dohledu na konsolidovaném základě, uzavírá písemná ujednání o koordinaci a spolupráci s ostatními příslušnými orgány dohledu za účelem usnadnění a zavedení účinného dohledu. Vykonává-li Česká národní banka dohled na individuálním základě nad členem skupiny, uzavírá písemná ujednání o koordinaci a spolupráci s orgánem určeným k výkonu dohledu na konsolidovaném základě nad skupinou za účelem usnadnění a zavedení účinného dohledu.
+>
+> (2) V rámci dohod podle odstavce 1 lze orgánu určenému k výkonu dohledu na konsolidovaném základě svěřit další úkoly a upřesnit postupy pro rozhodování a spolupráci s ostatními příslušnými orgány dohledu.
+>
+> (3) Česká národní banka je oprávněna vyjmout z dohledu banku nebo spořitelní a úvěrní družstvo a delegovat na základě dohody v souladu s čl. 28 nařízení Evropského parlamentu a Rady (EU) č. [[1093/2010|1093/2010]] výkon dohledu na orgán určený k výkonu dohledu na konsolidovaném základě v jiném členském státě nad osobou ovládající tuto banku nebo spořitelní a úvěrní družstvo.
+>
+> (4) Odstavec 3 se použije obdobně v případě, kdy je Česká národní banka orgánem určeným k výkonu dohledu na konsolidovaném základě nad osobou ovládající zahraniční úvěrovou instituci a v souladu s čl. 28 nařízení Evropského parlamentu a Rady (EU) č. [[1093/2010|1093/2010]] přejímá výkon dohledu nad touto zahraniční úvěrovou institucí od příslušného orgánu dohledu v jiném členském státě.
+>
+> (5) Je-li Česká národní banka orgánem určeným k výkonu dohledu na konsolidovaném základě a finanční holdingová osoba nebo smíšená finanční holdingová osoba schválená podle § 27 odst. 1 má sídlo v jiném členském státě, uzavírá písemné ujednání o koordinaci a spolupráci uvedené v odstavci 1 s příslušným orgánem v členském státě, v němž má dotčená finanční holdingová osoba nebo smíšená finanční holdingová osoba své sídlo.
+>
+> (6) Česká národní banka uzavírá písemné ujednání o koordinaci a spolupráci podle odstavce 5 s orgánem určeným k výkonu dohledu na konsolidovaném základě v případě, že finanční holdingová osoba nebo smíšená finanční holdingová osoba má sídlo v České republice.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 27
+
+##### Souvisící předpisy
+
+- akt EU 1093/2010 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b6faf5a1a3d8e810609b -->
+
 ### § 26f — Ustanovení týkající se smíšených holdingových osob
 
 > **§ 26f**
@@ -287,6 +465,56 @@ Ustanovení vytváří cílený, nikoli plnohodnotný dohledový režim nad smí
 **Typicky rozhodné důkazy / podklady:** úvěrové a jiné smlouvy mezi bankou a osobami ve skupině, účetní výkazy banky a holdingové osoby, doklady o vlastnické a ovládací struktuře, protokol o kontrole na místě.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=02419934f23845150804 generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 26f — Ustanovení týkající se smíšených holdingových osob
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> (1) Ovládá-li smíšená holdingová osoba jednu nebo více bank nebo spořitelních a úvěrních družstev, je Česká národní banka oprávněna požadovat informace významné pro účely dohledu nad těmito osobami po smíšené holdingové osobě a jí ovládaných osobách.
+>
+> (2) Česká národní banka je oprávněna provádět kontrolu na místě nebo nechat provádět kontrolu na místě pro účely ověření informací obdržených od osob podle odstavce 1 třetí osobou. Pokud je smíšená holdingová osoba nebo jí ovládaná osoba pojišťovnou, lze postupovat obdobně podle § 26n odst. 3. Pokud smíšená holdingová osoba nebo jí ovládaná osoba se sídlem v jiném členském státě ovládá banku nebo spořitelní a úvěrní družstvo, pak se na kontrolu na místě pro účely ověření informací obdržených od osob podle odstavce 1 použije § 25 odst. 2.
+>
+> (3) Aniž je dotčena část čtvrtá nařízení Evropského parlamentu a Rady (EU) č. [[575/2013|575/2013]], vykonává Česká národní banka dohled nad operacemi uvnitř skupiny mezi ovládanou bankou nebo spořitelním a úvěrním družstvem a smíšenou holdingovou osobou a jí ovládanými osobami, pokud smíšená holdingová osoba ovládá banku nebo spořitelní a úvěrní družstvo.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 26n, § 25
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=02419934f23845150804 -->
 
 ### § 26g — Další povinnosti osob při výkonu dohledu na konsolidovaném základě
 
@@ -357,6 +585,66 @@ Ustanovení rozšiřuje fit and proper standardy a oznamovací povinnosti na hol
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=da9c1970a3a9950279cb generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 26g — Další povinnosti osob při výkonu dohledu na konsolidovaném základě
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> (1) Osoby zahrnuté do skupiny jsou povinny pro účely dohledu na konsolidovaném základě poskytovat České národní bance informace a dokumenty, vytvořit odpovídající kontrolní mechanismy zajišťující správnost poskytovaných informací a pravost a úplnost poskytovaných dokumentů a umožnit provedení kontroly podle § 26n odst. 2.
+>
+> (2) Je-li Česká národní banka orgánem určeným k výkonu dohledu na konsolidovaném základě, tuzemská ovládající banka, evropská ovládající úvěrová instituce, tuzemská finanční holdingová osoba, evropská finanční holdingová osoba, tuzemská smíšená finanční holdingová osoba a evropská smíšená finanční holdingová osoba předem oznámí České národní bance auditory, kteří budou provádět audit jí ovládaných osob.
+>
+> (3) Finanční holdingová osoba a smíšená finanční holdingová osoba nepodléhající povinnosti schválení podle § 27 odst. 1 jsou povinny zajistit, aby jejich statutárním orgánem, členem jejich statutárního orgánu, členem správní rady nebo členem dozorčí rady byla osoba důvěryhodná, dostatečně odborně způsobilá a zkušená pro výkon své funkce a pro zajištění plnění požadavků vyplývajících pro finanční holdingovou osobu a smíšenou finanční holdingovou osobu z tohoto zákona. Podrobnější požadavky stanoví Česká národní banka vyhláškou.
+>
+> (4) Finanční holdingová osoba a smíšená finanční holdingová osoba nepodléhající povinnosti schválení podle § 27 odst. 1 je povinna informovat Českou národní banku o návrzích personálních změn ve statutárním orgánu, správní radě a dozorčí radě, včetně předložení podkladů nezbytných pro posouzení odborné způsobilosti, důvěryhodnosti a zkušenosti navrhovaných osob. Fyzická osoba, která je navrhovaná za člena orgánu, je povinna finanční holdingové osobě nebo smíšené finanční holdingové osobě poskytnout potřebné podklady a součinnost.
+>
+> (5) Osoba, která se nově stane finanční holdingovou osobou nebo smíšenou finanční holdingovou osobou nepodléhající povinnosti schválení podle § 27 odst. 1, je povinna splnit povinnost podle odstavce 4 do 2 měsíců ode dne, kdy se stane finanční holdingovou osobou nebo smíšenou finanční holdingovou osobou. Neučiní-li tak, má se za to, že jednotliví členové statutárního orgánu, správní rady nebo dozorčí rady této finanční holdingové osoby nebo smíšené finanční holdingové osoby nesplňují stanovené předpoklady.
+>
+> (6) Česká národní banka může požadovat po finanční holdingové osobě nebo smíšené finanční holdingové osobě nepodléhající povinnosti schválení podle § 27 odst. 1 výměnu osoby, která je členem statutárního orgánu, správní rady nebo dozorčí rady finanční holdingové osoby nebo smíšené finanční holdingové osoby, jestliže tato osoba není dostatečně odborně způsobilá, zkušená nebo důvěryhodná.
+>
+> (7) Není-li ovládaná osoba, která je bankou, spořitelním a úvěrním družstvem nebo obchodníkem s cennými papíry, zahrnuta do dohledu na konsolidovaném základě podle čl. 19 nařízení Evropského parlamentu a Rady (EU) č. [[575/2013|575/2013]], může Česká národní banka požádat ovládající osobu o informace, které jí mohou usnadnit dohled nad touto ovládanou osobou.
+>
+> (8) Je-li Česká národní banka orgánem určeným k výkonu dohledu na konsolidovaném základě, může požádat osoby ovládané bankou, spořitelním a úvěrním družstvem, finanční holdingovou osobou nebo smíšenou finanční holdingovou osobou, které nejsou zahrnuty do dohledu na konsolidovaném základě, o informace podle [[#§ 26f|§ 26f]]; [[#§ 26f|§ 26f]] se použije obdobně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 26n, § 27, § 26f
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=da9c1970a3a9950279cb -->
+
 ### § 26h — Opatření k nápravě ve vztahu k některým osobám zahrnutým do konsolidace
 
 > **§ 26h**
@@ -425,6 +713,66 @@ Ustanovení přenáší opatření k nápravě na konsolidovanou úroveň: ČNB 
 **Typicky rozhodné důkazy / podklady:** smlouvy a doklady o intra-skupinových operacích, ocenění převáděných aktiv, výkazy regulované instituce dokládající (hrozící) zhoršení, doklad o postavení adresáta opatření ve skupině, výsledky mimořádného auditu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=ad3c7fe1d26d43cee4cb generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 26h — Opatření k nápravě ve vztahu k některým osobám zahrnutým do konsolidace
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> (1) Zjistí-li Česká národní banka nedostatky v činnosti osoby zahrnuté do skupiny, které mohou negativně ovlivnit hospodaření banky, spořitelního a úvěrního družstva nebo obchodníka s cennými papíry, který je součástí skupiny, je oprávněna ve vztahu k finanční holdingové osobě a smíšené finanční holdingové osobě schválené podle § 27 odst. 1, určené úvěrové instituci podle § 29 odst. 2 písm. c) nebo označené finanční holdingové osobě, smíšené finanční holdingové osobě nebo instituci podle § 31 odst. 2 a smíšené holdingové osobě podle povahy zjištěného nedostatku
+>
+> - a) vyžadovat, aby ve stanovené lhůtě zjednala nápravu,
+>
+> - b) nařídit zajištění mimořádného auditu u osoby, která je součástí skupiny, na náklady ovládající osoby,
+>
+> - c) zakázat nebo omezit provádění operací s osobami, které jsou součástí stejné skupiny.
+>
+> (2) Nedostatkem v činnosti osoby zahrnuté do skupiny, která není bankou, spořitelním a úvěrním družstvem, obchodníkem s cennými papíry, finanční holdingovou osobou nebo smíšenou finanční holdingovou osobou, se rozumí
+>
+> - a) porušení nebo obcházení tohoto zákona, zvláštních zákonů, obdobných zahraničních právních předpisů, právních předpisů vydaných Českou národní bankou a přímo použitelných předpisů Evropské unie,
+>
+> - b) provádění obchodů v rámci skupiny nebo navenek způsobem, který poškozuje zájmy vkladatelů banky, členů spořitelního a úvěrního družstva nebo zákazníků obchodníka s cennými papíry, který je součástí skupiny, nebo ohrožuje její bezpečnost a stabilitu.
+>
+> (3) Je-li Česká národní banka orgánem určeným k výkonu dohledu na konsolidovaném základě, může uložit bance, která je ovládající osobou, ovládajícímu obchodníkovi s cennými papíry, finanční holdingové osobě nebo smíšené finanční holdingové osobě při zjištění nedostatku v činnosti této osoby opatření k nápravě podle § 26 odst. 2 písm. a) bodů 1, [[#§ 13|13]] a 14 a podle § 26 odst. 2 písm. c).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 27, § 29, § 31, § 26, § 13
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ad3c7fe1d26d43cee4cb -->
 
 ### § 26i — Koordinace činností dohledu při výkonu dohledu na konsolidovaném základě
 
@@ -495,6 +843,67 @@ Pokud jiný příslušný orgán nespolupracuje nebo orgán konsolidovaného doh
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=8357dcfe6f60934df19e generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 26i — Koordinace činností dohledu při výkonu dohledu na konsolidovaném základě
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> (1) Je-li Česká národní banka orgánem určeným k výkonu dohledu na konsolidovaném základě, plní vedle úkolů stanovených tímto zákonem, jiným právním předpisem nebo nařízením Evropského parlamentu a Rady (EU) č. [[575/2013|575/2013]] rovněž tyto úkoly:
+>
+> - a) koordinuje ve vztahu k příslušným orgánům dohledu jiných členských států shromažďování a poskytování významných nebo nezbytných informací,
+>
+> - b) ve spolupráci s příslušnými orgány dohledu jiných členských států plánuje a koordinuje postup těchto orgánů v jiných než naléhavých situacích v rámci výkonu dohledu, včetně výkonu dohledu na konsolidovaném základě,
+>
+> - c) ve spolupráci s příslušnými orgány dohledu jiných členských států a s centrálními bankami Evropského systému centrálních bank plánuje a koordinuje postup těchto orgánů při přípravě na naléhavé situace a během nich, včetně nepříznivého vývoje v bance, spořitelním a úvěrním družstvu nebo na finančních trzích, a využívá pokud možno stávajících způsobů komunikace na podporu krizového řízení.
+>
+> (2) Plánování a koordinace podle odstavce 1 písm. c) zahrnuje přípravu společných hodnocení, zavedení plánů pro naléhavé situace, informování veřejnosti a ukládání závažných správních trestů a opatření k nápravě mimořádného významu podle § 38ha odst. 2 písm. d) a § 38i odst. 1 písm. b), ukládání závažných správních trestů a opatření k nápravě mimořádného významu podle zákona upravujícího činnost spořitelních a úvěrních družstev, ukládání závažných správních trestů a opatření k nápravě mimořádného významu podle zákona upravujícího podnikání na kapitálovém trhu a obdobných ustanovení zahraničních právních předpisů.
+>
+> (3) Česká národní banka může upozornit Evropský orgán pro bankovnictví a požádat jej o urovnání sporu podle čl. 19 nařízení Evropského parlamentu a Rady (EU) č. [[1093/2010|1093/2010]], pokud
+>
+> - a) příslušný orgán dohledu jiného členského státu s Českou národní bankou nespolupracuje v míře dostačující k řádnému plnění jejích úkolů podle odstavce 1, nebo
+>
+> - b) orgán určený k výkonu dohledu na konsolidovaném základě z jiného členského státu neplní úkoly podle čl. 112 odst. 1 směrnice Evropského parlamentu a Rady [[2013/36/EU|2013/36/EU]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 38ha, § 38i
+
+##### Souvisící předpisy
+
+- akt EU 1093/2010 (výslovně uvedeno v místním znění)
+- akt EU 2013/36 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8357dcfe6f60934df19e -->
+
 ### § 26j — Informační povinnost České národní banky při dohledu na konsolidovaném základě při naléhavých situacích
 
 > **§ 26j**
@@ -557,6 +966,62 @@ Ustanovení zakládá krizovou informační povinnost ČNB. Při naléhavé situ
 **Typicky rozhodné důkazy / podklady:** data o vývoji likvidity a odlivu vkladů, doklad o existenci významné pobočky / ovládané osoby v dotčeném státě, časové záznamy o odeslání informací příjemcům, interní krizová hlášení skupiny.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=eda0c7374f8e7ccfa0cf generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 26j — Informační povinnost České národní banky při dohledu na konsolidovaném základě při naléhavých situacích
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> (1) Nastane-li naléhavá situace, včetně nepříznivého vývoje na finančních trzích, která může ohrozit likviditu trhu a stabilitu finančního systému v členském státě, v němž osoba, u níž je Česká národní banka orgánem určeným k výkonu dohledu na konsolidovaném základě, vykonává činnost prostřednictvím významné pobočky nebo významné pobočky podle zákona upravujícího činnost spořitelních a úvěrních družstev, nebo v němž má sídlo osoba ovládaná osobou, u níž je Česká národní banka orgánem určeným k výkonu dohledu na konsolidovaném základě, sdělí Česká národní banka bez zbytečného odkladu všechny nezbytné informace
+>
+> - a) Evropskému orgánu pro bankovnictví,
+>
+> - b) Evropské radě pro systémová rizika a centrálním bankám Evropského systému centrálních bank a
+>
+> - c) orgánům veřejné moci podle § 25a odst. 4 písm. l) v členských státech dotčených touto situací.
+>
+> (2) Zjistí-li Česká národní banka, že nastala naléhavá situace, včetně nepříznivého vývoje na finančních trzích, která může ohrozit likviditu trhu a stabilitu finančního systému v členském státě, informuje bez zbytečného odkladu Evropský orgán pro bankovnictví a dotčené příslušné orgány.
+>
+> (3) Požaduje-li Česká národní banka informace potřebné pro výkon dohledu na konsolidovaném základě, u kterých lze předpokládat, že již byly poskytnuty jinému příslušnému orgánu, přednostně požádá o takové informace tento orgán.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 25a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=eda0c7374f8e7ccfa0cf -->
 
 ### § 26k — Opatření ke kapitálu a likviditě po dohodě s dotčenými příslušnými orgány dohledu
 
@@ -633,6 +1098,68 @@ Ustanovení zavádí koordinované rozhodování (joint decision) o kapitálové
 **Typicky rozhodné důkazy / podklady:** zprávy SREP o krytí rizik kapitálem, držení dodatečného kapitálu a posouzení rizika likvidity; doklady o předložení zpráv a běhu lhůty; stanoviska dotčených orgánů; případné stanovisko EBA; vydané rozhodnutí a doklad o jeho zaslání ostatním orgánům.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=85365d04b36f7dded273 generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 26k — Opatření ke kapitálu a likviditě po dohodě s dotčenými příslušnými orgány dohledu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> (1) Je-li Česká národní banka orgánem určeným k výkonu dohledu na konsolidovaném základě, je příslušná, po dohodě s příslušnými orgány dohledu jiných členských států vykonávajícími dohled nad osobami ovládanými evropskou ovládající úvěrovou institucí, evropskou finanční holdingovou osobou nebo evropskou smíšenou finanční holdingovou osobou, uložit opatření podle § 25e odst. 4 písm. f) a g) nebo sdělit pokyn podle [[#§ 25h|§ 25h]] všem osobám v dotčené skupině a také na konsolidovaném základě.
+>
+> (2) Česká národní banka předem informuje dotčené příslušné orgány o záměru uložit opatření či sdělit pokyn podle odstavce 1 a současně jim předloží zprávy o posouzení krytí rizik kapitálem, držení dodatečného kapitálu a rizika likvidity. Česká národní banka vyvíjí úsilí k tomu, aby bylo dosaženo dohody podle odstavce 1 ve lhůtě do 4 měsíců ode dne, kdy předložila dotčeným příslušným orgánům dohledu zprávu o posouzení krytí rizik kapitálem, zprávu o držení dodatečného kapitálu a zprávu o posouzení rizika likvidity.
+>
+> (3) Nebude-li dohody podle odstavce 1 dosaženo ve lhůtě podle odstavce 2, je Česká národní banka příslušná uložit opatření či sdělit pokyn podle odstavce 1 členům dotčené skupiny, nad nimiž vykonává dohled, i bez dohody s příslušnými orgány vykonávajícími dohled nad členy dotčené skupiny; přitom přihlédne k posouzení rizik členů této skupiny vyjádřenému ve stanovisku příslušných orgánů vykonávajících dohled nad členy této skupiny a těmto orgánům zašle na vědomí stejnopis vydaného rozhodnutí.
+>
+> (4) Nebylo-li dosaženo dohody mezi orgánem určeným k výkonu dohledu na konsolidovaném základě a Českou národní bankou o uložení opatření nebo sdělení pokynu Českou národní bankou bance, která je členem jedné nebo více uvedených skupin, a to ve lhůtě 4 měsíců ode dne, kdy orgán určený k výkonu dohledu na konsolidovaném základě nad dotčenou skupinou předložil České národní bance zprávu o posouzení krytí rizik kapitálem této skupiny, zprávu o držení dodatečného kapitálu touto skupinou, nebo zprávu o posouzení rizika likvidity této skupiny, je Česká národní banka příslušná uvedené bance uložit samostatně na individuálním nebo subkonsolidovaném základě opatření podle § 25e odst. 4 písm. f) a g) nebo sdělit pokyn podle [[#§ 25h|§ 25h]]; přitom přihlédne k posouzení rizik členů této skupiny vyjádřenému ve stanovisku příslušných orgánů vykonávajících dohled nad členy této skupiny a těmto orgánům zašle na vědomí stejnopis vydaného rozhodnutí.
+>
+> (5) Česká národní banka může ve lhůtě 7 dnů před uplynutím lhůt podle odstavců 3 a [[#§ 4|4]] požádat Evropský orgán pro bankovnictví o urovnání sporu podle čl. 19 nařízení Evropského parlamentu a Rady (EU) č. [[1093/2010|1093/2010]]. Pokud Česká národní banka nebo příslušné orgány vykonávající dohled nad členy dotčené skupiny podle odstavce 1 požádají o toto urovnání sporu, přeruší Česká národní banka řízení o uložení opatření nebo sdělení pokynu do vydání rozhodnutí Evropským orgánem pro bankovnictví.
+>
+> (6) Před vydáním rozhodnutí podle odstavce 3 si Česká národní banka může vyžádat stanovisko Evropského orgánu pro bankovnictví. Česká národní banka si však toto stanovisko vyžádá vždy, jestliže o to požádá některý z příslušných orgánů vykonávajících dohled nad členy dotčené skupiny. Jestliže bylo před vydáním rozhodnutí podle odstavce 3 nebo [[#§ 4|4]] vyžádáno stanovisko Evropského orgánu pro bankovnictví, Česká národní banka je vázána právním názorem v něm vysloveným, ledaže v odůvodnění rozhodnutí uvede důvody, pro které se od tohoto stanoviska odchyluje.
+>
+> (7) Česká národní banka přezkoumává rozhodnutí podle odstavce 1, [[#§ 3|3]] nebo [[#§ 4|4]] nejméně jednou za rok postupem podle odstavců 1 až 5. Česká národní banka může tato rozhodnutí přezkoumat na základě odůvodněného písemného podnětu příslušného orgánu vykonávajícího dohled nad členem dotčené skupiny. V takovém případě lze rozhodnutí podle odstavce 1, [[#§ 3|3]] nebo [[#§ 4|4]] přezkoumat také jen v rozsahu tohoto podnětu.
+>
+> (8) Banka je povinna udržovat kapitál na individuálním nebo konsolidovaném základě nad minimální úrovní a plnit zvláštní požadavky na likviditu, je-li jí tato povinnost uložena rozhodnutím vydaným po dohodě s Českou národní bankou příslušným orgánem jiného členského státu určeným k výkonu dohledu na konsolidovaném základě.
+>
+> (9) Pokyn k držení dodatečného kapitálu určí a sdělí bance příslušný orgán jiného členského státu určený k výkonu dohledu na konsolidovaném základě po dohodě s Českou národní bankou.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 25e, § 25h, § 4, § 3
+
+##### Souvisící předpisy
+
+- akt EU 1093/2010 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=85365d04b36f7dded273 -->
 
 ### § 26l — Kolegium nad skupinou
 
@@ -733,6 +1260,88 @@ Kolegium orgánů dohledu je povinnou institucionální platformou přeshraničn
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=e379331ddbc2d58e1390 generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 26l — Kolegium nad skupinou
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> (1) Je-li Česká národní banka orgánem určeným k výkonu dohledu na konsolidovaném základě, zřizuje kolegium pro plnění úkolů podle [[#§ 26i|§ 26i]], § 26j odst. 1 a [[#§ 2|2]] a [[#§ 26k|§ 26k]]. Zřízení a činnost kolegia jsou založeny na písemných ujednáních podle [[#§ 26e|§ 26e]], která připravuje Česká národní banka po projednání s dotčenými příslušnými orgány dohledu. Je-li to účelné, Česká národní banka při dodržení povinnosti mlčenlivosti podle [[#§ 25a|§ 25a]] a dalších požadavků stanovených právem Evropské unie koordinuje spolupráci s příslušnými orgány dohledu jiných než členských států. Zřízením a činností kolegií nejsou dotčeny pravomoci a působnost příslušných orgánů dohledu stanovené právem Evropské unie.
+>
+> (2) Je-li Česká národní banka orgánem určeným k výkonu dohledu na konsolidovaném základě, zřizuje kolegium pro plnění úkolů podle § 26e odst. 1 a [[#§ 2|2]], § 26i odst. 1 písm. a), b) a c) a § 26j odst. 1 a [[#§ 2|2]] i v případě, že všechny osoby ovládané evropskou ovládající úvěrovou institucí, evropskou finanční holdingovou osobou nebo evropskou smíšenou finanční holdingovou osobou mají skutečné sídlo v jiném než členském státě za předpokladu, že příslušné orgány dohledu v jiném než členském státě podléhají požadavkům mlčenlivosti, jež jsou srovnatelné s požadavky podle [[#§ 25a|§ 25a]]. Odstavec 1 věta druhá platí obdobně.
+>
+> (3) Kolegium vytváří předpoklady pro spolupráci České národní banky, Evropského orgánu pro bankovnictví a ostatních dotčených příslušných orgánů dohledu při
+>
+> - a) výměně informací mezi nimi a Evropským orgánem pro bankovnictví v souladu s čl. 21 nařízení Evropského parlamentu a Rady (EU) č. [[1093/2010|1093/2010]],
+>
+> - b) uplatňování ujednání podle [[#§ 26e|§ 26e]], je-li to účelné,
+>
+> - c) stanovení plánů kontrol vycházejících z hodnocení rizik dotčené skupiny podle [[#§ 25c|§ 25c]],
+>
+> - d) zvyšování účinnosti dohledu omezováním zdvojených požadavků při výkonu dohledu včetně požadavku na poskytnutí informací podle § 26j odst. 3, § 38ha odst. 3 věty druhé a podle obdobných ustanovení zahraničních právních předpisů,
+>
+> - e) jednotném uplatňování pravidel obezřetného podnikání v rámci dotčené skupiny, aniž jsou dotčeny pravomoci příslušných orgánů dohledu stanovené právem Evropské unie,
+>
+> - f) plánování a koordinaci činností podle § 26i odst. 1 písm. c) a podle obdobných ustanovení zahraničních právních předpisů, s přihlédnutím k činnosti jiných orgánů, jsou-li pro tyto účely zřízeny.
+>
+> (4) Členy kolegia jsou
+>
+> - a) Česká národní banka,
+>
+> - b) příslušný orgán dohledu členského státu, kde má evropská finanční holdingová osoba nebo evropská smíšená finanční holdingová osoba schválená podle § 27 odst. 1 sídlo,
+>
+> - c) příslušné orgány vykonávající dohled nad osobami z dotčené skupiny,
+>
+> - d) příslušné orgány dohledu hostitelských států, v nichž osoby z dotčené skupiny vykonávají činnost prostřednictvím významné pobočky nebo významné pobočky podle zákona upravujícího činnost spořitelních a úvěrních družstev,
+>
+> - e) centrální banky Evropského systému centrálních bank, je-li to účelné,
+>
+> - f) příslušné orgány dohledu jiných než členských států, je-li to účelné a jestliže podle shodného posouzení všech dotčených příslušných orgánů dohledu chrání informace nejméně v rozsahu, jaký je požadován právem Evropské unie.
+>
+> (5) Česká národní banka řídí jednání kolegia a určuje, kteří členové se účastní jednání nebo jiné činnosti kolegia. Přitom bere v úvahu význam těchto činností pro plnění svých povinností podle § 5o odst. 2 a [[#§ 3|3]], jakož i jejich význam pro členy kolegia. Na základě dostupných informací zejména přihlíží k možnému dopadu na stabilitu finančního systému v dotčených členských státech.
+>
+> (6) Česká národní banka vyvíjí úsilí k tomu, aby členové kolegia úzce spolupracovali. Česká národní banka informuje s dostatečným předstihem členy kolegia o jednání kolegia, pořadu jednání a plánovaných činnostech a bez zbytečného odkladu je informuje o závěrech přijatých na jednání nebo o jiné dohodnuté činnosti.
+>
+> (7) Česká národní banka informuje Evropský orgán pro bankovnictví o činnosti kolegia, a to i v případě, že nastane mimořádná situace, a poskytne mu veškeré informace, které jsou významné pro sbližování nástrojů a postupů dohledu. Ustanovení [[#§ 25a|§ 25a]] tím není dotčeno.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 26i, § 26j, § 2, § 26k, § 26e, § 25a, § 25c, § 38ha, § 27, § 5o, § 3
+
+##### Souvisící předpisy
+
+- akt EU 1093/2010 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e379331ddbc2d58e1390 -->
+
 ### § 26m — Výběr příslušné právní úpravy v případě smíšené finanční holdingové osoby
 
 > **§ 26m**
@@ -789,6 +1398,58 @@ Ustanovení je anti-duplikačním mechanismem pro smíšené finanční holdingo
 **Typicky rozhodné důkazy / podklady:** doklad o postavení ČNB v dohledové struktuře, popis a srovnávací analýza obou regulatorních rámců, identifikace nejvýznamnějšího sektoru skupiny, záznamy z konzultací/dohod s ostatními orgány.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=d1282523268c5941596f generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 26m — Výběr příslušné právní úpravy v případě smíšené finanční holdingové osoby
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> (1) Použijí-li se na smíšenou finanční holdingovou osobu srovnatelné požadavky, zejména pokud jde o rizikově orientovaný dohled, podle tohoto zákona a zákona upravujícího doplňkový dohled nad finančními konglomeráty, může Česká národní banka, je-li orgánem určeným k výkonu dohledu na konsolidovaném základě, po konzultaci s příslušnými orgány dohledu vykonávajícími dohled nad osobami ovládanými smíšenou finanční holdingovou osobou, stanovit, že se při výkonu dohledu na konsolidovaném základě použijí pouze ustanovení zákona upravujícího doplňkový dohled nad finančními konglomeráty.
+>
+> (2) Použijí-li se na smíšenou finanční holdingovou osobu srovnatelné požadavky, zejména pokud jde o rizikově orientovaný dohled, podle tohoto zákona a zákona upravujícího činnost pojišťoven, může Česká národní banka, je-li orgánem určeným k výkonu dohledu na konsolidovaném základě, po dohodě s příslušným orgánem dohledu nad skupinou v pojišťovnictví stanovit, že se při výkonu dohledu na konsolidovaném základě použijí pouze ustanovení, která se vztahují na nejvýznamnější sektor podle zákona upravujícího doplňkový dohled nad finančními konglomeráty.
+>
+> (3) Česká národní banka je příslušná ke konzultaci o použití pouze zahraničních právních předpisů upravujících doplňkový dohled nad finančními konglomeráty, vykonává-li dohled nad osobami ovládanými smíšenou finanční holdingovou osobou a je-li k této konzultaci vyzvána orgánem vykonávajícím doplňkový dohled nad finančním konglomerátem.
+>
+> (4) Česká národní banka je příslušná k dohodě o použití pouze zahraničních právních předpisů vztahujících se na nejvýznamnější sektor podle právních předpisů upravujících doplňkový dohled nad finančními konglomeráty, vykonává-li dohled nad skupinou v pojišťovnictví a je-li k této dohodě vyzvána orgánem vykonávajícím doplňkový dohled nad finančním konglomerátem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d1282523268c5941596f -->
 
 ### § 26n — Výměna informací, kontrola a spolupráce
 
@@ -864,6 +1525,68 @@ Ustanovení je operativním nástrojem konsolidovaného dohledu: ČNB může vy�
 **Typicky rozhodné důkazy / podklady:** organizační schéma skupiny, doklad o sídle ovládající osoby a ovládaných osob, vymezení informací významných pro dohled, protokoly o kontrole na místě, korespondence s orgány dohledu jiných států.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=af9a5857df9514218a53 generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 26n — Výměna informací, kontrola a spolupráce
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> (1) Pro účely dohledu na konsolidovaném základě je Česká národní banka oprávněna vyžadovat informace a dokumenty od osob podle § 26g odst. 1 a je oprávněna k výměně informací s příslušnými orgány dohledu v jiných členských státech.
+>
+> (2) Česká národní banka může za účelem výkonu dohledu na konsolidovaném základě provést kontrolu na místě v osobách podle § 26g odst. 1 nebo požádat o její provedení příslušný orgán dohledu. Česká národní banka informuje o zahájení, účelu a výsledcích kontroly na místě příslušný orgán dohledu nad kontrolovanou osobou.
+>
+> (3) Je-li banka, spořitelní a úvěrní družstvo, finanční holdingová osoba, smíšená finanční holdingová osoba nebo smíšená holdingová osoba osobou ovládající jednu nebo více ovládaných osob, které jsou pojišťovnami nebo jinými osobami poskytujícími investiční služby, ke kterým je třeba povolení, Česká národní banka spolupracuje a vyměňuje si informace pro účely výkonu dohledu s příslušnými orgány dohledu v jiných členských státech a orgány pověřenými dohledem nad pojišťovnami nebo jinými osobami poskytujícími investiční služby, ke kterým je třeba povolení.
+>
+> (4) Je-li Česká národní banka orgánem určeným k výkonu dohledu na konsolidovaném základě a součástí skupiny je smíšená finanční holdingová osoba, přičemž Česká národní banka není koordinátorem podle zákona upravujícího doplňkový dohled nad finančními konglomeráty, spolupracuje s koordinátorem pro účely uplatňování tohoto zákona, právního předpisu jej provádějícího a nařízení Evropského parlamentu a Rady (EU) č. [[575/2013|575/2013]] na konsolidovaném základě. Za účelem usnadnění a zavedení účinné spolupráce Česká národní banka vyvíjí úsilí k tomu, aby s koordinátorem uzavřela písemnou dohodu o koordinaci a spolupráci.
+>
+> (5) Nachází-li se ovládající osoba a jí ovládané instituce v různých členských státech, Česká národní banka si s příslušnými orgány dohledu těchto členských států vyměňuje veškeré významné informace k umožnění nebo usnadnění dohledu na konsolidovaném základě.
+>
+> (6) Je-li Česká národní banka orgánem určeným k výkonu dohledu na konsolidovaném základě, může vyzvat příslušný orgán dohledu v jiném členském státě, v němž se nachází ovládající osoba, aby požádal tuto osobu o poskytnutí informací významných pro účely dohledu na konsolidovaném základě a předal je České národní bance.
+>
+> (7) Má-li ovládající osoba sídlo nebo bydliště v České republice a Česká národní banka není orgánem určeným k výkonu dohledu na konsolidovaném základě, pak na základě žádosti příslušného orgánu dohledu z jiného členského státu určeného k výkonu dohledu na konsolidovaném základě nad touto osobou, Česká národní banka požádá takovou ovládající osobu o poskytnutí informací významných pro účely dohledu na konsolidovaném základě a předá je žádajícímu příslušnému orgánu dohledu.
+>
+> (8) Sběr ani držení informací vyměňovaných podle odstavce 5 nezakládá příslušnost České národní banky k výkonu dohledu ve vztahu k samotným finančním holdingovým osobám, smíšeným holdingovým osobám, finančním institucím nebo podnikům pomocných služeb, kterých se takové informace týkají.
+>
+> (9) Sběr ani držení informací vyměňovaných podle [[#§ 26f|§ 26f]] nezakládá příslušnost České národní banky k výkonu dohledu nad smíšenou holdingovou osobou a jí ovládanými osobami, které nejsou bankou, spořitelním a úvěrním družstvem nebo obchodníkem s cennými papíry, nebo nad ovládanými osobami podle odstavce 5.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 26g, § 26f
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=af9a5857df9514218a53 -->
 
 ### § 26o — Zprostředkující ovládající osoba v členském státě
 
@@ -952,6 +1675,76 @@ Ustanovení ukládá systémově významným skupinám ze třetích zemí (aktiv
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=29474ee0d56a3cea54d4 generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 26o — Zprostředkující ovládající osoba v členském státě
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> (1) Pokud osoba z jiného než členského státu, jejíž ovládanou osobou je banka, spořitelní a úvěrní družstvo nebo obchodník s cennými papíry, ovládá 2 a více institucí v jednom nebo více členských státech, má povinnost zřídit zprostředkující ovládající osobu v členském státě, ledaže celková hodnota aktiv skupiny připadající na členské státy je nižší než 40 miliard EUR.
+>
+> (2) Česká národní banka povolí osobě z jiného než členského státu, jejíž ovládanou osobou je banka, spořitelní a úvěrní družstvo nebo obchodník s cennými papíry, aby měla za splnění podmínek v odstavci 1 dvě zprostředkující ovládající osoby v členském státě, pokud by zřízení jediné zprostředkující osoby v členském státě
+>
+> - a) bylo neslučitelné s povinným požadavkem na oddělení činností, který ukládají pravidla nebo příslušné orgány dohledu z jiného než členského státu, kde má ovládající osoba, která není ovládána jinou osobou, skupiny z jiného než členského státu sídlo, nebo
+>
+> - b) vedlo podle posouzení České národní banky jako orgánu pro řešení krize zprostředkující ovládající osoby k tomu, že by způsobilost k řešení krize podle zákona upravujícího ozdravné postupy a řešení krize na finančním trhu byla méně účinná než v případě dvou zprostředkujících ovládajících osob v členských státech.
+>
+> (3) Zprostředkující ovládající osobou v členském státě může být pouze úvěrová instituce, finanční holdingová osoba nebo smíšená finanční holdingová osoba schválená podle § 27 odst. 1 nebo srovnatelného ustanovení právního předpisu jiného členského státu. Pokud žádná z institucí podle odstavce 1 není úvěrovou institucí, nebo pokud v souvislosti s odstavcem 2 písm. a) musí být zřízena druhá zprostředkující ovládající osoba v členském státě, může být zprostředkující ovládající osoba v členském státě investičním podnikem.
+>
+> (4) Česká národní banka sdělí Evropskému orgánu pro bankovnictví název a
+>
+> - a) celkovou hodnotu aktiv institucí podléhajících dohledu České národní banky, které patří do skupiny z jiného než členského státu,
+>
+> - b) celkovou hodnotu aktiv poboček zahraničních bank z jiných než členských států a druhy činností, které mají tyto pobočky povoleny vykonávat, a
+>
+> - c) typ zprostředkujících ovládajících osob se sídlem v České republice a identifikaci skupiny z jiného než členského státu, které jsou součástí.
+>
+> (5) Při výkonu dohledu nad zprostředkujícími ovládajícími osobami v členských státech Česká národní banka spolupracuje s příslušnými orgány dohledu nad institucemi a finančními institucemi v zahraničí a vyměňuje si s těmito orgány informace. Ustanovení [[#§ 25a|§ 25a]] tím není dotčeno.
+>
+> (6) Pro účely odstavce 1 se celkovou hodnotou aktiv skupiny připadající na členské státy rozumí součet celkové hodnoty aktiv
+>
+> - a) institucí ve skupině vyplývajících z jejich konsolidovaných rozvah nebo z individuálních rozvah, nejsou-li konsolidované rozvahy institucí sestavovány, a
+>
+> - b) poboček zahraničních bank z jiných než členských států ve skupině v členském státě povolených v souladu s právním předpisem dotčeného členského státu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 27, § 25a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=29474ee0d56a3cea54d4 -->
+
 ## Část devátá — Schvalování finančních holdingových osob
 
 > Část devátá (§§ 27–32) implementuje čl. 21a–21b CRD V (ve znění směrnice 2019/878/EU) a zavádí do českého práva systém **povinného schválení finančních holdingových osob a smíšených finančních holdingových osob** ze strany ČNB. Schválení je podmínkou výkonu dohledu na konsolidovaném základě a slouží k zajištění, že holdingová struktura skupiny nebrání efektivnímu dohledu. Zákon umožňuje alternativu v podobě **výjimky ze schválení** (§ 29), pokud jsou splněny podmínky pro delegaci obezřetnostních povinností na určenou úvěrovou instituci. Průběžné sledování souladu zajišťuje § 30, roční přezkum identifikace holdingových osob § 30a, zveřejnění schválených osob § 30b. Koordinovaná rozhodnutí s přeshraničním prvkem upravuje § 32. Část devátá navazuje na systém dohledu na konsolidovaném základě z části osmé a na pravomoci ČNB k ukládání opatření k nápravě z [08-cast7-opatreni-k-naprave.md](08-cast7-opatreni-k-naprave.md).
@@ -1012,6 +1805,54 @@ Tuzemské a evropské finanční holdingové osoby a smíšené finanční holdi
 **Typicky rozhodné důkazy / podklady:** doklad o nabytí kontrolních podílů, organizační schéma skupiny, datum vzniku statusu holdingové osoby, podaná žádost dle § 28/§ 29 a doklad o datu jejího podání.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=48936fffd8071bdd46be generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 27 — Osoby podléhající povinnosti schválení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> (1) Je-li Česká národní banka orgánem určeným k výkonu dohledu na konsolidovaném základě, povinnost získat její schválení má tuzemská finanční holdingová osoba, tuzemská smíšená finanční holdingová osoba, evropská finanční holdingová osoba a evropská smíšená finanční holdingová osoba. Jiná finanční holdingová osoba a smíšená finanční holdingová osoba, která je ovládána osobou podle věty první, má povinnost získat schválení České národní banky, pokud by měla mít povinnost dodržovat ustanovení tohoto zákona, právního předpisu jej provádějícího nebo nařízení Evropského parlamentu a Rady (EU) č. 575/2013 na subkonsolidovaném základě nebo je-li osobou určenou podle § 29 odst. 2 písm. c).
+>
+> (2) Povinnost podle odstavce 1 se považuje za splněnou také tehdy, pokud osoba podle odstavce 1 bez zbytečného odkladu po vzniku povinnosti podle odstavce 1 požádá o schválení podle [[#§ 28|§ 28]] nebo o výjimku z povinnosti schválení podle [[#§ 29|§ 29]]; to platí pouze, pokud se jedná o první řízení o žádosti podle [[#§ 28|§ 28]] nebo [[#§ 29|29]] vedené s touto osobou a toto řízení nebylo zastaveno.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 29, § 28
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=48936fffd8071bdd46be -->
 
 ### § 28 — Žádost o schválení, její náležitosti a rozhodnutí České národní banky
 
@@ -1102,6 +1943,86 @@ Tuzemské a evropské finanční holdingové osoby a smíšené finanční holdi
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=bc1e9a2e7473117f4b62 generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 28 — Žádost o schválení, její náležitosti a rozhodnutí České národní banky
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> (1) Žádost o schválení podá osoba podle § 27 odst. 1 České národní bance a předloží v ní informace o
+>
+> - a) organizačním uspořádání skupiny, jíž je součástí, s uvedením ovládaných osob a ovládajících osob a o umístění a druzích činnosti každé osoby ve skupině,
+>
+> - b) alespoň 2 fyzických osobách, které ji skutečně řídí, a o splnění povinností podle § 8 odst. 10 a požadavků na člena statutárního orgánu a dozorčí rady podle § 8aa odst. 1,
+>
+> - c) splnění podmínek podle § 4 odst. 5 písm. d), h), i) a j) a § 20 odst. 9, je-li jí ovládanou osobou banka, nebo o splnění obdobných podmínek podle zákona upravujícího činnost spořitelních a úvěrních družstev, je-li jí ovládanou osobou spořitelní a úvěrní družstvo, a
+>
+> - d) vnitřních systémech, uspořádání a rozdělení úkolů uvnitř skupiny.
+>
+> (2) Osoba podle § 27 odst. 1 předkládá informace podle odstavce 1 vždy také příslušnému orgánu dohledu v členském státě, v němž má tato osoba sídlo, není-li tímto orgánem Česká národní banka.
+>
+> (3) Česká národní banka rozhodne o žádosti podle odstavce 1 do 4 měsíců ode dne zahájení řízení. Trpí-li žádost podstatnými vadami, které brání pokračování v řízení, běží tato lhůta ode dne jejich odstranění; rozhodnutí o žádosti však musí být vydáno nejpozději do 6 měsíců ode dne zahájení řízení. Nevyhovění žádosti nevylučuje současné uložení opatření podle § 31 odst. 1 a [[#§ 2|2.]]
+>
+> (4) Česká národní banka žádosti podle odstavce 1 vyhoví, pokud
+>
+> - a) vnitřní systémy, uspořádání a rozdělení úkolů uvnitř skupiny jsou přiměřené pro účely plnění povinností a podmínek stanovených tímto zákonem, právním předpisem jej provádějícím a nařízením Evropského parlamentu a Rady (EU) č. [[575/2013|575/2013]] na konsolidovaném nebo subkonsolidovaném základě a zejména účinně
+>
+> - 1. koordinují činnost všech osob ovládaných osobou podle § 27 odst. 1, a to i prostřednictvím přiměřeného rozdělení úkolů mezi ovládané instituce, je-li to nezbytné,
+>
+> - 2. předcházejí konfliktům uvnitř skupiny nebo je řeší a
+>
+> - 3. prosazují celoskupinové zásady stanovené ovládající osobou podle § 27 odst. 1,
+>
+> - b) organizační uspořádání skupiny, jíž je osoba podle § 27 odst. 1 součástí, nebrání účinnému dohledu nad ovládanými institucemi nebo ovládajícími institucemi, pokud jde o jejich povinnosti na individuálním, konsolidovaném nebo subkonsolidovaném základě; při posuzování této podmínky se zohlední zejména
+>
+> - 1. postavení osoby podle § 27 odst. 1 ve víceúrovňové skupině,
+>
+> - 2. vlastnická struktura a
+>
+> - 3. úloha osoby podle § 27 odst. 1 ve skupině, a
+>
+> - c) jsou splněny podmínky podle § 4 odst. 5 písm. d), h), i) a j), § 8 odst. 10, § 20 odst. 9 a požadavky podle § 26g odst. 3.
+>
+> (5) Pokud osoba schválená podle odstavce 1 podá žádost podle § 29 odst. 1, stačí, aby podmínky podle § 29 odst. 2 splnila až ke dni vyhovění žádosti. Vyhověním žádosti podle § 29 odst. 1 pozbývá schválení žádosti podle odstavce 1 platnosti.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 27, § 8, § 8aa, § 4, § 20, § 31, § 2, § 26g, § 29
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=bc1e9a2e7473117f4b62 -->
+
 ### § 29 — Žádost o výjimku z povinnosti schválení, její náležitosti a rozhodnutí České národní banky
 
 > **§ 29**
@@ -1173,6 +2094,72 @@ Výjimka ze schválení je určena pasivním holdingovým strukturám plnícím 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=9dd55336a6bbc91ddf31 generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 29 — Žádost o výjimku z povinnosti schválení, její náležitosti a rozhodnutí České národní banky
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> (1) Žádost o výjimku z povinnosti schválení podá osoba podle § 27 odst. 1 České národní bance a předloží v ní informace podle § 28 odst. 1 a informace nezbytné k posouzení podmínek podle odstavce 2.
+>
+> (2) Česká národní banka žádosti podle odstavce 1 vyhoví, pokud
+>
+> - a) hlavní činností žádající osoby je nabývání podílů v ovládaných osobách, pokud je finanční holdingovou osobou, nebo v případě smíšené finanční holdingové osoby je nabývání podílů v ovládaných osobách její hlavní činností ve vztahu k institucím nebo finančním institucím,
+>
+> - b) žádající osoba není označena jako osoba podléhající řešení krize v žádné ze skupin podléhajících řešení krize v dané skupině v souladu se strategií řešení krize určenou relevantním orgánem příslušným k řešení krize,
+>
+> - c) úvěrová instituce, finanční holdingová osoba nebo smíšená finanční holdingová osoba schválená podle § 27 odst. 1 ovládaná žádající osobou je určena jako osoba, jejíž povinností je zajistit soulad skupiny s obezřetnostními požadavky na konsolidovaném základě a je nadána veškerými nezbytnými prostředky a rozhodovací pravomocí, aby tyto povinnosti účinně naplnila,
+>
+> - d) žádající osoba se nepodílí na přijímání řídicích, provozních ani finančních rozhodnutí ovlivňujících skupinu nebo jí ovládané osoby, které jsou institucemi nebo finančními institucemi, a
+>
+> - e) neexistuje překážka bránící účinnému dohledu České národní banky nad skupinou na konsolidovaném základě.
+>
+> (3) Pokud k podání žádosti o rozhodnutí podle odstavce 1 došlo po podání žádosti o schválení podle [[#§ 28|§ 28]], pak Česká národní banka řízení podle [[#§ 28|§ 28]] přeruší do vydání rozhodnutí.
+>
+> (4) Osoba podle § 27 odst. 1, jejíž schválení se na základě rozhodnutí České národní banky podle odstavce 1 nevyžaduje, není vyjmuta z konsolidace stanovené tímto zákonem, právním předpisem jej provádějícím nebo nařízením Evropského parlamentu a Rady (EU) č. [[575/2013|575/2013]].
+>
+> (5) Česká národní banka rozhodne o žádosti podle odstavce 1 do 4 měsíců ode dne zahájení řízení. Trpí-li žádost podstatnými vadami, které brání pokračování v řízení, běží tato lhůta ode dne jejich odstranění; rozhodnutí o žádosti však musí být vydáno nejpozději do 6 měsíců ode dne zahájení řízení.
+>
+> (6) Pokud osoba schválená podle odstavce 1 podá žádost podle § 28 odst. 1, stačí, aby podmínky podle § 28 odst. 4 splnila až kde dni vyhovění žádosti. Vyhověním žádosti podle § 28 odst. 1 pozbývá schválení žádosti podle odstavce 1 platnosti.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 27, § 28
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9dd55336a6bbc91ddf31 -->
+
 ### § 29a — Vynětí z působnosti konsolidace
 
 > **§ 29a**
@@ -1229,6 +2216,58 @@ Ustanovení umožňuje ČNB vyjmout z konsolidace pouze „prázdné" holdingov�
 **Typicky rozhodné důkazy / podklady:** rozvaha a účetní závěrka holdingové osoby, doklad o struktuře jejích aktiv a expozic, analýza pákového efektu, posouzení dopadu vynětí na dohled nad ovládanou institucí, předchozí rozhodnutí o výjimce dle § 29.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=9b3712a8127bbed7d4ee generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 29a — Vynětí z působnosti konsolidace
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> Česká národní banka může svým rozhodnutím vyjmout finanční holdingovou osobu nebo smíšenou finanční holdingovou osobu, která obdržela výjimku z povinnosti schválení podle § 29 odst. 1, z působnosti konsolidace,
+>
+> - a) nemá-li takové vynětí vliv na účinnost dohledu nad ovládanou úvěrovou institucí nebo skupinou,
+>
+> - b) pokud finanční holdingová osoba nebo smíšená finanční holdingová osoba nemá žádné jiné akciové expozice než akciovou expozici v ovládané úvěrové instituci nebo v ovládající finanční holdingové osobě nebo smíšené finanční holdingové osobě ovládající danou úvěrovou instituci a
+>
+> - c) pokud finanční holdingová osoba nebo smíšená finanční holdingová osoba výrazně nevyužívá pákového efektu a nemá expozice, které nesouvisejí s jejím majetkovým podílem v ovládané úvěrové instituci nebo v ovládající finanční holdingové osobě nebo smíšené finanční holdingové osobě ovládající danou úvěrovou instituci.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 29
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9b3712a8127bbed7d4ee -->
 
 ### § 30 — Soustavné plnění povinností osob podléhajících povinnosti schválení a pravomoci České národní banky
 
@@ -1287,6 +2326,60 @@ Schválení i výjimka vyžadují soustavné plnění podmínek. ČNB průběžn
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=f75ecbf8c24705f98f54 generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 30 — Soustavné plnění povinností osob podléhajících povinnosti schválení a pravomoci České národní banky
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> (1) Je-li Česká národní banka orgánem určeným k výkonu dohledu na konsolidovaném základě, sleduje, zda jsou soustavně dodržovány podmínky podle § 28 odst. 4 a § 29 odst. 2.
+>
+> (2) Česká národní banka je oprávněna vyžádat si od osoby podle § 27 odst. 1 informace potřebné k soustavnému sledování organizačního uspořádání skupiny a dodržování podmínek podle § 28 odst. 4 a § 29 odst. 2. Osoba podle § 27 odst. 1 je povinna vyžádané informace bez zbytečného odkladu poskytnout České národní bance.
+>
+> (3) V případě neplnění podmínky podle § 28 odst. 4 nebo § 29 odst. 2 oznámí osoba podle § 27 odst. 1 tuto skutečnost České národní bance bez zbytečného odkladu.
+>
+> (4) Osoba, která přestala být osobou podle § 27 odst. 1, oznámí tuto skutečnost bez zbytečného odkladu České národní bance.
+>
+> (5) Informace získané v souvislosti s výkonem dohledu na konsolidovaném základě podle odstavce 2, [[#§ 3|3]] nebo [[#§ 4|4]] sdělí Česká národní banka příslušnému orgánu dohledu z členského státu, v němž má evropská finanční holdingová osoba nebo evropská smíšená finanční holdingová osoba sídlo.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 28, § 29, § 27, § 3, § 4
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f75ecbf8c24705f98f54 -->
+
 ### § 30a — Průběžný přezkum plnění povinnosti získat schválení
 
 > **§ 30a**
@@ -1338,6 +2431,54 @@ Ustanovení ukládá ČNB nejméně jednou ročně ověřit, zda ovládané inst
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=ed60c538c82bfe85cf57 generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 30a — Průběžný přezkum plnění povinnosti získat schválení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka nejméně jednou ročně přezkoumá, zda ovládaná banka nebo spořitelní a úvěrní družstvo, osoba žádající o udělení licence podle [[#§ 4|§ 4]] nebo osoba určená podle § 29 odst. 2 písm. c) řádně identifikovala všechny osoby splňující kritéria, na jejichž základě je lze považovat za tuzemskou finanční holdingovou osobu, tuzemskou smíšenou finanční holdingovou osobu, evropskou finanční holdingovou osobu nebo evropskou smíšenou finanční holdingovou osobu.
+>
+> (2) Při provádění přezkumu podle odstavce 1 Česká národní banka úzce spolupracuje s příslušnými orgány dohledu jiných členských států, má-li ovládající osoba banky, spořitelního a úvěrního družstva, osoby žádající o udělení licence podle [[#§ 4|§ 4]] nebo osoby určené podle § 29 odst. 2 písm. c) sídlo v jiném členském státě.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 4, § 29
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ed60c538c82bfe85cf57 -->
+
 ### § 30b — Seznam schválených finančních holdingových osob a smíšených finančních holdingových osob
 
 > **§ 30b**
@@ -1388,6 +2529,54 @@ Zákon ukládá ČNB veřejně přístupný **registr schválených holdingovýc
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o schválení dle § 28 a o výjimce dle § 29, určení anchor entity, aktuální znění zveřejněného seznamu, doklady o jeho aktualizaci.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=f9e72b07c4bf5b1c74ff generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 30b — Seznam schválených finančních holdingových osob a smíšených finančních holdingových osob
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka způsobem umožňujícím dálkový přístup zveřejní a každoročně aktualizuje seznam finančních holdingových osob a smíšených finančních holdingových osob, které byly schváleny podle § 27 odst. 1 nebo obdržely výjimku z povinnosti schválení podle [[#§ 29|§ 29]].
+>
+> (2) Česká národní banka v seznamu podle odstavce 1 uvede u finančních holdingových osob a smíšených finančních holdingových osob, které obdržely výjimku z povinnosti schválení podle [[#§ 29|§ 29]], rovněž osobu určenou podle § 29 odst. 2 písm. c).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 27, § 29
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f9e72b07c4bf5b1c74ff -->
 
 ### § 31 — Ukládání opatření a opatření k nápravě osobám podléhajícím povinnosti schválení
 
@@ -1466,6 +2655,72 @@ Ustanovení dává ČNB dvě paralelní sady opatření vůči holdingové osob�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=a72b71d254caddccaaab generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 31 — Ukládání opatření a opatření k nápravě osobám podléhajícím povinnosti schválení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> (1) Zjistí-li Česká národní banka při výkonu dohledu na konsolidovaném základě, že podmínky podle § 28 odst. 4 nejsou splněny, může uložit osobě schválené podle [[#§ 28|§ 28]] k zajištění nebo případně obnovení kontinuity a integrity konsolidovaného dohledu a k zajištění plnění požadavků na konsolidovaném základě stanovených v tomto zákoně, právním předpise jej provádějícím, v rozhodnutí nebo opatření obecné povahy vydaným podle tohoto zákona, v nařízení Evropského parlamentu a Rady (EU) č. [[575/2013|575/2013]] nebo v jiném přímo použitelném předpisu Evropské unie opatření spočívající zejména v
+>
+> - a) pozastavení výkonu hlasovacích práv spojených s podíly v ovládaných institucích,
+>
+> - b) uložení povinnosti převést svoje podíly v jí ovládaných institucích na své akcionáře nebo společníky,
+>
+> - c) omezení nebo zakázání rozdělení kapitálu nebo úrokové platby akcionářům nebo společníkům,
+>
+> - d) uložení povinnosti snížit výši svého podílu v instituci nebo jiné osobě působící na finančním trhu nebo povinnosti převést svůj podíl v této osobě na jinou osobu,
+>
+> - e) uložení povinnosti předložit plán zajišťující neprodlené obnovení souladu s tímto zákonem, právním předpisem jej provádějícím, rozhodnutím nebo opatřením obecné povahy vydaným podle tohoto zákona nebo nařízením Evropského parlamentu a Rady (EU) č. [[575/2013|575/2013]] nebo jiným přímo použitelným předpisem Evropské unie.
+>
+> (2) Zjistí-li Česká národní banka při výkonu dohledu na konsolidovaném základě, že podmínky podle § 28 odst. 4 nejsou splněny, může k zajištění nebo obnovení kontinuity a integrity konsolidovaného dohledu a k zajištění plnění požadavků na konsolidovaném základě stanovených v tomto zákoně, právním předpise jej provádějícím, v rozhodnutí nebo opatření obecné povahy vydaným podle tohoto zákona, v nařízení Evropského parlamentu a Rady (EU) č. [[575/2013|575/2013]] nebo v jiném přímo použitelném předpisu Evropské unie uložit opatření spočívající v dočasném označení jiné finanční holdingové osoby, smíšené finanční holdingové osoby nebo instituce ve skupině určené jako odpovědné za zajištění plnění požadavků na konsolidovaném základě stanovených v tomto zákoně, právním předpise jej provádějícím, v rozhodnutí nebo opatření obecné povahy vydaným podle tohoto zákona, v nařízení Evropského parlamentu a Rady (EU) č. [[575/2013|575/2013]] nebo v jiném přímo použitelném předpisu Evropské unie.
+>
+> (3) Česká národní banka může rovněž uložit opatření podle odstavců 1 a [[#§ 2|2]], pokud osoba podle § 27 odst. 1 bez zbytečného odkladu nepodá žádost podle § 28 odst. 1 a zároveň nebyla schválena žádost podle § 29 odst. 1.
+>
+> (4) Při ukládání opatření podle odstavce 1, [[#§ 2|2]] nebo [[#§ 3|3]] smíšené finanční holdingové osobě podle § 27 odst. 1 zohlední Česká národní banka zejména dopady na finanční konglomerát.
+>
+> (5) Při ukládání opatření podle odstavce 1, [[#§ 2|2]] nebo [[#§ 3|3]] se [[#§ 26aa|§ 26aa]] použije obdobně. Ustanovení [[#§ 26ab|§ 26ab]] se nepoužije.
+>
+> (6) Česká národní banka může rovněž uložit osobě podle § 27 odst. 1 opatření k nápravě podle § 26 odst. 1 až 4 a [[#§ 9|9.]]
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 28, § 2, § 27, § 29, § 3, § 26aa, § 26ab, § 26, § 9
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a72b71d254caddccaaab -->
+
 ### § 32 — Koordinovaná rozhodnutí příslušných orgánů dohledu a souhlas koordinátora
 
 > **§ 32**
@@ -1536,6 +2791,70 @@ Rozhodování o přeshraničních holdingových osobách (schválení, výjimka,
 **Typicky rozhodné důkazy / podklady:** žádost a posouzení podmínek ČNB, doklad o sídle holdingové osoby, korespondence s příslušným orgánem druhého státu, doklady o běhu dvouměsíční lhůty, případný souhlas/nesouhlas koordinátora konglomerátu, podání k EBA/EIOPA.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=7ff05e0cf9fdedc3fbe0 generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 32 — Koordinovaná rozhodnutí příslušných orgánů dohledu a souhlas koordinátora
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> (1) Je-li Česká národní banka orgánem určeným k výkonu dohledu na konsolidovaném základě a má-li osoba podle § 27 odst. 1 sídlo v jiném členském státě, Česká národní banka spolupracuje a konzultuje s příslušným orgánem dohledu v tomto členském státě za účelem rozhodnutí o
+>
+> - a) žádosti o schválení podle [[#§ 28|§ 28]],
+>
+> - b) žádosti o výjimku z povinnosti schválení podle [[#§ 29|§ 29]],
+>
+> - c) vynětí z působnosti konsolidace podle [[#§ 29a|§ 29a]], nebo
+>
+> - d) opatřeních podle § 31 odst. 1, [[#§ 2|2]] nebo [[#§ 3|3.]]
+>
+> (2) V rámci spolupráce s příslušným orgánem dohledu podle odstavce 1 je Česká národní banka povinna provést posouzení podmínek podle § 28 odst. 4, § 29 odst. 2 nebo [[#§ 29a|§ 29a]] nebo předpokladů pro uložení opatření podle § 31 odst. 1, [[#§ 2|2]] nebo [[#§ 3|3]], předat výsledky tohoto posouzení příslušnému orgánu dohledu a dále postupovat tak, aby po dohodě s příslušným orgánem dohledu rozhodla do 2 měsíců od předání výsledků posouzení; odstavce 5 a [[#§ 6|6]] tím nejsou dotčeny.
+>
+> (3) Nedojde-li k dohodě mezi Českou národní bankou a příslušným orgánem dohledu podle odstavce 2, Česká národní banka postoupí věc podle přímo použitelného předpisu Evropské unie upravujícího dohled nad finančním trhem v oblasti bankovnictví19) Evropskému orgánu pro bankovnictví nejpozději do 2 měsíců od předání posouzení podle odstavce 2 nebo do vydání rozhodnutí.
+>
+> (4) Není-li Česká národní banka určeným orgánem k výkonu dohledu na konsolidovaném základě a osoba podle § 27 odst. 1 má sídlo v České republice, Česká národní banka vyvíjí úsilí k tomu, aby bylo dosaženo dohody mezi ní a příslušným orgánem určeným k výkonu dohledu na konsolidovaném základě pro účely vydání rozhodnutí. Osoba podle § 27 odst. 1 je povinna plnit povinnosti uložené rozhodnutím vydaným po dohodě s Českou národní bankou příslušným orgánem jiného členského státu určeným k výkonu dohledu na konsolidovaném základě. Odstavce 1 až 3 se použijí přiměřeně.
+>
+> (5) Není-li Česká národní banka v případě evropské smíšené finanční holdingové osoby koordinátorem podle zákona upravujícího doplňkový dohled nad finančními konglomeráty, je pro účely rozhodnutí o vyhovění žádosti podle § 28 odst. 1 a § 29 odst. 2 nebo rozhodnutí o uložení opatření podle § 31 odst. 1, [[#§ 2|2]] nebo [[#§ 3|3]] vyžadován souhlas zahraničního koordinátora.
+>
+> (6) Nedá-li zahraniční koordinátor souhlas podle odstavce 5, požádá Česká národní banka o urovnání sporu příslušný evropský orgán dohledu, a to Evropský orgán pro bankovnictví nebo Evropský orgán pro pojišťovnictví a zaměstnanecké penzijní pojištění31). Rozhodnutím přijatým podle tohoto odstavce nejsou dotčeny povinnosti podle zákona upravujícího doplňkový dohled nad finančními konglomeráty nebo zákona upravujícího činnost pojišťoven.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 27, § 28, § 29, § 29a, § 31, § 2, § 3, § 6
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7ff05e0cf9fdedc3fbe0 -->
 
 ## Část desátá — Odnětí licence nebo souhlasu
 
@@ -1631,6 +2950,70 @@ Kromě licence zákon opravňuje ČNB odejmout i **souhlasy** udělené podle z�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=3c592d5878d3923c1570 generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 34
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> (1) Při přetrvávání závažných nedostatků v činnosti banky anebo při úpadku banky Česká národní banka licenci odejme.
+>
+> (2) Licence může být dále odňata, jestliže
+>
+> - a) banka nezahájila činnost do 12 měsíců ode dne udělení licence nebo jestliže po dobu 6 měsíců nepřijímá vklady od veřejnosti nebo neposkytuje úvěry,
+>
+> - b) v činnosti banky byl zjištěn nedostatek v činnosti, který by současně mohl naplnit znaky přestupku podle § 36e odst. 2 písm. a), d), f) až i) a k) až m), § 36e odst. 3, § 36e odst. 4 písm. c), § 36e odst. 5 písm. l), § 36f odst. 1 písm. b) nebo c) nebo § 36f odst. 2 písm. f) nebo g),
+>
+> - c) žadatel v žádosti o licenci uvedl nepravdivé údaje nebo zamlčel podstatné údaje nezbytné pro posouzení žádosti o udělení licence,
+>
+> - d) proti bance bylo vydáno pravomocné rozhodnutí pro závažné porušení [[zákona upravujícího opatření proti legalizaci výnosů z trestné činnosti a financování terorismu|zákona upravujícího opatření proti legalizaci výnosů z trestné činnosti a financování terorismu]],
+>
+> - e) banka nesplňuje požadavky stanovené v části třetí, čtvrté nebo šesté nařízení Evropského parlamentu a Rady (EU) č. 575/2013, s výjimkou požadavků stanovených v čl. 92a a 92b tohoto nařízení, nebo nesplňuje požadavky stanovené na základě § 26 odst. 2 písm. a) bodě 1 nebo v § 26 odst. 2 písm. c) nebo již není schopna plnit své závazky vůči věřitelům, nebo
+>
+> - f) jsou splněny podmínky podle [[§ 78 odst. 1 písm. a)|§ 78 odst. 1 písm. a)]] a [[b)|b)]] [[zákona č. 374/2015 Sb., o ozdravných postupech a řešení krize na finančním trhu|zákona č. 374/2015 Sb., o ozdravných postupech a řešení krize na finančním trhu]], ve znění pozdějších předpisů, a řešení krize banky podle [[zákona upravujícího ozdravné postupy a řešení krize na finančním trhu|zákona upravujícího ozdravné postupy a řešení krize na finančním trhu]] není ve veřejném zájmu.
+>
+> (3) Česká národní banka odejme licenci, jestliže zjistí, že celkový kapitálový poměr banky na individuálním základě je menší než jedna třetina celkového kapitálového poměru podle čl. 92 odst. 1 písm. c) nařízení Evropského parlamentu a Rady (EU) č. 575/2013. Česká národní banka nemusí v tomto případě licenci odejmout, jde-li o banku, vůči které bylo uplatněno opatření k řešení krize podle [[zákona upravujícího ozdravné postupy a řešení krize na finančním trhu|zákona upravujícího ozdravné postupy a řešení krize na finančním trhu]].
+>
+> (4) Česká národní banka může odejmout souhlas udělený podle tohoto zákona, jestliže byl souhlas udělen na základě nepravdivých údajů, žadatel v žádosti o udělení souhlasu zamlčel podstatné údaje nezbytné pro posouzení této žádosti nebo jestliže došlo k závažné změně ve skutečnosti, na jejímž základě byl souhlas udělen.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 36e, § 36f, § 26, § 78
+
+##### Souvisící předpisy
+
+- zákon č. 374/2015 Sb. (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3c592d5878d3923c1570 -->
+
 ### § 34a — Odnětí licence pobočce zahraniční banky z jiného než členského státu
 
 > **§ 34a**
@@ -1702,6 +3085,70 @@ Kromě licence zákon opravňuje ČNB odejmout i **souhlasy** udělené podle z�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=c3903a3231029a9c4923 generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 34a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> (1) Při přetrvávání závažných nedostatků v činnosti zahraniční banky z jiného než členského státu ve vztahu k její pobočce, anebo při úpadku zahraniční banky z jiného než členského státu Česká národní banka zahraniční bance z jiného než členského státu licenci udělenou pro její pobočku odejme.
+>
+> (2) Česká národní banka dále zahraniční bance z jiného než členského státu licenci udělenou pro její pobočku odejme, jestliže
+>
+> - a) nejsou splněny podmínky pro její udělení podle § 4f odst. 2, nebo
+>
+> - b) hlavní osoba nebo její skupina nesplňují obezřetnostní požadavky, které se na ně použijí podle právních předpisů jiného než členského státu, nebo má-li Česká národní banka důvodné podezření, že tyto požadavky nesplňují nebo je poruší v následujících 12 měsících.
+>
+> (3) Česká národní banka může zahraniční bance z jiného než členského státu licenci udělenou pro její pobočku odejmout, pokud zahraniční banka z jiného než členského státu
+>
+> - a) nezahájila v České republice činnost do 12 měsíců ode dne udělení licence, nebo ji v České republice nevykonává po dobu 6 měsíců,
+>
+> - b) není schopna plnit své závazky vůči věřitelům, zejména vůči vkladatelům, nebo
+>
+> - c) se dopustí přestupku podle § 36h odst. 4.
+>
+> (4) Česká národní banka může dále zahraniční bance z jiného než členského státu licenci udělenou pro její pobočku odejmout, pokud má důvodné podezření, že v souvislosti s pobočkou zahraniční banky z jiného než členského státu, hlavní osobou nebo skupinou, jíž je pobočka zahraniční banky z jiného než členského státu součástí, dochází nebo došlo k legalizaci výnosů z trestné činnosti nebo financování terorismu, pokusu o ně, nebo existuje významné riziko, že k takovému jednání nebo pokusu o něj dojde. Česká národní banka toto podezření konzultuje s Finančním analytickým úřadem nebo s orgánem dohledu jiného členského státu odpovědným za dohled v oblasti opatření proti legalizaci výnosů z trestné činnosti a financování terorismu.
+>
+> (5) Zahraniční banka z jiného než členského státu bez zbytečného odkladu České národní bance oznámí porušení obezřetnostních požadavků, které se na ni, nebo na skupinu, jejíž je součástí, v jiném než členském státu použijí, nebo hrozí-li, že tyto požadavky v průběhu následujících 12 měsíců poruší.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 4f, § 36h
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c3903a3231029a9c4923 -->
+
 ### § 35 — Zveřejnění a oznámení rozhodnutí o odnětí licence
 
 > **§ 35**
@@ -1754,6 +3201,56 @@ Ustanovení realizuje veřejnost a přeshraniční oznámení rozhodnutí o odn�
 **Typicky rozhodné důkazy / podklady:** pravomocné rozhodnutí o odnětí licence, evidence zahraničních poboček banky, identifikace příslušných zahraničních orgánů dohledu, doklady o provedeném zveřejnění a o odeslání oznámení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=1633f9542909a8ecfdff generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 35
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> (1) Pravomocné rozhodnutí o odnětí licence Česká národní banka zveřejní způsobem umožňujícím dálkový přístup.
+>
+> (2) O pravomocném rozhodnutí o odnětí licence informuje Česká národní banka orgán bankovního dohledu státu, ve kterém má banka pobočku.
+>
+> (3) Pravomocné rozhodnutí o odnětí licence udělené zahraniční bance z jiného než členského státu pro její pobočku doručí Česká národní banka této pobočce a informuje o něm orgán bankovního dohledu země sídla zahraniční banky.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1633f9542909a8ecfdff -->
 
 ### § 35a — Vykonatelnost soudního rozsudku zrušujícího rozhodnutí o odnětí licence
 
@@ -1813,6 +3310,58 @@ Výjimka (odst. 2) nastupuje, je-li žalobě přiznán odkladný účinek soudem
 **Typicky rozhodné důkazy / podklady:** rozsudek krajského soudu zrušující rozhodnutí o odnětí licence, usnesení o (ne)přiznání odkladného účinku žalobě, doklady o běhu kasační lhůty a o podání kasační stížnosti, případné rozhodnutí NSS.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=5db881e5b5dde0798a0f generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 35a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> (1) Rozsudek, jímž soud zrušil rozhodnutí České národní banky o odnětí licence, je vykonatelný
+>
+> - a) marným uplynutím lhůty pro podání kasační stížnosti, nebo
+>
+> - b) právní mocí rozhodnutí, jímž byla kasační stížnost proti tomuto rozsudku odmítnuta, zamítnuta nebo řízení o ní zastaveno.
+>
+> (2) Ustanovení odstavce 1 se nepoužije, pokud byl žalobě proti rozhodnutí České národní banky o odnětí licence přiznán odkladný účinek.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5db881e5b5dde0798a0f -->
 
 ## Část jedenáctá — Likvidace banky
 
@@ -1906,3 +3455,66 @@ Náklady likvidace se hradí primárně z majetkové podstaty banky. Klíčovým
 **Typicky rozhodné důkazy / podklady:** pravomocné rozhodnutí o odnětí licence, návrh ČNB soudu, doklady o (ne)existenci zvláštního vztahu kandidáta k bance a o auditorské minulosti, účetní výkazy a doklady likvidace, smlouvy o sporných (neplatných) právních jednáních, podklady k odměně a hotovým výdajům likvidátora.
 
 ---
+
+<!-- LEGAL-REVISION:BEGIN id=1c015aef6642468d59f1 generator=2026-07-17.4 source_sha256=228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450 -->
+#### Revizní doplnění k § 36
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/21-1992 Zákon o bankách.md`; identifikátor verze: `SB-1992-00021_2026-01-11`; SHA-256: `228f252b15966842a44af1a892efb8e2738c7f218e5598952b6e2355cc68a450`.
+
+##### Znění ustanovení
+
+> (1) Zrušuje-li se banka s likvidací nebo zrušuje-li se výmaz banky z obchodního rejstříku, pouze Česká národní banka může podat návrh na
+>
+> - a) jmenování likvidátora,
+>
+> - b) odvolání likvidátora a jmenování nového likvidátora,
+>
+> - c) zrušení akciové společnosti, byla-li bance odňata licence.
+>
+> (2) Soud rozhodne o návrhu České národní banky podle odstavce 1 bez jednání a rozhodnutí vyhlásí vyvěšením jeho písemného vyhotovení bez odůvodnění na úřední desce soudu do 24 hodin od obdržení návrhu. Vyvěšením rozhodnutí nastávají právní účinky uvedené ve výroku a tím je výrok závazný pro každého; den vyhlášení se na písemném vyhotovení poznamená. Odvolání proti rozhodnutí nemá odkladný účinek.
+>
+> (3) Likvidátorem nesmí být osoba, která má nebo měla zvláštní vztah k bance, která je nebo v posledních 5 letech byla auditorem banky nebo se jakýmkoli způsobem na auditu v bance podílela.
+>
+> (4) Fyzické osoby, které se při likvidaci banky seznámily s údaji, na které se vztahovalo bankovní tajemství, jsou povinny zachovávat mlčenlivost podle [[#§ 39|§ 39]] tohoto zákona obdobně.
+>
+> (5) Likvidátor předkládá České národní bance a Garančnímu systému bez zbytečného odkladu účetní výkazy a doklady zpracovávané v průběhu likvidace v souladu s občanským zákoníkem a se zákonem upravujícím právní poměry obchodních společností a družstev, a na písemné vyžádání České národní banky a Garančního systému další podklady nezbytné k posouzení činnosti likvidátora a průběhu likvidace.
+>
+> (6) Likvidátor je povinen vymáhat vydání plnění z neplatných právních jednání (§ 12 odst. 2).
+>
+> (7) Náklady spojené s výkonem činnosti likvidátora jsou hrazeny z majetku banky. Nepostačuje-li její majetek na výplatu odměny likvidátora a náhradu jeho hotových výdajů, uhradí je stát, kterému tím vznikne pohledávka za bankou ve výši vyplacených částek. Odměnu a způsob její výplaty určuje likvidátorovi Česká národní banka. Pravidla pro stanovení a výplatu náhrady hotových výdajů a odměny likvidátora a jejich maximální výši hrazenou státem stanoví Česká národní banka vyhláškou.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 39, § 12
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1c015aef6642468d59f1 -->
